@@ -1,0 +1,151 @@
+respuesta,fecha,sede,plataforma,edad_rango,nps,facilidad,comentario
+R-001,2026-09-01,Almagro,Web,30-44,9,3,Estaría bueno que el recordatorio llegue por WhatsApp
+R-002,2026-09-01,Caballito,Web,60-74,7,4,"Excelente, ojalá estuviera en todas las sedes"
+R-003,2026-09-01,Almagro,Android,45-59,8,5,"Muy fácil pedir turno, en dos minutos lo tenía"
+R-004,2026-09-01,Almagro,Android,60-74,6,1,Me la instaló mi nieta pero sigo llamando
+R-005,2026-09-01,Almagro,Web,60-74,9,5,La uso para toda la familia
+R-006,2026-09-01,Almagro,Android,18-29,6,3,"Está bien, pero tardé en encontrar la especialidad"
+R-007,2026-09-02,Flores,Android,18-29,9,4,Me encanta no tener que llamar
+R-008,2026-09-02,Flores,Android,18-29,9,4,Agreguen WhatsApp para los recordatorios
+R-009,2026-09-02,Almagro,iOS,30-44,10,5,Me encanta no tener que llamar
+R-010,2026-09-03,Flores,Web,45-59,10,5,"Excelente, ojalá estuviera en todas las sedes"
+R-011,2026-09-03,Almagro,iOS,60-74,10,5,Pude elegir el horario que me quedaba bien
+R-012,2026-09-04,Flores,iOS,18-29,7,3,"Bien, aunque la letra es chica"
+R-013,2026-09-04,Caballito,Web,30-44,9,4,Estaría bueno que el recordatorio llegue por WhatsApp
+R-014,2026-09-04,Almagro,Android,45-59,7,3,"Está bien, pero tardé en encontrar la especialidad"
+R-015,2026-09-04,Caballito,Android,30-44,9,4,Me encanta no tener que llamar
+R-016,2026-09-05,Almagro,iOS,45-59,10,5,
+R-017,2026-09-05,Caballito,iOS,30-44,9,4,"Simple, sin vueltas"
+R-018,2026-09-05,Almagro,Android,30-44,9,5,"Excelente, ojalá estuviera en todas las sedes"
+R-019,2026-09-05,Caballito,Android,30-44,7,5,Me encanta no tener que llamar
+R-020,2026-09-05,Almagro,Android,30-44,9,5,
+R-021,2026-09-05,Caballito,Web,45-59,8,4,"Está bien, pero tardé en encontrar la especialidad"
+R-022,2026-09-05,Almagro,iOS,18-29,9,5,Me encanta no tener que llamar
+R-023,2026-09-07,Flores,Web,30-44,9,4,Muy cómodo el recordatorio por mail
+R-024,2026-09-07,Flores,Android,18-29,7,4,"Bien, aunque la letra es chica"
+R-025,2026-09-08,Almagro,iOS,45-59,7,4,
+R-026,2026-09-08,Caballito,iOS,60-74,6,2,La letra es muy chica para mí
+R-027,2026-09-08,Flores,Android,30-44,10,5,Mucho mejor que esperar en el teléfono
+R-028,2026-09-08,Caballito,Web,18-29,7,3,Me gustaría ver el coseguro antes de confirmar
+R-029,2026-09-08,Caballito,Web,18-29,9,4,
+R-030,2026-09-09,Almagro,Android,18-29,7,4,No aparecen todos los profesionales
+R-031,2026-09-10,Almagro,Android,45-59,9,5,"Excelente, ojalá estuviera en todas las sedes"
+R-032,2026-09-10,Almagro,iOS,45-59,10,5,Me encanta no tener que llamar
+R-033,2026-09-10,Caballito,Web,30-44,9,4,Muy cómodo el recordatorio por mail
+R-034,2026-09-11,Caballito,Android,60-74,7,5,La uso para toda la familia
+R-035,2026-09-11,Caballito,Android,60-74,10,5,"Simple, sin vueltas"
+R-036,2026-09-11,Caballito,iOS,30-44,9,5,"Simple, sin vueltas"
+R-037,2026-09-11,Flores,Android,30-44,7,3,No aparecen todos los profesionales
+R-038,2026-09-11,Flores,iOS,45-59,6,3,No aparecen todos los profesionales
+R-039,2026-09-11,Flores,iOS,75 o más,9,5,Pude elegir el horario que me quedaba bien
+R-040,2026-09-12,Flores,Android,30-44,6,3,Estaría bueno que el recordatorio llegue por WhatsApp
+R-041,2026-09-14,Caballito,iOS,30-44,8,5,Pude elegir el horario que me quedaba bien
+R-042,2026-09-14,Caballito,iOS,60-74,8,5,La uso para toda la familia
+R-043,2026-09-14,Almagro,iOS,18-29,7,4,"Excelente, ojalá estuviera en todas las sedes"
+R-044,2026-09-14,Caballito,iOS,18-29,9,4,Pude elegir el horario que me quedaba bien
+R-045,2026-09-14,Flores,Android,30-44,8,3,No aparecen todos los profesionales
+R-046,2026-09-14,Almagro,Android,30-44,9,5,Mucho mejor que esperar en el teléfono
+R-047,2026-09-14,Almagro,iOS,45-59,7,5,
+R-048,2026-09-15,Flores,iOS,60-74,8,5,La uso para toda la familia
+R-049,2026-09-15,Caballito,Android,45-59,7,5,Agreguen WhatsApp para los recordatorios
+R-050,2026-09-16,Flores,iOS,60-74,7,1,"Prefiero llamar por teléfono, con la app me pierdo"
+R-051,2026-09-16,Caballito,Android,30-44,10,5,Mucho mejor que esperar en el teléfono
+R-052,2026-09-16,Almagro,Android,60-74,10,5,La uso para toda la familia
+R-053,2026-09-16,Almagro,Web,30-44,10,4,Muy cómodo el recordatorio por mail
+R-054,2026-09-17,Caballito,Web,45-59,10,4,Mucho mejor que esperar en el teléfono
+R-055,2026-09-17,Caballito,iOS,30-44,8,4,Mucho mejor que esperar en el teléfono
+R-056,2026-09-18,Caballito,iOS,45-59,8,5,Rápido y claro
+R-057,2026-09-18,Almagro,Web,45-59,10,4,"Simple, sin vueltas"
+R-058,2026-09-19,Almagro,Web,18-29,10,5,La uso para toda la familia
+R-059,2026-09-21,Almagro,iOS,45-59,10,4,"Excelente, ojalá estuviera en todas las sedes"
+R-060,2026-09-21,Caballito,iOS,30-44,7,3,Al principio me costó registrarme
+R-061,2026-09-22,Flores,Web,75 o más,5,3,Para mí es más fácil hablar con la recepcionista
+R-062,2026-09-22,Caballito,Android,60-74,6,1,La letra es muy chica para mí
+R-063,2026-09-22,Caballito,Web,18-29,10,5,Rápido y claro
+R-064,2026-09-22,Flores,iOS,30-44,9,3,Agreguen WhatsApp para los recordatorios
+R-065,2026-09-22,Flores,iOS,45-59,8,3,"Bien, aunque la letra es chica"
+R-066,2026-09-22,Caballito,Web,45-59,6,4,No aparecen todos los profesionales
+R-067,2026-09-23,Flores,iOS,45-59,10,5,Me encanta no tener que llamar
+R-068,2026-09-23,Caballito,Web,30-44,8,3,"Está bien, pero tardé en encontrar la especialidad"
+R-069,2026-09-23,Caballito,iOS,45-59,8,3,No aparecen todos los profesionales
+R-070,2026-09-23,Flores,iOS,60-74,10,5,Muy cómodo el recordatorio por mail
+R-071,2026-09-23,Caballito,iOS,45-59,10,4,La uso para toda la familia
+R-072,2026-09-24,Caballito,Android,30-44,7,3,"Está bien, pero tardé en encontrar la especialidad"
+R-073,2026-09-24,Flores,iOS,60-74,4,1,Me la instaló mi nieta pero sigo llamando
+R-074,2026-09-24,Flores,iOS,75 o más,9,5,
+R-075,2026-09-24,Flores,Android,18-29,9,3,Estaría bueno que el recordatorio llegue por WhatsApp
+R-076,2026-09-25,Caballito,Android,45-59,7,3,"Prefiero que me avisen por WhatsApp, el mail no lo miro"
+R-077,2026-09-25,Flores,Android,18-29,6,4,Al principio me costó registrarme
+R-078,2026-09-25,Caballito,iOS,30-44,10,5,Me encanta no tener que llamar
+R-079,2026-09-25,Caballito,iOS,30-44,7,4,"Prefiero que me avisen por WhatsApp, el mail no lo miro"
+R-080,2026-09-26,Flores,iOS,18-29,10,4,Muy cómodo el recordatorio por mail
+R-081,2026-09-26,Flores,iOS,45-59,7,4,
+R-082,2026-09-26,Almagro,Android,30-44,9,4,"Prefiero que me avisen por WhatsApp, el mail no lo miro"
+R-083,2026-09-26,Flores,Android,75 o más,10,5,Me encanta no tener que llamar
+R-084,2026-09-26,Almagro,Web,18-29,6,3,Me gustaría ver el coseguro antes de confirmar
+R-085,2026-09-26,Caballito,Android,30-44,8,4,"Está bien, pero tardé en encontrar la especialidad"
+R-086,2026-09-28,Caballito,Android,60-74,5,3,Me la instaló mi nieta pero sigo llamando
+R-087,2026-09-28,Flores,Android,75 o más,5,3,Para mí es más fácil hablar con la recepcionista
+R-088,2026-09-29,Almagro,Android,30-44,6,3,"Bien, aunque la letra es chica"
+R-089,2026-09-29,Caballito,iOS,45-59,10,5,Me encanta no tener que llamar
+R-090,2026-09-30,Caballito,iOS,75 o más,6,2,"Prefiero llamar por teléfono, con la app me pierdo"
+R-091,2026-09-30,Caballito,iOS,30-44,6,4,No aparecen todos los profesionales
+R-092,2026-09-30,Flores,iOS,18-29,7,4,No aparecen todos los profesionales
+R-093,2026-09-30,Caballito,iOS,30-44,9,5,La uso para toda la familia
+R-094,2026-09-30,Almagro,Android,30-44,9,4,
+R-095,2026-09-30,Almagro,iOS,45-59,8,5,
+R-096,2026-10-01,Flores,Android,60-74,10,5,"Excelente, ojalá estuviera en todas las sedes"
+R-097,2026-10-01,Flores,iOS,75 o más,9,4,Me encanta no tener que llamar
+R-098,2026-10-01,Flores,Web,45-59,10,4,
+R-099,2026-10-02,Flores,Web,45-59,8,3,"Está bien, pero tardé en encontrar la especialidad"
+R-100,2026-10-02,Caballito,iOS,45-59,9,5,Me encanta no tener que llamar
+R-101,2026-10-02,Caballito,iOS,45-59,10,5,"Excelente, ojalá estuviera en todas las sedes"
+R-102,2026-10-03,Flores,Web,18-29,7,3,Al principio me costó registrarme
+R-103,2026-10-03,Almagro,Android,60-74,9,5,"Simple, sin vueltas"
+R-104,2026-10-03,Flores,iOS,45-59,7,4,
+R-105,2026-10-03,Caballito,Android,60-74,4,3,"Prefiero llamar por teléfono, con la app me pierdo"
+R-106,2026-10-03,Caballito,iOS,60-74,6,3,La letra es muy chica para mí
+R-107,2026-10-05,Almagro,Android,45-59,7,4,Mucho mejor que esperar en el teléfono
+R-108,2026-10-06,Flores,Web,30-44,9,5,
+R-109,2026-10-06,Almagro,iOS,18-29,9,4,Rápido y claro
+R-110,2026-10-06,Caballito,iOS,18-29,7,5,"Excelente, ojalá estuviera en todas las sedes"
+R-111,2026-10-06,Caballito,iOS,30-44,7,5,"Muy fácil pedir turno, en dos minutos lo tenía"
+R-112,2026-10-07,Caballito,iOS,45-59,8,3,"Está bien, pero tardé en encontrar la especialidad"
+R-113,2026-10-07,Flores,Android,30-44,3,3,Cambié el turno y me quedaron dos
+R-114,2026-10-07,Flores,Android,30-44,6,3,"Bien, aunque la letra es chica"
+R-115,2026-10-09,Caballito,iOS,45-59,6,4,No me llegó el recordatorio
+R-116,2026-10-10,Caballito,Android,30-44,10,5,Me encanta no tener que llamar
+R-117,2026-10-10,Caballito,Android,18-29,7,4,"Bien, aunque la letra es chica"
+R-118,2026-10-10,Flores,iOS,75 o más,7,1,Para mí es más fácil hablar con la recepcionista
+R-119,2026-10-12,Flores,Web,18-29,9,4,"Prefiero que me avisen por WhatsApp, el mail no lo miro"
+R-120,2026-10-12,Caballito,Web,60-74,10,5,Muy cómodo el recordatorio por mail
+R-121,2026-10-12,Caballito,Android,18-29,9,4,Me encanta no tener que llamar
+R-122,2026-10-12,Almagro,iOS,60-74,4,2,Para mí es más fácil hablar con la recepcionista
+R-123,2026-10-12,Flores,Android,75 o más,7,2,La letra es muy chica para mí
+R-124,2026-10-12,Flores,iOS,45-59,10,5,La uso para toda la familia
+R-125,2026-10-13,Flores,iOS,45-59,6,4,Me gustaría ver el coseguro antes de confirmar
+R-126,2026-10-13,Flores,Android,45-59,9,3,Estaría bueno que el recordatorio llegue por WhatsApp
+R-127,2026-10-13,Caballito,iOS,45-59,9,4,"Excelente, ojalá estuviera en todas las sedes"
+R-128,2026-10-14,Caballito,Android,45-59,7,3,Estaría bueno que el recordatorio llegue por WhatsApp
+R-129,2026-10-14,Flores,Android,45-59,8,5,Muy cómodo el recordatorio por mail
+R-130,2026-10-14,Caballito,iOS,30-44,10,4,"Excelente, ojalá estuviera en todas las sedes"
+R-131,2026-10-15,Almagro,iOS,18-29,7,3,Me gustaría ver el coseguro antes de confirmar
+R-132,2026-10-15,Caballito,iOS,30-44,10,5,"Simple, sin vueltas"
+R-133,2026-10-16,Flores,Android,30-44,7,4,Al principio me costó registrarme
+R-134,2026-10-16,Caballito,Web,60-74,7,5,Rápido y claro
+R-135,2026-10-16,Caballito,iOS,60-74,4,3,Para mí es más fácil hablar con la recepcionista
+R-136,2026-10-17,Flores,iOS,75 o más,4,1,"En el iPhone no se puede confirmar, muy mal"
+R-137,2026-10-17,Flores,iOS,45-59,0,1,"En el iPhone no se puede confirmar, muy mal"
+R-138,2026-10-17,Almagro,iOS,45-59,3,1,No pude confirmar el turno desde el iPhone
+R-139,2026-10-17,Caballito,Android,30-44,7,5,Pude elegir el horario que me quedaba bien
+R-140,2026-10-17,Caballito,iOS,60-74,10,5,"Simple, sin vueltas"
+R-141,2026-10-17,Caballito,Android,60-74,5,1,La letra es muy chica para mí
+R-142,2026-10-17,Almagro,Android,75 o más,10,5,Mucho mejor que esperar en el teléfono
+R-143,2026-10-17,Almagro,iOS,45-59,7,3,
+R-144,2026-10-17,Flores,iOS,30-44,9,4,Me encanta no tener que llamar
+R-145,2026-10-17,Caballito,iOS,45-59,7,3,"Prefiero que me avisen por WhatsApp, el mail no lo miro"
+R-146,2026-10-18,Caballito,iOS,45-59,3,2,"En el iPhone no se puede confirmar, muy mal"
+R-147,2026-10-18,Caballito,iOS,30-44,3,2,No pude confirmar el turno desde el iPhone
+R-148,2026-10-18,Caballito,iOS,45-59,4,1,"El botón Confirmar no anda en el iPhone, tuve que llamar"
+R-149,2026-10-18,Caballito,iOS,18-29,2,1,"En el iPhone no se puede confirmar, muy mal"
+R-150,2026-10-18,Almagro,iOS,30-44,4,1,"El botón Confirmar no anda en el iPhone, tuve que llamar"

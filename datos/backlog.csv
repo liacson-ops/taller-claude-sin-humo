@@ -1,0 +1,182 @@
+id,titulo,tipo,epica,puntos,estado,responsable,sprint,prioridad,creado,cerrado,etiquetas
+TY-101,Login con documento y contraseña,Historia,Login y marca,3,Hecho,Lucía Benítez,1,Media,2026-04-06,2026-04-21,
+TY-102,Reservar turno y bloquear el horario,Historia,Turnos,3,Hecho,Juan Paredes,3,Alta,2026-04-07,2026-05-13,
+TY-103,Wireframes del flujo de pedir turno,Tarea,Turnos,3,Hecho,Martín Ferro,2,Alta,2026-04-07,2026-04-29,
+TY-104,Logs centralizados y alertas básicas,Tarea,Infraestructura,3,Hecho,Juan Paredes,3,Alta,2026-04-08,2026-05-18,
+TY-105,Ambientes de desarrollo y staging en NubeAR,Tarea,Infraestructura,8,Hecho,Juan Paredes,1,Media,2026-04-09,2026-04-15,
+TY-106,Casos de prueba de pedir turno,Tarea,Calidad,5,Hecho,Sofía Andrade,3,Media,2026-04-09,2026-05-13,
+TY-107,Elegir framework móvil multiplataforma,Spike,Infraestructura,2,Hecho,Juan Paredes,1,Alta,2026-04-09,2026-04-21,
+TY-108,Guía de estilos inicial de la app,Tarea,Login y marca,2,Hecho,Martín Ferro,1,Media,2026-04-09,2026-04-23,
+TY-109,Configurar repositorio y pipeline de integración continua,Tarea,Infraestructura,2,Hecho,Juan Paredes,1,Media,2026-04-10,2026-04-20,
+TY-110,"Modelo de datos de turnos, sedes y profesionales",Historia,Turnos,3,Hecho,Juan Paredes,1,Alta,2026-04-10,2026-04-21,
+TY-111,Listado de sedes y especialidades,Historia,Turnos,3,Hecho,Juan Paredes,2,Media,2026-04-15,2026-05-05,
+TY-112,Plan de pruebas general,Tarea,Calidad,3,Hecho,Sofía Andrade,2,Media,2026-04-16,2026-05-01,
+TY-113,Registro de paciente nuevo,Historia,Login y marca,3,Hecho,Lucía Benítez,2,Alta,2026-04-17,2026-05-07,
+TY-114,API de agenda de profesionales,Historia,Turnos,5,Hecho,Juan Paredes,2,Alta,2026-04-21,2026-04-30,
+TY-115,Recuperar contraseña por mail,Historia,Login y marca,5,Hecho,Lucía Benítez,2,Media,2026-04-22,2026-05-04,
+TY-116,Buscar turnos por profesional,Historia,Turnos,2,Hecho,Lucía Benítez,3,Media,2026-04-23,2026-05-21,
+TY-117,Sincronización con la agenda de la clínica,Historia,Turnos,8,Hecho,Juan Paredes,4,Media,2026-04-23,2026-06-04,
+TY-118,Buscar turnos disponibles por especialidad,Historia,Turnos,5,Hecho,Juan Paredes,3,Baja,2026-04-24,2026-05-15,
+TY-119,Diseño del flujo de confirmación,Tarea,Confirmación,8,Hecho,Martín Ferro,4,Media,2026-04-24,2026-06-01,
+TY-120,Diseño de la pantalla de detalle del turno,Tarea,Turnos,8,Hecho,Martín Ferro,3,Media,2026-04-30,2026-05-22,
+TY-121,Encuesta corta después de la consulta,Historia,Calidad,3,Por hacer,,,Media,2026-05-04,,
+TY-122,Automatizar pruebas de regresión del login,Tarea,Calidad,1,Hecho,Sofía Andrade,4,Media,2026-05-06,2026-06-04,
+TY-123,Renovación automática de certificados SSL,Tarea,Infraestructura,2,Por hacer,,,Media,2026-05-07,,
+TY-124,Tablero de NPS para la clínica,Historia,Calidad,5,Por hacer,,,Baja,2026-05-07,,
+TY-125,Versión web responsive de pedir turno,Historia,Turnos,2,Hecho,Lucía Benítez,5,Media,2026-05-11,2026-06-18,
+TY-126,Cancelar turno desde la app,Historia,Turnos,5,Hecho,Lucía Benítez,4,Media,2026-05-12,2026-06-05,
+TY-127,Integración con obras sociales: formatos y padrones,Spike,Obra social,5,Hecho,Lucía Benítez,5,Alta,2026-05-12,2026-06-19,
+TY-128,Sumar las sedes Boedo y Villa Crespo,Historia,Turnos,1,Por hacer,Lucía Benítez,,Baja,2026-05-13,,
+TY-129,Ambiente de demo separado de staging,Tarea,Infraestructura,5,Por hacer,,,Alta,2026-05-14,,
+TY-130,Confirmar turno desde la app,Historia,Confirmación,2,Hecho,Juan Paredes,5,Baja,2026-05-14,2026-06-17,
+TY-131,Mis turnos: listado de próximos turnos,Historia,Turnos,2,Hecho,Lucía Benítez,4,Alta,2026-05-15,2026-05-28,
+TY-132,Pruebas de confirmación en Android,Tarea,Calidad,13,Hecho,Sofía Andrade,5,Media,2026-05-18,2026-06-15,
+TY-133,Sugerir un turno antes cuando alguien cancela,Historia,Reprogramación,5,Por hacer,,,Media,2026-05-18,,
+TY-134,Validar el número de afiliado con dígito verificador,Historia,Obra social,3,Por hacer,,,Media,2026-05-18,,
+TY-135,Avisar al paciente si el profesional reprograma,Historia,Reprogramación,3,Por hacer,,,Media,2026-05-19,,
+TY-136,Confirmar turno desde la web,Historia,Confirmación,5,Hecho,Lucía Benítez,6,Alta,2026-05-19,2026-06-25,
+TY-137,Integración con la historia clínica electrónica,Historia,Infraestructura,13,Fuera de alcance,,,Baja,2026-05-20,,
+TY-138,Buscar por síntoma en lugar de especialidad,Spike,Turnos,1,Por hacer,Juan Paredes,,Baja,2026-05-21,,
+TY-139,Cargar obra social y número de afiliado en el perfil,Historia,Obra social,1,Hecho,Lucía Benítez,5,Media,2026-05-21,2026-06-15,
+TY-140,Ingreso con huella o reconocimiento facial,Historia,Login y marca,2,Por hacer,,,Media,2026-05-21,,
+TY-141,Turnos para estudios por imágenes con preparación,Historia,Turnos,3,Por hacer,,,Baja,2026-05-21,,
+TY-142,Pruebas de carga del buscador de turnos,Tarea,Calidad,3,Hecho,Sofía Andrade,6,Media,2026-05-22,2026-06-26,
+TY-143,Sobreturnos autorizados por recepción,Historia,Turnos,5,Por hacer,,,Media,2026-05-26,,
+TY-144,"Estados del turno: pendiente, confirmado y cancelado",Historia,Confirmación,2,Hecho,Juan Paredes,5,Media,2026-05-27,2026-06-15,
+TY-145,Historial de cambios de cada turno para recepción,Historia,Reprogramación,5,Por hacer,Lucía Benítez,,Media,2026-05-28,,
+TY-146,Confirmar varios turnos a la vez,Historia,Confirmación,3,Por hacer,,,Baja,2026-06-01,,
+TY-147,Íconos y pantalla de bienvenida con la marca de la clínica,Tarea,Login y marca,2,Hecho,Martín Ferro,6,Media,2026-06-01,2026-06-29,
+TY-148,Mail de confirmación al reservar,Historia,Confirmación,5,Hecho,Juan Paredes,7,Alta,2026-06-02,2026-07-13,
+TY-149,Recordatorios de turnos de familiares a cargo,Historia,Recordatorios,1,Por hacer,,,Baja,2026-06-03,,
+TY-150,Prueba de restauración de copias de seguridad,Tarea,Infraestructura,5,Por hacer,Juan Paredes,,Alta,2026-06-09,,
+TY-151,Elegir el horario del recordatorio,Historia,Recordatorios,1,Por hacer,Juan Paredes,,Media,2026-06-10,,
+TY-152,Escalado automático de servidores en horario pico,Tarea,Infraestructura,3,Por hacer,,,Baja,2026-06-10,,
+TY-153,Videoconsulta con el profesional,Historia,Turnos,13,Fuera de alcance,,,Baja,2026-06-10,,pedido-cliente
+TY-154,Pruebas de regresión del cambio de horario,Tarea,Calidad,5,Por hacer,Sofía Andrade,,Alta,2026-06-11,,
+TY-155,Tutorial de primer uso,Historia,Login y marca,3,Por hacer,,,Baja,2026-06-11,,
+TY-156,Plantilla de mails transaccionales,Historia,Recordatorios,1,Hecho,Juan Paredes,7,Media,2026-06-12,2026-07-15,
+TY-157,Validar cobertura por especialidad con reglas locales,Historia,Obra social,5,Hecho,Lucía Benítez,6,Alta,2026-06-12,2026-06-30,
+TY-158,Avisar si el plan no cubre la especialidad,Historia,Obra social,5,Por hacer,,,Media,2026-06-15,,
+TY-159,Checklist de publicación en las tiendas,Tarea,Infraestructura,5,Hecho,Sofía Andrade,7,Media,2026-06-16,2026-07-14,
+TY-160,Mostrar el consultorio y el piso del turno,Historia,Turnos,5,Por hacer,,,Media,2026-06-17,,
+TY-161,Límite de reprogramaciones por turno,Historia,Reprogramación,3,Por hacer,,,Media,2026-06-18,,
+TY-162,Términos y condiciones y aviso de privacidad en la app,Historia,Login y marca,8,Hecho,Lucía Benítez,8,Alta,2026-06-18,2026-07-24,privacidad
+TY-163,Panel de recepción: turnos del día por sede,Historia,Turnos,2,Hecho,Juan Paredes,6,Media,2026-06-19,2026-06-24,
+TY-164,Recordatorio de controles anuales,Historia,Recordatorios,5,Por hacer,,,Baja,2026-06-23,,
+TY-165,El buscador muestra turnos en días feriados,Bug,Turnos,8,Hecho,Juan Paredes,6,Alta,2026-06-24,2026-06-25,
+TY-166,Liquidación mensual de prestaciones por obra social,Historia,Facturación,2,Por hacer,Juan Paredes,,Media,2026-06-24,,
+TY-167,Accesibilidad: tamaño de letra y contraste,Historia,Login y marca,2,Hecho,Martín Ferro,7,Alta,2026-06-26,2026-07-08,
+TY-168,Preferencias de notificación del paciente,Historia,Recordatorios,2,Hecho,Lucía Benítez,9,Alta,2026-06-29,2026-08-06,
+TY-169,Regresión completa antes del piloto,Tarea,Calidad,8,Hecho,Sofía Andrade,9,Media,2026-06-29,2026-08-10,
+TY-170,Comprobante de atención descargable,Historia,Facturación,2,Por hacer,,,Media,2026-06-30,,
+TY-171,Publicación interna en Google Play,Tarea,Infraestructura,1,Hecho,Lucía Benítez,8,Media,2026-06-30,2026-07-28,
+TY-172,Registro de accesos a datos de pacientes (auditoría),Historia,Infraestructura,3,Hecho,Juan Paredes,9,Alta,2026-07-01,2026-08-06,privacidad
+TY-173,Copias de seguridad automáticas de la base,Tarea,Infraestructura,3,Hecho,Juan Paredes,6,Alta,2026-07-02,2026-06-25,
+TY-174,Recordatorio por mail 24 h antes del turno,Historia,Recordatorios,1,Hecho,Juan Paredes,9,Alta,2026-07-03,2026-08-10,
+TY-175,Publicación de prueba en TestFlight,Tarea,Infraestructura,5,Hecho,Lucía Benítez,8,Alta,2026-07-06,2026-07-24,
+TY-176,Autorizaciones previas para estudios,Spike,Obra social,8,Por hacer,,,Media,2026-07-07,,
+TY-177,Reglas de la clínica para reprogramar turnos,Spike,Reprogramación,2,Hecho,Lucía Benítez,9,Alta,2026-07-07,2026-08-05,
+TY-178,Cifrado de datos sensibles en la base,Historia,Infraestructura,5,Hecho,Juan Paredes,9,Baja,2026-07-08,2026-08-10,privacidad
+TY-179,No se puede cancelar un turno del mismo día,Bug,Turnos,8,Hecho,Lucía Benítez,7,Alta,2026-07-08,2026-07-09,
+TY-180,Cambiar mail y teléfono desde el perfil,Historia,Login y marca,5,Por hacer,,,Media,2026-07-10,,
+TY-181,Pruebas exploratorias en iOS,Tarea,Calidad,3,Hecho,Sofía Andrade,8,Media,2026-07-13,2026-07-27,ios
+TY-182,Requisitos de facturación de la clínica,Spike,Facturación,8,Por hacer,Juan Paredes,,Alta,2026-07-13,,
+TY-183,Turnos para estudios de laboratorio,Historia,Turnos,2,Por hacer,Lucía Benítez,,Media,2026-07-13,,
+TY-184,Cartilla de profesionales por plan,Historia,Obra social,5,Por hacer,,,Media,2026-07-14,,
+TY-185,Reprogramar turno (versión 1),Historia,Reprogramación,5,Hecho,Lucía Benítez,10,Media,2026-07-15,2026-08-27,
+TY-186,Modo oscuro,Historia,Login y marca,2,Por hacer,Martín Ferro,,Baja,2026-07-20,,
+TY-187,Recordar qué documentación llevar al turno,Historia,Confirmación,5,Por hacer,Juan Paredes,,Baja,2026-07-20,,
+TY-188,Reprogramación masiva cuando falta un profesional,Historia,Reprogramación,5,Por hacer,,,Alta,2026-07-21,,
+TY-189,Reprogramar desde el mail del recordatorio,Historia,Reprogramación,8,Por hacer,Lucía Benítez,,Media,2026-07-21,,
+TY-190,Matriz de dispositivos soportados,Tarea,Calidad,2,Por hacer,,,Baja,2026-07-22,,
+TY-191,Mostrar demora estimada del día,Historia,Turnos,2,Por hacer,,,Baja,2026-07-22,,
+TY-192,Pago online de coseguros con tarjeta,Historia,Facturación,8,Fuera de alcance,,,Baja,2026-07-22,,
+TY-193,Preguntas frecuentes para pacientes,Tarea,Login y marca,2,Hecho,Martín Ferro,10,Media,2026-07-22,2026-08-20,
+TY-194,Botón para avisar que llego tarde,Historia,Confirmación,2,Por hacer,,,Media,2026-07-23,,
+TY-195,Consentimiento explícito para recibir notificaciones,Historia,Login y marca,2,Por hacer,,,Media,2026-07-23,,privacidad
+TY-196,Exportar los datos del paciente a pedido,Historia,Infraestructura,5,Por hacer,,,Media,2026-07-23,,privacidad
+TY-197,Pruebas automáticas del flujo de confirmación en iOS,Tarea,Calidad,1,Por hacer,,,Baja,2026-07-23,,
+TY-198,Diseño del flujo de reprogramación v1,Tarea,Reprogramación,8,Hecho,Martín Ferro,9,Alta,2026-07-27,2026-08-12,
+TY-199,Monitoreo de disponibilidad en producción,Tarea,Infraestructura,1,Hecho,Juan Paredes,10,Media,2026-07-27,2026-08-21,
+TY-200,Texto del recordatorio editable por la clínica,Historia,Recordatorios,2,Por hacer,Juan Paredes,,Baja,2026-07-27,,
+TY-201,Carga inicial de profesionales y agendas del piloto,Tarea,Turnos,3,Hecho,Lucía Benítez,11,Media,2026-07-28,2026-09-02,piloto
+TY-202,Cerrar sesión en todos los dispositivos,Historia,Login y marca,1,Por hacer,Martín Ferro,,Baja,2026-07-28,,
+TY-203,Liberar el turno si no se confirma 12 h antes,Historia,Confirmación,2,Por hacer,,,Media,2026-07-28,,
+TY-204,Notificaciones push en iOS y Android,Historia,Recordatorios,13,Hecho,Juan Paredes,10,Media,2026-07-29,2026-08-24,ios
+TY-205,Alertas de error separadas por plataforma,Tarea,Infraestructura,8,Por hacer,,,Alta,2026-07-30,,
+TY-206,Ajustes de textos según feedback de recepción,Tarea,Login y marca,3,Hecho,Martín Ferro,11,Media,2026-08-03,2026-09-08,piloto
+TY-207,Capacitación a la mesa de ayuda de la clínica,Tarea,Calidad,3,Hecho,Sofía Andrade,10,Media,2026-08-04,2026-08-26,
+TY-208,Chat con la recepción dentro de la app,Historia,Turnos,8,Fuera de alcance,,,Baja,2026-08-05,,pedido-cliente
+TY-209,Bloquear agenda por licencia del profesional,Historia,Turnos,2,Por hacer,,,Baja,2026-08-06,,
+TY-210,Regresión del piloto (semana 2),Tarea,Calidad,3,Hecho,Sofía Andrade,12,Alta,2026-08-12,2026-09-23,
+TY-211,Puesta en producción del piloto en 3 sedes,Tarea,Infraestructura,8,Hecho,Juan Paredes,11,Alta,2026-08-13,2026-09-02,piloto
+TY-212,Avisar a recepción cuando el paciente confirma tarde,Historia,Confirmación,2,Por hacer,,,Alta,2026-08-14,,
+TY-213,Lista de espera cuando no hay turnos,Historia,Turnos,5,Hecho,Lucía Benítez,12,Alta,2026-08-14,2026-09-22,
+TY-214,Compartir el turno con un familiar,Historia,Turnos,5,Por hacer,,,Media,2026-08-17,,
+TY-215,El mail de confirmación sale sin la dirección de la sede,Bug,Confirmación,2,Hecho,Juan Paredes,10,Alta,2026-08-19,2026-08-20,
+TY-216,Modo simple con letra grande para personas mayores,Historia,Login y marca,2,Por hacer,Lucía Benítez,,Baja,2026-08-21,,
+TY-217,Turnos para familiares a cargo,Historia,Turnos,3,Por hacer,,,Baja,2026-08-21,,
+TY-218,Indicar si el consultorio tiene acceso para sillas de ruedas,Historia,Turnos,5,Por hacer,Juan Paredes,,Media,2026-08-24,,
+TY-219,Mensajes de error más claros al pedir turno,Historia,Turnos,5,Hecho,Martín Ferro,12,Alta,2026-08-24,,
+TY-220,Tablero de métricas del piloto,Tarea,Calidad,3,Hecho,Juan Paredes,11,Alta,2026-08-24,2026-09-07,piloto
+TY-221,Confirmación en un toque desde el mail,Historia,Confirmación,3,Hecho,Juan Paredes,13,Alta,2026-08-25,2026-10-02,
+TY-222,Pruebas de accesibilidad con lector de pantalla,Tarea,Calidad,2,Por hacer,Sofía Andrade,,Media,2026-08-26,,
+TY-223,Actualizar librerías para iOS 26,Tarea,Infraestructura,1,Hecho,Juan Paredes,13,Alta,2026-08-27,2026-10-06,ios
+TY-224,Recordatorio push 2 h antes del turno,Historia,Recordatorios,3,Hecho,Juan Paredes,12,Media,2026-08-27,2026-09-18,
+TY-225,Historial de turnos pasados,Historia,Turnos,8,Hecho,Lucía Benítez,13,Media,2026-08-28,2026-10-09,
+TY-226,Mostrar el coseguro antes de confirmar,Historia,Obra social,2,Por hacer,,,Alta,2026-08-31,,
+TY-227,Pruebas de carga para 5 sedes,Tarea,Calidad,2,Por hacer,Sofía Andrade,,Media,2026-08-31,,
+TY-228,El login falla con documento escrito con puntos,Bug,Login y marca,2,Hecho,Lucía Benítez,11,Alta,2026-09-02,2026-09-07,piloto;produccion
+TY-229,Android 12 no muestra el calendario,Bug,Turnos,1,Hecho,Lucía Benítez,11,Alta,2026-09-03,2026-09-11,piloto;produccion
+TY-230,Segunda obra social: padrón y reglas,Spike,Obra social,3,Por hacer,,,Alta,2026-09-03,,
+TY-231,Turnos duplicados al tocar dos veces Reservar,Bug,Turnos,3,Hecho,Juan Paredes,11,Baja,2026-09-03,2026-09-10,piloto;produccion
+TY-232,Cupos reservados para pacientes de 75 años o más,Historia,Turnos,2,Por hacer,Lucía Benítez,,Media,2026-09-04,,
+TY-233,Agregar el turno al calendario del teléfono,Historia,Recordatorios,5,Por hacer,Juan Paredes,,Baja,2026-09-08,,
+TY-234,Mockups v2 de reprogramación con lista de horarios,Tarea,Reprogramación,2,Hecho,Martín Ferro,13,Baja,2026-09-09,2026-10-06,
+TY-235,Confirmación por SMS,Spike,Confirmación,5,Por hacer,Juan Paredes,,Media,2026-09-11,,
+TY-236,El mail de recordatorio muestra el profesional anterior tras reprogramar,Bug,Recordatorios,5,Por hacer,Juan Paredes,,Media,2026-09-11,,
+TY-237,Encuesta de satisfacción dentro de la app,Historia,Calidad,5,Hecho,Lucía Benítez,13,Baja,2026-09-11,2026-10-07,
+TY-238,Integración real con la obra social Salud Plena,Historia,Obra social,13,Bloqueado,Lucía Benítez,15,Alta,2026-09-14,,contractual;depende-credenciales
+TY-239,Recordatorio duplicado en turnos reprogramados,Bug,Recordatorios,3,Hecho,Juan Paredes,12,Media,2026-09-14,2026-09-16,produccion
+TY-240,La web no deja confirmar en Safari,Bug,Confirmación,8,Hecho,Lucía Benítez,12,Alta,2026-09-16,2026-09-21,produccion
+TY-241,Pantalla de ayuda con el teléfono de cada sede,Historia,Login y marca,3,Por hacer,,,Media,2026-09-16,,
+TY-242,Casos de prueba para iOS 26,Tarea,Calidad,2,Hecho,Sofía Andrade,13,Baja,2026-09-17,2026-10-07,ios
+TY-243,Filtrar por la sede más cercana,Historia,Turnos,8,Por hacer,,,Media,2026-09-17,,
+TY-244,La web no muestra el nombre del profesional en tablets,Bug,Turnos,3,Por hacer,Lucía Benítez,,Media,2026-09-18,,
+TY-245,Optimizar consultas del panel de recepción,Tarea,Infraestructura,5,Hecho,Juan Paredes,13,Baja,2026-09-18,2026-10-01,
+TY-246,Recordatorio por email 24hs antes del turno,Historia,Recordatorios,3,Por hacer,Juan Paredes,,Media,2026-09-22,,
+TY-247,Texto cortado en pantallas chicas de Android,Bug,Calidad,1,Por hacer,Sofía Andrade,15,Baja,2026-09-22,,mejoras-qa
+TY-248,Pantalla en blanco al pedir turno con conexión lenta,Bug,Turnos,1,Por hacer,Lucía Benítez,,Baja,2026-09-24,,
+TY-249,Exportar la agenda del día a PDF para recepción,Historia,Turnos,8,Por hacer,,,Media,2026-09-25,,
+TY-250,Credencial digital de la obra social,Historia,Obra social,2,Por hacer,Lucía Benítez,,Media,2026-09-28,,
+TY-251,La web muestra la hora en formato de 12 h,Bug,Turnos,2,Hecho,Lucía Benítez,13,Alta,2026-09-28,2026-10-06,produccion
+TY-252,El panel de recepción no ordena por hora en Almagro,Bug,Calidad,1,Por hacer,Sofía Andrade,15,Media,2026-09-29,,mejoras-qa
+TY-253,Nuevo flujo de reprogramación con lista de horarios,Historia,Reprogramación,8,Por hacer,Lucía Benítez,15,Media,2026-09-30,,diseño-martin
+TY-254,"En la web, el botón Volver pierde la búsqueda",Bug,Calidad,1,Por hacer,Sofía Andrade,15,Baja,2026-10-01,,mejoras-qa
+TY-255,Pantalla de confirmación con resumen del turno,Historia,Confirmación,3,Hecho,Juan Paredes,14,Alta,2026-10-01,2026-10-14,demo
+TY-256,Accesibilidad en el flujo de pedir turno,Historia,Turnos,2,Hecho,Martín Ferro,14,Media,2026-10-02,2026-10-13,demo
+TY-257,Casos de prueba del flujo de confirmación,Tarea,Calidad,2,Hecho,Sofía Andrade,14,Media,2026-10-05,2026-10-15,
+TY-258,Recordatorios con 1 h de diferencia por el horario de verano,Bug,Recordatorios,3,Por hacer,Juan Paredes,15,Alta,2026-10-05,,produccion
+TY-259,La foto de perfil no se actualiza en Android,Bug,Calidad,1,Por hacer,Sofía Andrade,15,Baja,2026-10-06,,mejoras-qa
+TY-260,Logo en alta resolución en la pantalla de login,Historia,Login y marca,2,Bloqueado,Martín Ferro,14,Media,2026-10-06,,demo;espera-cliente
+TY-261,Habilitar ambiente de QA para pruebas en dispositivos,Tarea,Infraestructura,1,Hecho,Juan Paredes,14,Media,2026-10-07,2026-10-16,
+TY-262,Plan de recuperación ante desastres,Tarea,Infraestructura,1,Por hacer,,,Alta,2026-10-07,,
+TY-263,Política de retención y borrado de datos de pacientes,Historia,Infraestructura,2,Por hacer,,,Baja,2026-10-07,,privacidad
+TY-264,Reprogramar un turno lo duplica,Bug,Reprogramación,5,Por hacer,Juan Paredes,15,Alta,2026-10-07,,produccion;urgente
+TY-265,Datos de prueba para la demo del 22/10,Tarea,Calidad,2,En curso,Sofía Andrade,14,Alta,2026-10-08,,demo
+TY-266,La notificación push llega sin sonido en iOS,Bug,Calidad,1,Por hacer,Sofía Andrade,15,Media,2026-10-08,,mejoras-qa;ios
+TY-267,Mockups v3 de reprogramación con lista de horarios,Tarea,Reprogramación,3,En revisión,Martín Ferro,14,Media,2026-10-09,,espera-feedback
+TY-268,Reducir el tiempo de carga de la app,Historia,Infraestructura,3,Por hacer,Juan Paredes,,Media,2026-10-09,,
+TY-269,Check-in en la sede con código QR,Historia,Confirmación,3,Por hacer,,,Media,2026-10-12,,
+TY-270,Mis turnos no muestra los turnos en lista de espera,Bug,Turnos,2,Por hacer,Lucía Benítez,,Baja,2026-10-12,,
+TY-271,El calendario no marca los feriados de noviembre,Bug,Turnos,5,Por hacer,Lucía Benítez,,Baja,2026-10-13,,
+TY-272,"Integración simulada con Salud Plena: afiliado activo, con deuda y sin cobertura",Historia,Obra social,5,Hecho,Lucía Benítez,14,Alta,2026-10-13,2026-10-16,demo;mock
+TY-273,Reporte de turnos facturables por obra social,Historia,Facturación,5,Por hacer,Juan Paredes,,Media,2026-10-13,,
+TY-274,Acompañar la demo al directorio con la integración simulada (jue 22/10),Tarea,Obra social,1,Por hacer,Lucía Benítez,14,Alta,2026-10-14,,demo
+TY-275,Documentar la integración simulada para la demo,Tarea,Obra social,2,En curso,Lucía Benítez,14,Alta,2026-10-15,,demo
+TY-276,Elegir profesional favorito,Historia,Turnos,3,Por hacer,,,Baja,2026-10-15,,
+TY-277,Recordatorios por WhatsApp,Historia,Recordatorios,8,Fuera de alcance,,,Media,2026-10-15,,pedido-cliente;requiere-aprobacion-meta
+TY-278,Resumen de privacidad de datos para la Dra. Ríos,Historia,Infraestructura,,Por hacer,Juan Paredes,14,Alta,2026-10-15,,demo;privacidad
+TY-279,Actualizar casos de prueba de reprogramación,Tarea,Calidad,2,Por hacer,Sofía Andrade,14,Media,2026-10-16,,
+TY-280,Módulo de facturación a obras sociales,Historia,Facturación,21,Por hacer,,,Media,2026-10-16,,pedido-cliente;presupuestar-despues-de-la-demo
+TY-281,El botón Confirmar no responde en iOS 26 (hotfix),Bug,Confirmación,3,En revisión,Juan Paredes,14,Alta,2026-10-17,,ios;produccion;incidente

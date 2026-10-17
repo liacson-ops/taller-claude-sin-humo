@@ -1,0 +1,301 @@
+nombre,apellido,email,telefono,provincia,fecha_alta,sede,plataforma,acepta_recordatorios
+Tomás,Toledo,tomas.toledo.37@outlook.com,11 5532-7291,CABA,2026-09-01,Caballito,Android,no
+Claudia,Mansilla,claudia.mansilla.18@hotmail.com,11 5630-8638,CABA,2026-09-01,Caballito,iOS,si
+Héctor,Ojeda,hector.ojeda.89@hotmail.com,11 5753-9327,CABA,2026-09-01,Caballito,Android,si
+Carmen,Aguirre,carmen.aguirre.25@yahoo.com.ar,11 5130-9694,CABA,2026-09-01,Caballito,Web,si
+Florencia,Arias,florencia.arias.98@outlook.com,11 5772-5567,Buenos Aires,2026-09-01,Almagro,Android,si
+Liliana,Luna,liliana.luna.64@gmail.com,11 5184-2628,CABA,2026-09-01,Caballito,iOS,no
+Pablo,Peralta,pablo.peralta.11@outlook.com,11 5103-2726,CABA,2026-09-01,Caballito,iOS,si
+Víctor,Molina,victor.molina.11@hotmail.com,11 5665-8648,CABA,2026-09-01,Caballito,Android,si
+Roberto,Ríos,roberto.rios.82@yahoo.com.ar,11 5901-8310,CABA,2026-09-01,Caballito,iOS,si
+Claudia,Bustos,claudia.bustos.38@hotmail.com,11 5349-8835,CABA,2026-09-01,Caballito,Web,si
+Diego,Herrera,diego.herrera.27@gmail.com,11 5833-5458,CABA,2026-09-01,Almagro,Android,si
+Laura,Escobar,laura.escobar.55@gmail.com,11 5863-4455,CABA,2026-09-01,Almagro,Web,no
+Roberto,Bravo,roberto.bravo.97@gmail.com,11 5132-4512,Buenos Aires,2026-09-01,Caballito,Web,si
+Daniel,Benítez,daniel.benitez.94@yahoo.com.ar,11 5256-5455,CABA,2026-09-01,Almagro,Android,si
+Patricia,Gutiérrez,patricia.gutierrez.89@hotmail.com,11 5731-4325,CABA,2026-09-02,Flores,iOS,no
+Roberto,Vega,roberto.vega.82@gmail.com,11 5949-5736,CABA,2026-09-02,Caballito,iOS,no
+Diego,Figueroa,diego.figueroa.42@gmail.com,11 5499-7189,CABA,2026-09-02,Flores,Web,si
+Teresa,Navarro,teresa.navarro.96@outlook.com,11 5482-6180,CABA,2026-09-02,Caballito,iOS,si
+Elena,Giménez,elena.gimenez.59@gmial.com,11 5444-1841,Buenos Aires,2026-09-02,Flores,iOS,no
+Camila,Cáceres,camila.caceres.20@hotmail.com,11 5992-3198,CABA,2026-09-02,Caballito,Android,no
+Marta,Méndez,marta.mendez.69@outlook.com,11 5513-0957,CABA,2026-09-03,Flores,Android,no
+Gabriela,Ferreyra,gabriela.ferreyra.76@gmail.com,11 5436-1097,Buenos Aires,2026-09-03,Caballito,iOS,si
+Hernán,Sánchez,hernan.sanchez.93@gmail.com,11 5148-6818,Buenos Aires,2026-09-03,Caballito,Android,si
+Tomás,Aguirre,tomas.aguirre.22@hotmail.com,11 5116-8359,CABA,2026-09-03,Almagro,iOS,si
+Pablo,Toledo,pablo.toledo.37@outlook.com,11 5675-2239,CABA,2026-09-03,Almagro,Android,si
+Leandro,Ojeda,leandro.ojeda.97@yahoo.com.ar,11 5959-2668,Buenos Aires,2026-09-03,Almagro,iOS,si
+Daniel,Maldonado,daniel.maldonado.77@hotmail.com,11 5618-9502,CABA,2026-09-03,Caballito,Web,si
+Graciela,Domínguez,graciela.dominguez.39@gmail.com,11 5541-6622,CABA,2026-09-03,Flores,Android,si
+Emilio,Villalba,emilio.villalba.55@gmail.com,11 5824-2295,CABA,2026-09-03,Caballito,Android,si
+Federico,Barrios,federico.barrios.33@yahoo.com.ar,11 5868-5717,Córdoba,2026-09-03,Caballito,Android,si
+Esteban,Villalba,esteban.villalba.13@hotmail.com,11 5657-2147,CABA,2026-09-03,Caballito,Android,si
+Silvia,Rojas,silvia.rojas.24@yahoo.com.ar,11 5318-4614,CABA,2026-09-03,Caballito,Android,si
+Hernán,Rojas,hernan.rojas.98@gmail.com,11 5282-2185,CABA,2026-09-03,Almagro,Android,si
+Gustavo,Aguirre,gustavo.aguirre.69@gmail.com,11 5834-9602,CABA,2026-09-03,Flores,Android,no
+Tomás,Navarro,tomas.navarro.43@gmail.com,11 5488-4764,Buenos Aires,2026-09-03,Caballito,iOS,si
+Julieta,Ávila,julieta.avila.73@gmail.com,11 5187-9560,CABA,2026-09-03,Almagro,iOS,si
+Graciela,Molina,graciela.molina.52@outlook.com,11 5166-6622,CABA,2026-09-04,Flores,iOS,si
+Celeste,Méndez,celeste.mendez.44@gmail.com,,CABA,2026-09-04,Caballito,Android,si
+Leandro,Ramírez,leandro.ramirez.14@gmail.com,11 5232-7687,CABA,2026-09-04,Almagro,Android,si
+Patricia,Campos,patricia.campos.81@gmail.com,11 5640-8571,CABA,2026-09-04,Caballito,Android,si
+Gabriela,Ríos,gabriela.rios.29@gmail.com,11 5286-7682,Buenos Aires,2026-09-04,Flores,Android,no
+Graciela,Medina,graciela.medina.29@outlook.com,11 5661-8056,CABA,2026-09-04,Flores,Android,si
+Valeria,Acosta,valeria.acosta.87@gmail.com,11 5710-8977,CABA,2026-09-04,Flores,Android,si
+Gabriela,Rivero,gabriela.rivero.65@yahoo.com.ar,11 5411-5564,Buenos Aires,2026-09-04,Almagro,Android,si
+Susana,Figueroa,susana.figueroa.78@yahoo.com.ar,11 5538-8239,CABA,2026-09-04,Almagro,Android,no
+Micaela,Medina,micaela.medina.68@outlook.com,11 5820-6710,CABA,2026-09-04,Caballito,Web,si
+Irene,Pereyra,irene.pereyra.82@hotmail.com,11 5635-7975,Buenos Aires,2026-09-04,Flores,Android,si
+Oscar,Álvarez,oscar.alvarez.52@gmail.com,11 5804-8475,CABA,2026-09-04,Caballito,iOS,si
+Beatriz,Toledo,beatriz.toledo.83@hotmail.com,11 5975-2418,CABA,2026-09-04,Flores,Web,si
+Lucía,Arias,lucia.arias.87@gmail.com,11 5458-5681,CABA,2026-09-05,Caballito,Android,si
+Federico,Bustos,federico.bustos.24@gmail.com,11 5673-9550,CABA,2026-09-05,Almagro,Android,si
+Ezequiel,Olmedo,ezequiel.olmedo.37@outlook.com,11 5850-4248,CABA,2026-09-05,Almagro,iOS,si
+Agustina,Ibarra,agustina.ibarra.63@outlook.com,11 5265-8708,Bs. As.,2026-09-05,Flores,Android,si
+Hugo,Díaz,hugo.diaz.52@yahoo.com.ar,11 5859-3743,CABA,2026-09-05,Caballito,Android,si
+Facundo,Bustos,facundo.bustos.67@gmail.com,11 5254-1236,CABA,2026-09-05,Flores,iOS,si
+Julián,Herrera,julian.herrera.85@gmail.com,11 5582-4225,Buenos Aires,2026-09-05,Caballito,Android,si
+Florencia,Morales,florencia.morales.93@yahoo.com.ar,11 5292-8058,CABA,2026-09-06,Flores,Android,si
+Norma,Vega,norma.vega.73@outlook.com,11 5974-2245,CABA,2026-09-06,Flores,Web,si
+Silvia,Medina,silvia.medina.15@gmail.com,11 5604-3924,CABA,2026-09-06,Flores,Android,si
+Ramón,Juárez,ramon.juarez.25@outlook.com,11 5294-7220,CABA,2026-09-06,Flores,Web,si
+Micaela,Rivero,micaela.rivero.94@gmail.com,11 5391-5425,CABA,2026-09-07,Caballito,Android,si
+Susana,Paz,susana.paz.92@yahoo.com.ar,11 5167-1138,CABA,2026-09-07,Flores,iOS,no
+Julián,Arias,julian.arias.84@yahoo.com.ar,11 5342-5136,CABA,2026-09-07,Flores,Android,si
+Oscar,Campos,oscar.campos.94@gmail.com,11 5388-2608,Buenos Aires,2026-09-07,Flores,iOS,no
+Leandro,Coronel,leandro.coronel.65@hotmial.com,11 5406-8426,CABA,2026-09-07,Almagro,Android,si
+Laura,Ávila,laura.avila.67@hotmail.com,11 5719-3928,CABA,2026-09-07,Flores,Web,si
+Matías,Fernández,matias.fernandez.10@hotmail.com,11 5520-1157,CABA,2026-09-07,Flores,Android,si
+Daniel,Ponce,daniel.ponce.70@outlook.com,11 5158-4149,Buenos Aires,2026-09-07,Caballito,Android,no
+Beatriz,Ruiz,beatriz.ruiz.53@gmail.com,11 5745-3033,Buenos Aires,2026-09-07,Caballito,iOS,si
+Irene,Rojas,irene.rojas.18@gmail.com,11 5709-1970,CABA,2026-09-07,Flores,Android,si
+Pablo,Gutiérrez,pablo.gutierrez.14@gmail.com,11 5348-3140,Buenos Aires,2026-02-30,Caballito,Android,si
+Paula,Vega,paula.vega.86@yahoo.com.ar,11 5731-9878,CABA,2026-09-07,Caballito,Android,si
+Alicia,Ojeda,alicia.ojeda.68@gmail.com,11 5666-6559,CABA,2026-09-08,Flores,Android,si
+Teresa,Correa,teresa.correa.78@gmail.com,11 5140-5172,CABA,2026-09-08,Almagro,Android,si
+Diego,Medina,diego.medina.93@gmail.com,11 5813-0113,CABA,2026-09-08,Flores,Web,si
+Romina,Cáceres,romina.caceres.85@gmail.com,11 5831-8314,CABA,2026-09-08,Caballito,Android,si
+Susana,Rivero,susana.rivero.11@hotmail.com,11 5854-1884,CABA,2026-09-08,Caballito,iOS,si
+Tomás,Carrizo,tomas.carrizo.29@gmail.com,11 5981-2876,CABA,2026-09-08,Almagro,Web,si
+Silvia,Juárez,silvia.juarez.70@gmail.com,11 5258-2971,CABA,2026-09-08,Caballito,Android,no
+Florencia,Giménez,florencia.gimenez.57@yahoo.com.ar,11 5688-5593,CABA,2026-09-08,Caballito,iOS,si
+Daniel,Méndez,daniel.mendez.62@hotmail.com,11 5768-3214,CABA,2026-09-08,Caballito,iOS,si
+Florencia,Campos,florencia.campos.70@hotmail.com,11 5911-9395,CABA,2026-09-08,,iOS,si
+Carmen,Peralta,carmen.peralta.26@gmail.com,11 5151-1263,Buenos Aires,2026-09-08,Flores,iOS,si
+Fernando,Pereyra,fernando.pereyra.61@hotmail.com,11 5333-0785,CABA,2026-09-08,Caballito,Android,si
+Hernán,Molina,hernan.molina.40@outlook.com,11 5102-4141,CABA,2026-09-08,Almagro,Android,si
+Ramón,Arias,ramon.arias.24@yahoo.com.ar,11 5153-8219,CABA,2026-09-09,Almagro,iOS,no
+Teresa,Juárez,teresa.juarez.27@yahoo.com.ar,11 5610-3557,Buenos Aires,2026-09-09,Caballito,Android,si
+Oscar,Núñez,oscar.nunez.36@outlook.com,11 5877-5919,CABA,2026-09-09,Flores,iOS,si
+Pablo,Correa,pablo.correa.16@outlok.com,11 5718-4026,CABA,2026-09-09,Almagro,iOS,si
+Pablo,Correa,pablo.correa.16@outlook.com,11 5718-4026,CABA,2026-09-09,Almagro,iOS,si
+Tomás,Paz,tomas.paz.16@yahoo.com.ar,11 5239-4580,CABA,2026-09-09,Caballito,iOS,si
+Federico,Lucero,federico.lucero.80@gmail.com,11 5934-1545,Buenos Aires,2026-09-09,Almagro,iOS,si
+Andrés,Olmedo,andres.olmedo.65@gmail.com,11 5702-1012,CABA,2026-09-09,Caballito,iOS,si
+Irene,Álvarez,irene.alvarez.17@gmail.com,11 5428-8514,CABA,2026-09-09,Flores,iOS,si
+Raúl,Peralta,raul.peralta.93@gmail.com,11 5650-0744,CABA,2026-09-10,Caballito,iOS,si
+Julián,Mansilla,julian.mansilla.12@gmail.com,11 5878-4851,CABA,2026-09-10,Almagro,iOS,si
+Norma,Gutiérrez,norma.gutierrez.59@gmail.com,11 5167-0844,CABA,2026-09-10,Flores,Android,si
+Josefina,Acosta,josefina.acosta.80@gmail.com,11 5921,CABA,2026-09-10,Flores,Web,si
+Nicolás,Campos,nicolas.campos.93@outlook.com,11 5921-8626,Buenos Aires,2026-09-11,Caballito,Android,si
+Celeste,Sánchez,celeste.sanchez.18@gmail.com,11 5863-6268,Buenos Aires,2026-09-11,Caballito,iOS,si
+Gabriela,Villalba,gabriela.villalba.85@gmail.com,11 5795-3779,CABA,2026-09-11,Caballito,Android,si
+Héctor,Ávila,hector.avila.25@outlook.com,11 5192-3630,CABA,2026-09-11,Flores,iOS,si
+Inés,Montes,ines.montes.42@gmail.com,11 5769-8352,CABA,2026-09-11,Flores,Android,no
+Elena,Suárez,elena.suarez.34@gmail.com,11 5353-6565,Buenos Aires,2026-09-11,Caballito,iOS,si
+Facundo,Ramírez,facundo.ramirez.23@outlook.com,11 5419-2488,Buenos Aires,2026-09-12,Caballito,Web,no
+Sofía,Maldonado,sofia.maldonado.72@hotmail.com,11 5943-5507,CABA,2026-09-13,Almagro,Web,si
+Rosa,Arias,rosa.arias.91@gmail.com,11 5272-5035,CABA,2026-09-13,Caballito,iOS,si
+Celeste,Moreno,celeste.moreno.43@hotmail.com,11 5397-5266,CABA,2026-09-13,Caballito,Android,si
+Pablo,Mansilla,pablo.mansilla.48@gmail.com,11 5237-9639,CABA,2026-09-13,Flores,Web,no
+Inés,Godoy,ines.godoy.32@gmail.com,11 5815-2208,Buenos Aires,2026-09-14,Caballito,Android,si
+Oscar,Torres,oscar.torres.24@yahoo.com.ar,11 5417-6776,CABA,2026-09-14,Flores,iOS,si
+Patricia,Vega,patricia.vega.48@gmail.com,11 5540-7316,Capital Federal,2026-09-14,Flores,Android,si
+Jorge,Navarro,jorge.navarro.74@outlook.com,11 5481-8007,CABA,2026-09-14,Almagro,Android,si
+Leandro,Morales,leandro.morales.61@gmail.com,11 5196-2417,CABA,2026-09-14,Caballito,iOS,si
+Graciela,Pereyra,graciela.pereyra.41@hotmail.com,11 5591-9907,Buenos Aires,2026-09-14,Flores,Android,si
+Liliana,Juárez,liliana.juarez.43@gmail.com,11 5618-4883,CABA,2026-09-14,Almagro,Android,si
+Teresa,Torres,teresa.torres.67@hotmail.com,11 5997-8288,CABA,2026-09-14,Caballito,Android,si
+Laura,Correa,laura.correa.21@gmail.com,11 5658-6759,CABA,2026-09-14,Flores,iOS,si
+Ana,Moreno,ana.moreno.90@gmail.com,11 5854-3962,CABA,2026-09-14,Caballito,Android,si
+Hugo,Vázquez,hugo.vazquez.34@hotmail.com,11 5667-5932,Buenos Aires,2026-09-14,Caballito,iOS,si
+Elena,Fernández,elena.fernandez.10@hotmail.com,11 5622-8562,CABA,2026-09-14,Flores,Web,si
+Florencia,Castro,florencia.castro.29@outlook.com,11 5216-9696,Buenos Aires,2026-09-14,Caballito,Web,si
+Gustavo,Figueroa,gustavo.figueroa.77@gmail..com,11 5589-7495,Buenos Aires,2026-09-14,Caballito,Android,no
+Rosa,Sosa,rosa.sosa.82@hotmail.com,11 5288-0883,Buenos Aires,2026-09-14,Almagro,Android,si
+Andrés,Juárez,andres.juarez.62@hotmail.com,11 5327-1176,CABA,2026-09-14,Almagro,iOS,si
+Mirta,Mansilla,mirta.mansilla.56@outlook.com,11 5770-4613,CABA,2026-09-14,Caballito,iOS,si
+Paula,Molina,paula.molina.14@gmail.com,11 5189-1048,CABA,2026-09-15,Almagro,Android,no
+Gonzalo,Domínguez,gonzalo.dominguez.97@yahoo.com.ar,11 5255-1601,CABA,2026-09-15,Flores,Android,si
+Teresa,Vázquez,teresa.vazquez.88@gmail.com,11 5458-4234,CABA,2026-09-15,Caballito,Web,no
+Raúl,Ledesma,raul.ledesma.32@hotmail.com,11 5594-6536,CABA,2026-09-15,Almagro,Web,si
+Camila,Paz,camila.paz.63@yahoo.com.ar,11 5293-6758,Buenos Aires,2026-09-15,Caballito,Web,si
+Sergio,Ramírez,sergio.ramirez.79@yahoo.com.ar,11 5923-5939,CABA,2026-09-15,Flores,Android,si
+Marta,Ortiz,marta.ortiz.88@outlook.com,11 5510-9157,CABA,2026-09-15,Caballito,Android,no
+Diego,Ponce,diego.ponce.30@gmail.com,11 5645-9360,CABA,2026-09-15,Almagro,Android,si
+Rosa,Gutiérrez,rosa.gutierrez.27@gmail.com,11 5772-6200,CABA,2026-09-15,Flores,Web,si
+ROSA,Montes,rosa.montes.80@gmail.com,11 5418-3642,CABA,2026-09-15,Caballito,iOS,si
+Tomás,Villalba,tomas.villalba.10@gmail.com,11 5846-4360,Buenos Aires,2026-09-15,Caballito,Web,si
+Julieta,Ruiz,julieta.ruiz.98@gmail.com,11 5395-1263,Buenos Aires,2026-09-15,Caballito,Android,si
+Teresa,Vega,teresa.vega.72@gmail.com,11 5997-5138,CABA,2026-09-15,Flores,iOS,si
+Rosa,Vega,rosa.vega.93@hotmail.com,11 5818-9778,CABA,2026-09-16,Flores,Web,si
+Leandro,Ávila,leandro.avila.26@hotmail.com,11 5447-8379,CABA,2026-09-16,Caballito,Android,no
+Norma,Ojeda,norma.ojeda.66@hotmail.com,11 5523-0996,CABA,2026-09-16,Caballito,Web,si
+Inés,Gutiérrez,ines.gutierrez.21@gmail.com,11 5399-9851,Buenos Aires,2026-09-16,Flores,iOS,si
+Claudia,Juárez,claudia.juarez.80@gmail.com,11 5377-3233,CABA,2026-09-16,Almagro,iOS,si
+Diego,Sánchez,diego.sanchez.85@gmail.com,11 5747-0220,CABA,2027-09-16,Almagro,Android,si
+Ezequiel,Moreno,ezequiel.moreno.78@outlook.com,11 5129-2376,CABA,2026-09-16,Caballito,Android,si
+Julián,Pérez,julian.perez.70@gmail.com,11 5556-2149,CABA,2026-09-16,Almagro,Android,si
+Florencia,Martínez,florencia.martinez.23@hotmail.com,11 5373-4000,CABA,2026-09-16,Almagro,Android,si
+Víctor,Vázquez,victor.vazquez.41@outlook.com,11 5146-6748,CABA,2026-09-16,Caballito,iOS,no
+Gabriela,Ponce,gabriela.ponce.39@yahoo.com.ar,11 5567-6459,CABA,2026-09-16,Caballito,iOS,si
+Norma,Castro,norma.castro.88@hotmail.com,11 5859-2065,CABA,2026-09-16,Flores,Web,si
+Gustavo,Carrizo,gustavo.carrizo.92@yahoo.com.ar,11 5411-7870,CABA,2026-09-16,Flores,iOS,si
+Graciela,Álvarez,graciela.alvarez.31@hotmail.com,11 5652-8537,CABA,2026-09-16,Flores,Android,si
+Martín,Montes,martin.montes.54@outlook.com,11 5958-5011,CABA,2026-09-16,Flores,iOS,no
+Esteban,Acosta,esteban.acosta.14@hotmail.com,11 5501-8835,CABA,2026-09-16,Almagro,iOS,si
+Beatriz,Lucero,beatriz.lucero.29@gmail.com,11 5935-5784,CABA,2026-09-16,Almagro,Android,si
+Mariana,Bustos,mariana.bustos.25@outlook.com,11 5111-5887,CABA,2026-09-16,Flores,iOS,si
+Ezequiel,Juárez,ezequiel.juarez.84@gmail.com,11 5305-0617,CABA,2026-09-17,Caballito,Web,si
+Adrián,Ruiz,adrian.ruiz.55@hotmail.com,11 5518-2678,Buenos Aires,2026-09-17,Flores,Android,si
+Sergio,Pereyra,sergio.pereyra.40@gmail.com,11 5286-4305,Buenos Aires,2026-09-17,Flores,iOS,si
+Martín,Escobar,martin.escobar.94@gmail.com,11 5920-6869,Buenos Aires,2026-09-17,Flores,iOS,si
+Graciela,Montes,graciela.montes.36@gmail.com,11 5938-6136,CABA,2026-09-17,Caballito,Web,si
+Laura,Ponce,laura.ponce.66@hotmail.com,11 5700-5523,CABA,2026-09-17,Almagro,iOS,si
+Graciela,Montes,graciela.montes.36@gmail.com,11 5938-6136,CABA,2026-09-17,Caballito,Web,si
+Mirta,Carrizo,mirta.carrizo.74@hotmail.com,11 5919-6780,CABA,2026-09-17,Flores,Android,si
+Ana,Peralta,ana.peralta.78@gmail.com,11 5101-8295,Buenos Aires,2026-09-18,Flores,Web,no
+Julieta,Correa,julieta.correa.48@gmail.com,11 5882-6879,CABA,2026-09-18,Flores,iOS,no
+Rosa,Villalba,rosa.villalba.25@gmail.com,11 5133-6459,CABA,2026-09-18,Flores,Android,si
+Ramón,Martínez,ramon.martinez.44@yahoo.com.ar,11 5332-3624,CABA,2026-09-18,Almagro,Android,si
+Noemí,Paz,noemi.paz.30@gmail.com,11 5960-9930,CABA,2026-09-18,Flores,Web,si
+Carolina,Ibarra,carolina.ibarra.16@gmail.com,11 5549-2689,CABA,2026-09-18,Caballito,Android,si
+Silvia,Bustos,silvia.bustos.83@outlook.com,11 5773-8218,Buenos Aires,2026-09-19,Almagro,iOS,si
+Hugo,Torres,hugo.torres.62@hotmail.com,11 5686-1763,CABA,2026-09-19,Caballito,Android,no
+Micaela,Peralta,micaela.peralta.77@gmail.com,11 5576-5003,CABA,2026-09-19,Caballito,Web,si
+Norma,Sánchez,norma.sanchez.60@outlook.com,11 5887-0661,CABA,2026-09-19,Almagro,Web,si
+Marta,Maldonado,marta.maldonado.87@gmail.com,11 5812-4541,CABA,2026-09-19,Almagro,iOS,si
+Nicolás,Domínguez,nicolas.dominguez.68@outlook.com,11 5265-5231,CABA,2026-09-20,Almagro,iOS,no
+Susana,Flores,susana.flores.78@gmail.com,11 5751-1690,Buenos Aires,2026-09-21,Almagro,iOS,si
+Nicolás,Molina,nicolas.molina.25@gmail.com,11 5891-4201,PBA,2026-09-21,Caballito,Android,no
+Raúl,Álvarez,raul.alvarez.10@gmail.com,11 5541-6019,CABA,2026-09-21,Almagro,iOS,si
+Romina,Navarro,romina.navarro.42@outlook.com,11 5502-7893,Buenos Aires,2026-09-21,Flores,Android,no
+Mariana,Sosa,mariana.sosa.24@gmail.com,11 5429-2639,Buenos Aires,2026-09-21,Flores,iOS,si
+Gabriela,Bravo,gabriela.bravo.92@gmail.com,11 5669-9686,CABA,2026-09-21,Flores,Web,si
+Laura,Maldonado,laura.maldonado.82@hotmail.com,11 5965-5887,CABA,2026-09-21,Caballito,Web,si
+Héctor,Castro,hector.castro.44@outlook.com,11 5209-3623,Buenos Aires,2026-09-21,Flores,iOS,si
+Tomás,Campos,tomas.campos.67@hotmail.com,11 5238-5569,CABA,2026-09-21,Flores,iOS,si
+Rubén,Domínguez,ruben.dominguez.28@gmail.com,11 5369-2391,Buenos Aires,2026-09-21,Caballito,Android,no
+Gonzalo,Escobar,gonzalo.escobar.10@gmail.com,11 5378-0821,CABA,2026-09-21,Flores,Web,si
+Irene,Vega,irene.vega.59@hotmail.com,11 5612-2936,CABA,2026-09-22,Flores,Android,si
+Elena,Vázquez,elena.vazquez.45@yahoo.com.ar,11 5835-6587,CABA,2026-09-22,Caballito,Android,si
+Hernán,Villalba,hernan.villalba.72@gmail.com,11 5977-8075,CABA,2026-09-22,Caballito,iOS,no
+Inés,Giménez,ines.gimenez.56gmail.com,11 5743-5933,CABA,2026-09-22,Almagro,Android,si
+Brenda,Mansilla,brenda.mansilla.40@gmail.com,11 5822-4561,Buenos Aires,2026-09-22,Caballito,iOS,si
+Noemí,Benítez,noemi.benitez.53@gmail.com,11 5480-1016,CABA,2026-09-22,Caballito,Web,si
+Víctor,Mansilla,victor.mansilla.10@gmail.com,11 5444-4717,Buenos Aires,2026-09-22,Caballito,iOS,si
+Norma,Sanchez,norma.sanchez.60@outlook.com,1158870661,CABA,2026-09-22,Almagro,Web,si
+Rubén,Cabrera,ruben.cabrera.33@hotmail.com,11 5474-7526,CABA,2026-09-23,Caballito,iOS,si
+Tomás,Acosta,tomas.acosta.43@gmail.com,11 5243-1608,CABA,2026-09-23,Almagro,Web,si
+Romina,Peralta,romina.peralta.70@hotmail.com,11 5555-5243,CABA,2026-09-23,Almagro,Android,no
+Graciela,Rivero,graciela.rivero.90@gmail.com,11 5401-5211,CABA,2026-09-23,Caballito,iOS,si
+Laura,Paz,laura.paz.62@outlook.com,11 5708-0099,Buenos Aires,2026-09-23,Caballito,Android,si
+Celeste,Morales,celeste.morales.46@gmail.com,11 5280-9742,Mendoza,2026-09-23,Almagro,iOS,si
+Ignacio,Ortiz,ignacio.ortiz.86@gmail.com,11 5304-9150,CABA,2026-09-24,Caballito,Android,si
+Daniel,Ávila,daniel.avila.56@hotmail.com,11 5516-9076,CABA,2026-09-24,Almagro,Web,si
+Fernando,Ponce,fernando.ponce.89@hotmail.com,11 5576-4102,Buenos Aires,2026-09-25,Flores,Android,si
+Emilio,Ponce,emilio.ponce.20@gmail.com,11 5433-7551,Buenos Aires,2026-09-25,Caballito,Web,si
+Ricardo,Ramírez,ricardo.ramirez.52@gmail.com,11 5830-7512,CABA,2026-09-25,Flores,Android,si
+Noemí,Ruiz,noemi.ruiz.81@hotmail.com,11 5611-8114,Buenos Aires,2026-09-25,Flores,iOS,si
+Rubén,Bravo,ruben.bravo.27@outlook.com,,Buenos Aires,2026-09-25,Caballito,Android,si
+Agustina,Gómez,agustina.gomez.41@outlook.com,11 5778-4069,Buenos Aires,2026-09-26,Almagro,iOS,si
+Lucía,Correa,lucia.correa.37@gmail.com,11 5242-4370,CABA,2026-09-26,Flores,Android,no
+Patricia,Ibarra,patricia.ibarra.36@gmail.com,11 5444-3476,CABA,2026-09-26,Caballito,Android,si
+Florencia,Sosa,florencia.sosa.77@yahoo.com.ar,11 5442-8829,Buenos Aires,2026-09-27,Caballito,Android,no
+Sofía,Quiroga,sofia.quiroga.15@gmail.com,11 5387-6134,CABA,2026-09-27,Caballito,Web,si
+Diego,Carrizo,diego.carrizo.32@yahoo.com.ar,11 5786-3098,CABA,2026-09-28,Almagro,Web,si
+Camila,Gutiérrez,camila.gutierrez.72@gmail.com,11 5506-7321,CABA,2026-09-28,Caballito,Android,si
+Mirta,Vega,mirta.vega.57@gmail.com,11 5143-5198,Buenos Aires,2026-09-28,Caballito,iOS,si
+Rubén,Cáceres,ruben.caceres.14@hotmail.com,11 5145-8782,CABA,2026-09-31,Almagro,Android,si
+Hugo,Bravo,hugo.bravo.28@gmail.com,11 5628-7111,CABA,2026-09-28,Almagro,iOS,si
+Sofía,Vega,sofia.vega.47@hotmail.com,11 5292-1879,CABA,2026-09-28,Flores,Web,si
+Matías,Álvarez,matias.alvarez.45@hotmail.com,11 5517-8897,CABA,2026-09-29,Almagro,iOS,si
+Raúl,Arias,raul.arias.93@outlook.com,11 5971-8004,CABA,2026-09-29,Caballito,Android,si
+Julián,campos,julian.campos.28@hotmail.com,11 5571-7971,CABA,2026-09-29,Caballito,Android,si
+Graciela,Romero,graciela.romero.27@hotmail.com,11 5776-5516,CABA,2026-09-29,Almagro,Android,no
+Pablo,Gómez,pablo.gomez.13@outlook.com,11 5450-6294,Buenos Aires,2026-09-29,Flores,iOS,si
+Paula,Vázquez,paula.vazquez.13@gmail.com,11 5927-8378,CABA,2026-09-30,Caballito,Android,si
+Fernando,Torres,fernando.torres.36@gmail.com,11 5477-1600,CABA,2026-09-30,Caballito,Android,si
+Gonzalo,Gómez,gonzalo.gomez.50@yahoo.com.ar,11 5513-2668,Buenos Aires,2026-09-30,Almagro,iOS,si
+Gonzalo,Carrizo,gonzalo.carrizo.99@gmail.com,11 5443-5144,CABA,2026-09-30,Caballito,Android,no
+Carolina,Sosa,carolina.sosa.49@gmail.com,11 5655-9224,Buenos Aires,2026-09-30,Almagro,Android,si
+Diego,Ojeda,diego.ojeda.57@yahoo.com.ar,11 5858-0272,CABA,2026-09-30,Flores,Android,si
+Teresa,Paz,teresa.paz.12@hotmail.com,11 5745-1036,CABA,2026-11-14,Caballito,Web,si
+Matías,Ortiz,matias.ortiz.62@gmail.com,11 5599-9191,Buenos Aires,2026-10-01,Caballito,iOS,si
+Paula,Núñez,paula.nunez.86@gmail.com,11 5432-6023,CABA,2026-10-01,Almagro,Android,no
+Víctor,Juárez,victor.juarez.47@outlook.com,11 5971-6285,CABA,2026-10-01,Flores,Android,si
+Rubén,Olmedo,ruben.olmedo.57@gmail.com,11 5324-9494,Buenos Aires,2026-10-01,Caballito,iOS,si
+Ricardo,Díaz,ricardo.diaz.24@gmail.com,11 5190-5359,Buenos Aires,2026-10-01,Caballito,Web,no
+Jorge,Ibarra,jorge.ibarra.77@hotmail.com,11 5854-1051,CABA,2026-10-01,Almagro,iOS,si
+Julieta,Escobar,julieta.escobar.65@outlook.com,11 5813-2748,CABA,2026-10-01,Flores,Android,si
+Mónica,Herrera,monica.herrera.95@outlook.com,11 5451-2506,CABA,2026-10-01,Almagro,Android,si
+Claudia,Rojas,claudia.rojas.29@yahoo.com.ar,11 5476-1126,Buenos Aires,2026-10-01,Almagro,iOS,si
+Graciela,Castro,graciela.castro.43@gmail.com,11 5690-2668,CABA,2026-10-01,Flores,iOS,si
+Josefina,Quiroga,josefina.quiroga.80@gmail.com,11 5107-1079,CABA,2026-10-02,Almagro,iOS,si
+Carolina,Ramírez,carolina.ramirez.79@outlook.com,11 5674-3119,CABA,2026-10-02,Caballito,Android,si
+Ricardo,Figueroa,ricardo.figueroa.17@hotmail.com,11 5610-8238,CABA,2026-10-02,Flores,iOS,si
+Andrés,Rivero,andres.rivero.12@gmail.com,11 5977-4419,CABA,2026-10-03,Caballito,Android,si
+Hernán,Olmedo,hernan.olmedo .10@outlook.com,11 5964-9278,CABA,2026-10-03,Caballito,Web,no
+Andrés,Arias,andres.arias.14@gmail.com,11 5633-9674,CABA,2026-10-04,Flores,iOS,si
+Fernando,Domínguez,fernando.dominguez.46@hotmail.com,11 5575-1862,CABA,2026-10-04,Almagro,iOS,si
+Leandro,Mansilla,leandro.mansilla.95@gmail.com,11 5975-5106,CABA,2026-10-04,Caballito,Android,si
+Diego,Benítez,diego.benitez.82@gmail.com,11 5288-7021,CABA,2026-10-05,Caballito,Android,si
+Marta,Correa,marta.correa.46@outlook.com,11 5573-7040,CABA,2026-10-05,Flores,Android,si
+Hernán,Flores,hernan.flores.23@hotmail.com,11 5638-1427,CABA,2026-10-05,Almagro,iOS,si
+Carolina,Rojas,carolina.rojas.60@gmail.com,11 5263-8745,CABA,2026-10-06,Almagro,Android,si
+Gonzalo,Godoy,gonzalo.godoy.44@gmail.com,11 5952-4774,CABA,2026-10-06,Almagro,Web,no
+Diego,Ortiz,diego.ortiz.61@gmail.com,11 5583-8412,CABA,2026-10-07,Flores,Web,si
+Julieta,Juárez,julieta.juarez.88@gmail.com,11 5345-4569,CABA,2026-10-07,Caballito,Web,si
+Brenda,Luna,brenda.luna.48@yahoo.com.ar,11 5920-1101,CABA,2026-10-07,Caballito,Android,si
+Patricia,Bustos,patricia.bustos.12@hotmail.com,11 5568-8157,CABA,2026-10-07,Caballito,iOS,si
+Alicia,Toledo,alicia.toledo.97@gmail.com,11 5701-2076,Buenos Aires,2026-10-07,,Android,si
+Tomás,Ruiz,tomas.ruiz.20@gmail.com,11 5659-8675,CABA,2026-10-07,Caballito,Web,si
+Diego,Quiroga,diego.quiroga.12@gmail.com,11 5577-8431,CABA,2026-10-08,Flores,Android,si
+Adrián,Domínguez,adrian.dominguez.65@outlook.com,11 5720-0645,CABA,2026-10-08,Caballito,Android,no
+Martín,Vázquez,martin.vazquez.85@gmail.com,11 5444-2037,CABA,2026-10-08,Almagro,Android,si
+Celeste,Arias,celeste.arias.94@yahoo.com.ar,11 5969-9129,CABA,2026-10-08,Almagro,Android,si
+Carmen,Gutiérrez,carmen.gutierrez.25@hotmail.com,11 5319-7203,Buenos Aires,2026-10-08,Caballito,iOS,si
+Susana,Ramírez,susana.ramirez.46@gmail.com,11 5959-2791,Buenos Aires,2026-10-09,Caballito,Android,si
+Adrián,Ojeda,adrian.ojeda.32@gmail.com,11 5221-8715,CABA,2026-10-09,Flores,Android,si
+Gabriela,Bustos,gabriela.bustos.76@gmail.com,11 5781-1080,Buenos Aires,2026-10-09,Flores,Android,si
+Celeste,Bravo,celeste.bravo.53@gmail.com,11 5638-4191,Buenos Aires,2026-10-09,Flores,Web,si
+Carolina,Campos,carolina.campos.38@gmail.com,11 5461-0631,CABA,2026-10-10,Almagro,Android,no
+Patricia,Moreno,patricia.moreno.25@yahoo.com.ar,11 5O26-7651,CABA,2026-10-10,Flores,iOS,no
+Andrés,Ríos,andres.rios.17@outlook.com,11 5784-2565,CABA,2026-10-11,Caballito,iOS,si
+Fernando,Aguirre,fernando.aguirre.63@gmail.com,11 5554-1599,CABA,2026-10-11,Caballito,Android,no
+Julieta,Pereyra,julieta.pereyra.93@outlook.com,11 5654-9043,CABA,2026-10-12,Caballito,Android,no
+Valeria,Morales,valeria.morales.78@hotmail.com,11 5169-2162,CABA,2026-10-12,Caballito,Android,si
+Noemí,Montes,noemi.montes.10@gmail.com,11 5972-1067,Buenos Aires,2026-10-12,Flores,Android,si
+Marta,Rojas,marta.rojas.48@gmail.com,11 5924-3898,Buenos Aires,2026-10-12,Flores,Android,si
+Ramón,Morales,ramon.morales.25@outlook.com,11 5870-7579,CABA,2026-10-12,Flores,Android,si
+Pablo,Zárate,pablo.zarate.60@gmail.com,11 5199-1704,CABA,2026-10-12,Flores,Android,no
+Pablo,Flores,pablo.flores.19@gmail.com,11 5463-4053,CABA,2026-10-13,Flores,Android,si
+Gabriela,Zárate,gabriela.zarate.97@gmail.com,11 5367-3394,CABA,2026-10-13,Caballito,Web,si
+Romina,Flores,romina.flores.80@gmail.com,11 5591-4685,Buenos Aires,2026-10-13,Caballito,Android,si
+Paula,Ledesma,paula.ledesma.91@hotmail.com,11 5834-5330,CABA,2026-10-13,Caballito,iOS,si
+Nicolás,Torres,nicolas.torres.75@outlook.com,11 5987-2794,CABA,2026-10-14,Almagro,Android,si
+Romina,Moreno,romina.moreno.26@outlook.com,11 5720-7534,Buenos Aires,2026-10-14,Flores,Android,si
+Oscar,Aguirre,oscar.aguirre.19@gmail.com,11 5294-7397,CABA,2026-10-14,Almagro,Web,si
+Ramón,Barrios,ramon.barrios.80@outlook.com,11 5814-3228,Buenos Aires,2026-10-14,Flores,Web,si
+Sofía,Ávila,sofia.avila.82@outlook.com,11 5685-0845,CABA,2026-10-14,Flores,Android,si
+Liliana,Gómez,liliana.gomez.44@outlook.com,11 5740-9729,CABA,2026-10-14,Caballito,Android,no
+Paula,Toledo,paula.toledo.85@yahoo.com.ar,11 5263-2624,Buenos Aires,2026-10-14,Flores,iOS,si
+Florencia,Carrizo,florencia.carrizo.91@gmail.com,11 5884-7056,CABA,2026-10-15,Flores,iOS,no
+Ezequiel,Castro,ezequiel.castro.53@gmail.com,11 5209-1491,CABA,2026-10-15,Almagro,iOS,si
+Federico,Pérez,federico.perez.88@outlook.com,11 5987-2323,CABA,2026-10-15,Caballito,Android,no
+Jorge,Aguirre,jorge.aguirre.30@yahoo.com.ar,11 5334-5339,Buenos Aires,2026-10-15,Caballito,Android,si
+Nicolás,Pérez,nicolas.perez.97@hotmail.com,11 5318-0372,CABA,2026-10-15,Almagro,Android,si
+Gabriela,Carrizo,gabriela.carrizo.94@yahoo.com.ar,11 5634-2330,Buenos Aires,2026-10-16,Flores,Android,si
+Beatriz,Ibarra,beatriz.ibarra.68@hotmail.com,11 5132-9369,Buenos Aires,2026-10-16,Caballito,iOS,si
+Patricia,Vázquez,patricia.vazquez.57@yahoo.com.ar,11 5354-0116,CABA,2026-10-16,Almagro,Android,no
+Carolina,Ponce,carolina.ponce.72@hotmail.com,11 5413-5774,Buenos Aires,2026-10-16,Flores,Android,si

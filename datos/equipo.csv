@@ -1,0 +1,7 @@
+persona,rol,empresa,dedicacion_pct,tarifa_hora_ars,horas_semanales,licencias
+Carla Méndez,Project manager,Nimbus Software,50,32000,20,2026-08-24 a 2026-08-28 (vacaciones)
+Juan Paredes,Tech lead / backend,Nimbus Software,100,38000,40,2026-07-20 a 2026-07-31 (vacaciones de invierno)
+Lucía Benítez,Desarrolladora (integraciones),Nimbus Software,100,30000,40,2026-10-22 a 2026-10-23 (licencia)
+Sofía Andrade,QA,Nimbus Software,80,24000,32,2026-07-13 a 2026-07-17 (vacaciones)
+Martín Ferro,UX/UI,Nimbus Software,60,28000,24,2026-07-27 a 2026-07-31 (vacaciones)
+Pedro Ruiz,Comercial,Nimbus Software,20,26000,8,

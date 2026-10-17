@@ -1,0 +1,16 @@
+sprint,inicio,fin,objetivo,capacidad_puntos,puntos_comprometidos,puntos_completados,puntos_agregados_en_curso,puntos_quitados_en_curso,bugs_abiertos_al_cierre,estado,nota
+1,2026-04-13,2026-04-24,"Arquitectura, ambientes y login básico",24,22,20,0,0,0,Cerrado,Arranque del proyecto
+2,2026-04-27,2026-05-08,Registro de pacientes y agenda de profesionales,24,24,22,2,0,0,Cerrado,Feriado 1/5
+3,2026-05-11,2026-05-22,Buscar y reservar turnos,28,28,26,1,0,0,Cerrado,
+4,2026-05-25,2026-06-05,Mis turnos y cancelación,26,26,24,0,0,1,Cerrado,Feriado 25/5
+5,2026-06-08,2026-06-19,Confirmar turno y perfil con obra social,26,27,25,2,0,0,Cerrado,Feriado 15/6
+6,2026-06-22,2026-07-03,Confirmación web y panel de recepción,30,29,28,1,0,0,Cerrado,
+7,2026-07-06,2026-07-17,Mails transaccionales y accesibilidad,24,24,21,3,0,0,Cerrado,Feriados 9 y 10/7; vacaciones de Sofía (13 al 17/7)
+8,2026-07-20,2026-07-31,Publicación en tiendas y privacidad,20,21,17,2,0,0,Cerrado,Vacaciones de invierno: Juan (20 al 31/7) y Martín (27 al 31/7)
+9,2026-08-03,2026-08-14,Recordatorios y seguridad de datos,30,30,29,0,0,0,Cerrado,
+10,2026-08-17,2026-08-28,Reprogramación v1 y preparación del piloto,27,28,26,2,0,0,Cerrado,Feriado 17/8; vacaciones de Carla (24 al 28/8)
+11,2026-08-31,2026-09-11,Lanzamiento del piloto en 3 sedes (1/9),28,30,23,6,0,3,Cerrado,Salida del piloto: bugs urgentes agregados en curso
+12,2026-09-14,2026-09-25,Estabilizar el piloto,28,27,27,3,0,4,Cerrado,
+13,2026-09-28,2026-10-09,"Historial, confirmación desde el mail e iOS 26",30,31,28,2,0,12,Cerrado,
+14,2026-10-12,2026-10-23,Demo al directorio (22/10) e integración con obra social,28,33,13,8,13,18,En curso,En curso. 13/10: la integración real (13 pts) pasa al Sprint 15 y se agrega la simulada (5 pts). 19/10: hotfix iOS (3 pts). Licencia de Lucía 22 y 23/10
+15,2026-10-26,2026-11-06,Integración real con Salud Plena y arreglos para producción,26,34,,0,0,,Planificado,Planificado: 34 pts candidatos contra 26 de capacidad. Se decide en la planning del jue 22/10 15:00

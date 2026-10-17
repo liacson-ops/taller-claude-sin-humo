@@ -1,0 +1,15 @@
+id,riesgo,probabilidad,impacto,responsable,mitigacion,estado,fecha_revision
+R-01,La integración real con Salud Plena llega el 6/11 y el contrato dice 30/10,4,5,Carla Méndez,Avisar formalmente a Ramiro y pedir aceptación por escrito; mostrar la integración simulada en la demo,Abierto,2026-10-20
+R-02,Las credenciales de prueba de Salud Plena tardan 10 a 15 días hábiles,5,4,Lucía Benítez,Pedido formal a través de Ramiro y seguimiento semanal,En seguimiento,2026-10-20
+R-03,El directorio pregunta por privacidad de datos de pacientes y no hay un resumen documentado,3,5,Juan Paredes,"Resumen de medidas (cifrado, auditoría de accesos, retención) en el marco de la Ley 25.326 antes del 22/10",Abierto,2026-10-21
+R-04,Recordatorios con 1 h de diferencia por el horario de verano,5,3,Juan Paredes,Arreglo en el Sprint 15; no mostrar recordatorios en la demo,Materializado,2026-10-19
+R-05,Reprogramar un turno lo duplica en producción,5,4,Juan Paredes,Arreglo urgente en el Sprint 15; avisar a recepción que revise duplicados,Materializado,2026-10-19
+R-06,Pacientes con iPhone (iOS 26) no pueden confirmar turnos,5,5,Juan Paredes,Hotfix el 19/10 a las 18:00 con OK de Carla; liberación automática de turnos apagada; texto para la mesa de ayuda,Materializado,2026-10-19
+R-07,"El cliente espera recordatorios por WhatsApp, que están fuera de alcance",4,3,Pedro Ruiz,Explicar que requiere aprobación de Meta (semanas) y cotizarlo como cambio de alcance,Abierto,2026-10-22
+R-08,Lucía está de licencia el día de la demo y es la única que conoce la integración simulada,5,3,Carla Méndez,Lucía documenta antes del jueves; Juan ensaya la integración simulada el miércoles 21,Abierto,2026-10-21
+R-09,Sprint 15 con 34 pts candidatos y 26 de capacidad,4,4,Carla Méndez,Decidir qué sale en la planning del jue 22/10 15:00,Abierto,2026-10-22
+R-10,Logos del cliente en baja resolución para la pantalla de login de la demo,4,2,Martín Ferro,Pedir los logos en alta a Ramiro,Abierto,2026-10-20
+R-11,El gasto en QA Externa supera el presupuesto en septiembre y octubre,4,3,Carla Méndez,Revisar el alcance con QA Externa SRL y controlar cada factura contra la orden de compra,Abierto,2026-10-26
+R-12,Una sola persona sabe hacer las integraciones (Lucía),3,4,Juan Paredes,Programar en pareja con Juan y documentar,En seguimiento,2026-10-26
+R-13,El costo mensual de soporte no está confirmado y el cliente pide el costo anual,3,3,Pedro Ruiz,Confirmar el monto de soporte antes de la demo,Abierto,2026-10-21
+R-14,Staging se cae por certificados SSL vencidos,3,3,Juan Paredes,Renovación automática de certificados,En seguimiento,2026-10-26

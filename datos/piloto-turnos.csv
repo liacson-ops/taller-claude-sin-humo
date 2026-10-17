@@ -1,0 +1,1186 @@
+fecha,sede,canal,turnos_pedidos,confirmados,cancelados,ausentes,llamadas_recepcion
+2026-08-01,Caballito,App iOS,0,0,0,0,
+2026-08-01,Caballito,App Android,0,0,0,0,
+2026-08-01,Caballito,Web,0,0,0,0,
+2026-08-01,Caballito,Teléfono,32,24,4,3,70
+2026-08-01,Caballito,Presencial,29,27,1,2,
+2026-08-01,Flores,App iOS,0,0,0,0,
+2026-08-01,Flores,App Android,0,0,0,0,
+2026-08-01,Flores,Web,0,0,0,0,
+2026-08-01,Flores,Teléfono,0,0,0,0,0
+2026-08-01,Flores,Presencial,0,0,0,0,
+2026-08-01,Almagro,App iOS,0,0,0,0,
+2026-08-01,Almagro,App Android,0,0,0,0,
+2026-08-01,Almagro,Web,0,0,0,0,
+2026-08-01,Almagro,Teléfono,16,12,2,1,39
+2026-08-01,Almagro,Presencial,18,16,1,1,
+2026-08-02,Caballito,App iOS,0,0,0,0,
+2026-08-02,Caballito,App Android,0,0,0,0,
+2026-08-02,Caballito,Web,0,0,0,0,
+2026-08-02,Caballito,Teléfono,0,0,0,0,0
+2026-08-02,Caballito,Presencial,0,0,0,0,
+2026-08-02,Flores,App iOS,0,0,0,0,
+2026-08-02,Flores,App Android,0,0,0,0,
+2026-08-02,Flores,Web,0,0,0,0,
+2026-08-02,Flores,Teléfono,0,0,0,0,0
+2026-08-02,Flores,Presencial,0,0,0,0,
+2026-08-02,Almagro,App iOS,0,0,0,0,
+2026-08-02,Almagro,App Android,0,0,0,0,
+2026-08-02,Almagro,Web,0,0,0,0,
+2026-08-02,Almagro,Teléfono,0,0,0,0,0
+2026-08-02,Almagro,Presencial,0,0,0,0,
+2026-08-03,Caballito,App iOS,0,0,0,0,
+2026-08-03,Caballito,App Android,0,0,0,0,
+2026-08-03,Caballito,Web,0,0,0,0,
+2026-08-03,Caballito,Teléfono,84,61,10,6,205
+2026-08-03,Caballito,Presencial,78,74,3,6,
+2026-08-03,Flores,App iOS,0,0,0,0,
+2026-08-03,Flores,App Android,0,0,0,0,
+2026-08-03,Flores,Web,0,0,0,0,
+2026-08-03,Flores,Teléfono,56,45,4,5,134
+2026-08-03,Flores,Presencial,45,41,1,2,
+2026-08-03,Almagro,App iOS,0,0,0,0,
+2026-08-03,Almagro,App Android,0,0,0,0,
+2026-08-03,Almagro,Web,0,0,0,0,
+2026-08-03,Almagro,Teléfono,42,32,5,4,101
+2026-08-03,Almagro,Presencial,44,42,1,3,
+2026-08-04,Caballito,App iOS,0,0,0,0,
+2026-08-04,Caballito,App Android,0,0,0,0,
+2026-08-04,Caballito,Web,0,0,0,0,
+2026-08-04,Caballito,Teléfono,73,57,6,5,186
+2026-08-04,Caballito,Presencial,75,71,3,6,
+2026-08-04,Flores,App iOS,0,0,0,0,
+2026-08-04,Flores,App Android,0,0,0,0,
+2026-08-04,Flores,Web,0,0,0,0,
+2026-08-04,Flores,Teléfono,43,31,3,3,111
+2026-08-04,Flores,Presencial,46,43,1,3,
+2026-08-04,Almagro,App iOS,0,0,0,0,
+2026-08-04,Almagro,App Android,0,0,0,0,
+2026-08-04,Almagro,Web,0,0,0,0,
+2026-08-04,Almagro,Teléfono,42,31,4,4,103
+2026-08-04,Almagro,Presencial,43,39,2,3,
+2026-08-05,Caballito,App iOS,0,0,0,0,
+2026-08-05,Caballito,App Android,0,0,0,0,
+2026-08-05,Caballito,Web,0,0,0,0,
+2026-08-05,Caballito,Teléfono,81,62,7,9,197
+2026-08-05,Caballito,Presencial,73,69,2,3,
+2026-08-05,Flores,App iOS,0,0,0,0,
+2026-08-05,Flores,App Android,0,0,0,0,
+2026-08-05,Flores,Web,0,0,0,0,
+2026-08-05,Flores,Teléfono,46,33,5,3,120
+2026-08-05,Flores,Presencial,48,44,2,2,
+2026-08-05,Almagro,App iOS,0,0,0,0,
+2026-08-05,Almagro,App Android,0,0,0,0,
+2026-08-05,Almagro,Web,0,0,0,0,
+2026-08-05,Almagro,Teléfono,45,33,4,4,100
+2026-08-05,Almagro,Presencial,35,31,1,3,
+2026-08-06,Caballito,App iOS,0,0,0,0,
+2026-08-06,Caballito,App Android,0,0,0,0,
+2026-08-06,Caballito,Web,0,0,0,0,
+2026-08-06,Caballito,Teléfono,73,56,6,6,172
+2026-08-06,Caballito,Presencial,67,60,2,3,
+2026-08-06,Flores,App iOS,0,0,0,0,
+2026-08-06,Flores,App Android,0,0,0,0,
+2026-08-06,Flores,Web,0,0,0,0,
+2026-08-06,Flores,Teléfono,51,37,6,5,128
+2026-08-06,Flores,Presencial,44,42,2,2,
+2026-08-06,Almagro,App iOS,0,0,0,0,
+2026-08-06,Almagro,App Android,0,0,0,0,
+2026-08-06,Almagro,Web,0,0,0,0,
+2026-08-06,Almagro,Teléfono,37,28,4,3,96
+2026-08-06,Almagro,Presencial,43,41,1,2,
+2026-08-07,Caballito,App iOS,0,0,0,0,
+2026-08-07,Caballito,App Android,0,0,0,0,
+2026-08-07,Caballito,Web,0,0,0,0,
+2026-08-07,Caballito,Teléfono,66,52,7,6,166
+2026-08-07,Caballito,Presencial,62,57,2,3,
+2026-08-07,Flores,App iOS,0,0,0,0,
+2026-08-07,Flores,App Android,0,0,0,0,
+2026-08-07,Flores,Web,0,0,0,0,
+2026-08-07,Flores,Teléfono,56,40,5,5,138
+2026-08-07,Flores,Presencial,46,42,2,4,
+2026-08-07,Almagro,App iOS,0,0,0,0,
+2026-08-07,Almagro,App Android,0,0,0,0,
+2026-08-07,Almagro,Web,0,0,0,0,
+2026-08-07,Almagro,Teléfono,46,35,4,5,108
+2026-08-07,Almagro,Presencial,42,38,1,3,
+2026-08-08,Caballito,App iOS,0,0,0,0,
+2026-08-08,Caballito,App Android,0,0,0,0,
+2026-08-08,Caballito,Web,0,0,0,0,
+2026-08-08,Caballito,Teléfono,28,21,3,2,72
+2026-08-08,Caballito,Presencial,32,30,1,2,
+2026-08-08,Flores,App iOS,0,0,0,0,
+2026-08-08,Flores,App Android,0,0,0,0,
+2026-08-08,Flores,Web,0,0,0,0,
+2026-08-08,Flores,Teléfono,0,0,0,0,0
+2026-08-08,Flores,Presencial,0,0,0,0,
+2026-08-08,Almagro,App iOS,0,0,0,0,
+2026-08-08,Almagro,App Android,0,0,0,0,
+2026-08-08,Almagro,Web,0,0,0,0,
+2026-08-08,Almagro,Teléfono,22,17,3,2,52
+2026-08-08,Almagro,Presencial,16,15,0,1,
+2026-08-09,Caballito,App iOS,0,0,0,0,
+2026-08-09,Caballito,App Android,0,0,0,0,
+2026-08-09,Caballito,Web,0,0,0,0,
+2026-08-09,Caballito,Teléfono,0,0,0,0,0
+2026-08-09,Caballito,Presencial,0,0,0,0,
+2026-08-09,Flores,App iOS,0,0,0,0,
+2026-08-09,Flores,App Android,0,0,0,0,
+2026-08-09,Flores,Web,0,0,0,0,
+2026-08-09,Flores,Teléfono,0,0,0,0,0
+2026-08-09,Flores,Presencial,0,0,0,0,
+2026-08-09,Almagro,App iOS,0,0,0,0,
+2026-08-09,Almagro,App Android,0,0,0,0,
+2026-08-09,Almagro,Web,0,0,0,0,
+2026-08-09,Almagro,Teléfono,0,0,0,0,0
+2026-08-09,Almagro,Presencial,0,0,0,0,
+2026-08-10,Caballito,App iOS,0,0,0,0,
+2026-08-10,Caballito,App Android,0,0,0,0,
+2026-08-10,Caballito,Web,0,0,0,0,
+2026-08-10,Caballito,Teléfono,72,52,6,6,186
+2026-08-10,Caballito,Presencial,80,75,2,4,
+2026-08-10,Flores,App iOS,0,0,0,0,
+2026-08-10,Flores,App Android,0,0,0,0,
+2026-08-10,Flores,Web,0,0,0,0,
+2026-08-10,Flores,Teléfono,49,35,6,4,114
+2026-08-10,Flores,Presencial,48,43,2,3,
+2026-08-10,Almagro,App iOS,0,0,0,0,
+2026-08-10,Almagro,App Android,0,0,0,0,
+2026-08-10,Almagro,Web,0,0,0,0,
+2026-08-10,Almagro,Teléfono,39,31,5,4,96
+2026-08-10,Almagro,Presencial,42,40,1,3,
+2026-08-11,Caballito,App iOS,0,0,0,0,
+2026-08-11,Caballito,App Android,0,0,0,0,
+2026-08-11,Caballito,Web,0,0,0,0,
+2026-08-11,Caballito,Teléfono,71,50,8,5,173
+2026-08-11,Caballito,Presencial,73,68,2,4,
+2026-08-11,Flores,App iOS,0,0,0,0,
+2026-08-11,Flores,App Android,0,0,0,0,
+2026-08-11,Flores,Web,0,0,0,0,
+2026-08-11,Flores,Teléfono,44,35,5,4,109
+2026-08-11,Flores,Presencial,44,40,1,2,
+2026-08-11,Almagro,App iOS,0,0,0,0,
+2026-08-11,Almagro,App Android,0,0,0,0,
+2026-08-11,Almagro,Web,0,0,0,0,
+2026-08-11,Almagro,Teléfono,34,25,3,4,87
+2026-08-11,Almagro,Presencial,40,36,2,2,
+2026-08-12,Caballito,App iOS,0,0,0,0,
+2026-08-12,Caballito,App Android,0,0,0,0,
+2026-08-12,Caballito,Web,0,0,0,0,
+2026-08-12,Caballito,Teléfono,83,61,10,7,194
+2026-08-12,Caballito,Presencial,65,60,2,4,
+2026-08-12,Flores,App iOS,0,0,0,0,
+2026-08-12,Flores,App Android,0,0,0,0,
+2026-08-12,Flores,Web,0,0,0,0,
+2026-08-12,Flores,Teléfono,52,38,6,6,136
+2026-08-12,Flores,Presencial,40,37,1,3,
+2026-08-12,Almagro,App iOS,0,0,0,0,
+2026-08-12,Almagro,App Android,0,0,0,0,
+2026-08-12,Almagro,Web,0,0,0,0,
+2026-08-12,Almagro,Teléfono,34,26,4,4,88
+2026-08-12,Almagro,Presencial,37,33,1,2,
+2026-08-13,Caballito,App iOS,0,0,0,0,
+2026-08-13,Caballito,App Android,0,0,0,0,
+2026-08-13,Caballito,Web,0,0,0,0,
+2026-08-13,Caballito,Teléfono,74,56,8,6,167
+2026-08-13,Caballito,Presencial,62,56,2,5,
+2026-08-13,Flores,App iOS,0,0,0,0,
+2026-08-13,Flores,App Android,0,0,0,0,
+2026-08-13,Flores,Web,0,0,0,0,
+2026-08-13,Flores,Teléfono,53,38,5,5,116
+2026-08-13,Flores,Presencial,43,39,1,2,
+2026-08-13,Almagro,App iOS,0,0,0,0,
+2026-08-13,Almagro,App Android,0,0,0,0,
+2026-08-13,Almagro,Web,0,0,0,0,
+2026-08-13,Almagro,Teléfono,40,30,3,4,102
+2026-08-13,Almagro,Presencial,37,34,2,2,
+2026-08-14,Caballito,App iOS,0,0,0,0,
+2026-08-14,Caballito,App Android,0,0,0,0,
+2026-08-14,Caballito,Web,0,0,0,0,
+2026-08-14,Caballito,Teléfono,77,58,9,6,191
+2026-08-14,Caballito,Presencial,76,67,2,5,
+2026-08-14,Flores,App iOS,0,0,0,0,
+2026-08-14,Flores,App Android,0,0,0,0,
+2026-08-14,Flores,Web,0,0,0,0,
+2026-08-14,Flores,Teléfono,56,43,4,4,138
+2026-08-14,Flores,Presencial,47,41,2,2,
+2026-08-14,Almagro,App iOS,0,0,0,0,
+2026-08-14,Almagro,App Android,0,0,0,0,
+2026-08-14,Almagro,Web,0,0,0,0,
+2026-08-14,Almagro,Teléfono,44,31,3,3,111
+2026-08-14,Almagro,Presencial,36,33,1,2,
+2026-08-15,Caballito,App iOS,0,0,0,0,
+2026-08-15,Caballito,App Android,0,0,0,0,
+2026-08-15,Caballito,Web,0,0,0,0,
+2026-08-15,Caballito,Teléfono,33,24,3,3,86
+2026-08-15,Caballito,Presencial,35,33,1,2,
+2026-08-15,Flores,App iOS,0,0,0,0,
+2026-08-15,Flores,App Android,0,0,0,0,
+2026-08-15,Flores,Web,0,0,0,0,
+2026-08-15,Flores,Teléfono,0,0,0,0,0
+2026-08-15,Flores,Presencial,0,0,0,0,
+2026-08-15,Almagro,App iOS,0,0,0,0,
+2026-08-15,Almagro,App Android,0,0,0,0,
+2026-08-15,Almagro,Web,0,0,0,0,
+2026-08-15,Almagro,Teléfono,18,14,2,2,43
+2026-08-15,Almagro,Presencial,19,17,0,1,
+2026-08-16,Caballito,App iOS,0,0,0,0,
+2026-08-16,Caballito,App Android,0,0,0,0,
+2026-08-16,Caballito,Web,0,0,0,0,
+2026-08-16,Caballito,Teléfono,0,0,0,0,0
+2026-08-16,Caballito,Presencial,0,0,0,0,
+2026-08-16,Flores,App iOS,0,0,0,0,
+2026-08-16,Flores,App Android,0,0,0,0,
+2026-08-16,Flores,Web,0,0,0,0,
+2026-08-16,Flores,Teléfono,0,0,0,0,0
+2026-08-16,Flores,Presencial,0,0,0,0,
+2026-08-16,Almagro,App iOS,0,0,0,0,
+2026-08-16,Almagro,App Android,0,0,0,0,
+2026-08-16,Almagro,Web,0,0,0,0,
+2026-08-16,Almagro,Teléfono,0,0,0,0,0
+2026-08-16,Almagro,Presencial,0,0,0,0,
+2026-08-17,Caballito,App iOS,0,0,0,0,
+2026-08-17,Caballito,App Android,0,0,0,0,
+2026-08-17,Caballito,Web,0,0,0,0,
+2026-08-17,Caballito,Teléfono,0,0,0,0,0
+2026-08-17,Caballito,Presencial,0,0,0,0,
+2026-08-17,Flores,App iOS,0,0,0,0,
+2026-08-17,Flores,App Android,0,0,0,0,
+2026-08-17,Flores,Web,0,0,0,0,
+2026-08-17,Flores,Teléfono,0,0,0,0,0
+2026-08-17,Flores,Presencial,0,0,0,0,
+2026-08-17,Almagro,App iOS,0,0,0,0,
+2026-08-17,Almagro,App Android,0,0,0,0,
+2026-08-17,Almagro,Web,0,0,0,0,
+2026-08-17,Almagro,Teléfono,0,0,0,0,0
+2026-08-17,Almagro,Presencial,0,0,0,0,
+2026-08-18,Caballito,App iOS,0,0,0,0,
+2026-08-18,Caballito,App Android,0,0,0,0,
+2026-08-18,Caballito,Web,0,0,0,0,
+2026-08-18,Caballito,Teléfono,83,62,7,9,196
+2026-08-18,Caballito,Presencial,60,54,2,5,
+2026-08-18,Flores,App iOS,0,0,0,0,
+2026-08-18,Flores,App Android,0,0,0,0,
+2026-08-18,Flores,Web,0,0,0,0,
+2026-08-18,Flores,Teléfono,57,45,6,4,131
+2026-08-18,Flores,Presencial,43,41,1,2,
+2026-08-18,Almagro,App iOS,0,0,0,0,
+2026-08-18,Almagro,App Android,0,0,0,0,
+2026-08-18,Almagro,Web,0,0,0,0,
+2026-08-18,Almagro,Teléfono,37,27,3,4,92
+2026-08-18,Almagro,Presencial,42,38,1,2,
+2026-08-19,Caballito,App iOS,0,0,0,0,
+2026-08-19,Caballito,App Android,0,0,0,0,
+2026-08-19,Caballito,Web,0,0,0,0,
+2026-08-19,Caballito,Teléfono,92,66,11,7,202
+2026-08-19,Caballito,Presencial,72,65,4,4,
+2026-08-19,Flores,App iOS,0,0,0,0,
+2026-08-19,Flores,App Android,0,0,0,0,
+2026-08-19,Flores,Web,0,0,0,0,
+2026-08-19,Flores,Teléfono,54,38,6,4,128
+2026-08-19,Flores,Presencial,51,48,2,4,
+2026-08-19,Almagro,App iOS,0,0,0,0,
+2026-08-19,Almagro,App Android,0,0,0,0,
+2026-08-19,Almagro,Web,0,0,0,0,
+2026-08-19,Almagro,Teléfono,45,33,3,4,108
+2026-08-19,Almagro,Presencial,37,35,2,3,
+2026-08-20,Caballito,App iOS,0,0,0,0,
+2026-08-20,Caballito,App Android,0,0,0,0,
+2026-08-20,Caballito,Web,0,0,0,0,
+2026-08-20,Caballito,Teléfono,66,49,5,6,155
+2026-08-20,Caballito,Presencial,72,65,2,5,
+2026-08-20,Flores,App iOS,0,0,0,0,
+2026-08-20,Flores,App Android,0,0,0,0,
+2026-08-20,Flores,Web,0,0,0,0,
+2026-08-20,Flores,Teléfono,52,41,6,4,116
+2026-08-20,Flores,Presencial,42,38,2,2,
+2026-08-20,Almagro,App iOS,0,0,0,0,
+2026-08-20,Almagro,App Android,0,0,0,0,
+2026-08-20,Almagro,Web,0,0,0,0,
+2026-08-20,Almagro,Teléfono,40,29,3,4,90
+2026-08-20,Almagro,Presencial,43,40,2,2,
+2026-08-21,Caballito,App iOS,0,0,0,0,
+2026-08-21,Caballito,App Android,0,0,0,0,
+2026-08-21,Caballito,Web,0,0,0,0,
+2026-08-21,Caballito,Teléfono,81,59,7,8,177
+2026-08-21,Caballito,Presencial,67,59,3,4,
+2026-08-21,Flores,App iOS,0,0,0,0,
+2026-08-21,Flores,App Android,0,0,0,0,
+2026-08-21,Flores,Web,0,0,0,0,
+2026-08-21,Flores,Teléfono,50,39,6,4,116
+2026-08-21,Flores,Presencial,52,46,2,2,
+2026-08-21,Almagro,App iOS,0,0,0,0,
+2026-08-21,Almagro,App Android,0,0,0,0,
+2026-08-21,Almagro,Web,0,0,0,0,
+2026-08-21,Almagro,Teléfono,42,31,4,3,94
+2026-08-21,Almagro,Presencial,41,37,1,3,
+2026-08-22,Caballito,App iOS,0,0,0,0,
+2026-08-22,Caballito,App Android,0,0,0,0,
+2026-08-22,Caballito,Web,0,0,0,0,
+2026-08-22,Caballito,Teléfono,32,26,3,3,80
+2026-08-22,Caballito,Presencial,30,27,1,2,
+2026-08-22,Flores,App iOS,0,0,0,0,
+2026-08-22,Flores,App Android,0,0,0,0,
+2026-08-22,Flores,Web,0,0,0,0,
+2026-08-22,Flores,Teléfono,0,0,0,0,0
+2026-08-22,Flores,Presencial,0,0,0,0,
+2026-08-22,Almagro,App iOS,0,0,0,0,
+2026-08-22,Almagro,App Android,0,0,0,0,
+2026-08-22,Almagro,Web,0,0,0,0,
+2026-08-22,Almagro,Teléfono,17,13,2,2,39
+2026-08-22,Almagro,Presencial,19,18,1,1,
+2026-08-23,Caballito,App iOS,0,0,0,0,
+2026-08-23,Caballito,App Android,0,0,0,0,
+2026-08-23,Caballito,Web,0,0,0,0,
+2026-08-23,Caballito,Teléfono,0,0,0,0,0
+2026-08-23,Caballito,Presencial,0,0,0,0,
+2026-08-23,Flores,App iOS,0,0,0,0,
+2026-08-23,Flores,App Android,0,0,0,0,
+2026-08-23,Flores,Web,0,0,0,0,
+2026-08-23,Flores,Teléfono,0,0,0,0,0
+2026-08-23,Flores,Presencial,0,0,0,0,
+2026-08-23,Almagro,App iOS,0,0,0,0,
+2026-08-23,Almagro,App Android,0,0,0,0,
+2026-08-23,Almagro,Web,0,0,0,0,
+2026-08-23,Almagro,Teléfono,0,0,0,0,0
+2026-08-23,Almagro,Presencial,0,0,0,0,
+2026-08-24,Caballito,App iOS,0,0,0,0,
+2026-08-24,Caballito,App Android,0,0,0,0,
+2026-08-24,Caballito,Web,0,0,0,0,
+2026-08-24,Caballito,Teléfono,76,58,7,8,180
+2026-08-24,Caballito,Presencial,63,57,2,5,
+2026-08-24,Flores,App iOS,0,0,0,0,
+2026-08-24,Flores,App Android,0,0,0,0,
+2026-08-24,Flores,Web,0,0,0,0,
+2026-08-24,Flores,Teléfono,54,41,4,4,138
+2026-08-24,Flores,Presencial,41,37,1,3,
+2026-08-24,Almagro,App iOS,0,0,0,0,
+2026-08-24,Almagro,App Android,0,0,0,0,
+2026-08-24,Almagro,Web,0,0,0,0,
+2026-08-24,Almagro,Teléfono,50,38,5,5,113
+2026-08-24,Almagro,Presencial,37,35,1,3,
+2026-08-25,Caballito,App iOS,0,0,0,0,
+2026-08-25,Caballito,App Android,0,0,0,0,
+2026-08-25,Caballito,Web,0,0,0,0,
+2026-08-25,Caballito,Teléfono,74,59,7,6,181
+2026-08-25,Caballito,Presencial,66,62,2,3,
+2026-08-25,Flores,App iOS,0,0,0,0,
+2026-08-25,Flores,App Android,0,0,0,0,
+2026-08-25,Flores,Web,0,0,0,0,
+2026-08-25,Flores,Teléfono,52,41,5,4,137
+2026-08-25,Flores,Presencial,46,41,2,3,
+2026-08-25,Almagro,App iOS,0,0,0,0,
+2026-08-25,Almagro,App Android,0,0,0,0,
+2026-08-25,Almagro,Web,0,0,0,0,
+2026-08-25,Almagro,Teléfono,42,33,3,4,111
+2026-08-25,Almagro,Presencial,45,40,2,2,
+2026-08-26,Caballito,App iOS,0,0,0,0,
+2026-08-26,Caballito,App Android,0,0,0,0,
+2026-08-26,Caballito,Web,0,0,0,0,
+2026-08-26,Caballito,Teléfono,86,69,9,7,192
+2026-08-26,Caballito,Presencial,62,59,3,5,
+2026-08-26,Flores,App iOS,0,0,0,0,
+2026-08-26,Flores,App Android,0,0,0,0,
+2026-08-26,Flores,Web,0,0,0,0,
+2026-08-26,Flores,Teléfono,50,36,5,5,130
+2026-08-26,Flores,Presencial,52,48,2,3,
+2026-08-26,Almagro,App iOS,0,0,0,0,
+2026-08-26,Almagro,App Android,0,0,0,0,
+2026-08-26,Almagro,Web,0,0,0,0,
+2026-08-26,Almagro,Teléfono,42,33,4,4,97
+2026-08-26,Almagro,Presencial,41,38,1,2,
+2026-08-27,Caballito,App iOS,0,0,0,0,
+2026-08-27,Caballito,App Android,0,0,0,0,
+2026-08-27,Caballito,Web,0,0,0,0,
+2026-08-27,Caballito,Teléfono,74,57,8,8,169
+2026-08-27,Caballito,Presencial,67,61,2,5,
+2026-08-27,Flores,App iOS,0,0,0,0,
+2026-08-27,Flores,App Android,0,0,0,0,
+2026-08-27,Flores,Web,0,0,0,0,
+2026-08-27,Flores,Teléfono,47,34,4,4,111
+2026-08-27,Flores,Presencial,49,43,2,3,
+2026-08-27,Almagro,App iOS,0,0,0,0,
+2026-08-27,Almagro,App Android,0,0,0,0,
+2026-08-27,Almagro,Web,0,0,0,0,
+2026-08-27,Almagro,Teléfono,36,28,3,3,94
+2026-08-27,Almagro,Presencial,40,37,2,2,
+2026-08-28,Caballito,App iOS,0,0,0,0,
+2026-08-28,Caballito,App Android,0,0,0,0,
+2026-08-28,Caballito,Web,0,0,0,0,
+2026-08-28,Caballito,Teléfono,86,65,10,7,195
+2026-08-28,Caballito,Presencial,69,63,2,3,
+2026-08-28,Flores,App iOS,0,0,0,0,
+2026-08-28,Flores,App Android,0,0,0,0,
+2026-08-28,Flores,Web,0,0,0,0,
+2026-08-28,Flores,Teléfono,45,35,4,3,105
+2026-08-28,Flores,Presencial,48,44,1,4,
+2026-08-28,Almagro,App iOS,0,0,0,0,
+2026-08-28,Almagro,App Android,0,0,0,0,
+2026-08-28,Almagro,Web,0,0,0,0,
+2026-08-28,Almagro,Teléfono,34,25,3,3,85
+2026-08-28,Almagro,Presencial,38,34,2,2,
+2026-08-29,Caballito,App iOS,0,0,0,0,
+2026-08-29,Caballito,App Android,0,0,0,0,
+2026-08-29,Caballito,Web,0,0,0,0,
+2026-08-29,Caballito,Teléfono,32,24,4,3,71
+2026-08-29,Caballito,Presencial,29,26,1,2,
+2026-08-29,Flores,App iOS,0,0,0,0,
+2026-08-29,Flores,App Android,0,0,0,0,
+2026-08-29,Flores,Web,0,0,0,0,
+2026-08-29,Flores,Teléfono,0,0,0,0,0
+2026-08-29,Flores,Presencial,0,0,0,0,
+2026-08-29,Almagro,App iOS,0,0,0,0,
+2026-08-29,Almagro,App Android,0,0,0,0,
+2026-08-29,Almagro,Web,0,0,0,0,
+2026-08-29,Almagro,Teléfono,18,14,1,2,40
+2026-08-29,Almagro,Presencial,18,16,1,1,
+2026-08-30,Caballito,App iOS,0,0,0,0,
+2026-08-30,Caballito,App Android,0,0,0,0,
+2026-08-30,Caballito,Web,0,0,0,0,
+2026-08-30,Caballito,Teléfono,0,0,0,0,0
+2026-08-30,Caballito,Presencial,0,0,0,0,
+2026-08-30,Flores,App iOS,0,0,0,0,
+2026-08-30,Flores,App Android,0,0,0,0,
+2026-08-30,Flores,Web,0,0,0,0,
+2026-08-30,Flores,Teléfono,0,0,0,0,0
+2026-08-30,Flores,Presencial,0,0,0,0,
+2026-08-30,Almagro,App iOS,0,0,0,0,
+2026-08-30,Almagro,App Android,0,0,0,0,
+2026-08-30,Almagro,Web,0,0,0,0,
+2026-08-30,Almagro,Teléfono,0,0,0,0,0
+2026-08-30,Almagro,Presencial,0,0,0,0,
+2026-08-31,Caballito,App iOS,0,0,0,0,
+2026-08-31,Caballito,App Android,0,0,0,0,
+2026-08-31,Caballito,Web,0,0,0,0,
+2026-08-31,Caballito,Teléfono,77,57,9,7,175
+2026-08-31,Caballito,Presencial,64,60,3,4,
+2026-08-31,Flores,App iOS,0,0,0,0,
+2026-08-31,Flores,App Android,0,0,0,0,
+2026-08-31,Flores,Web,0,0,0,0,
+2026-08-31,Flores,Teléfono,54,40,4,6,118
+2026-08-31,Flores,Presencial,41,37,2,3,
+2026-08-31,Almagro,App iOS,0,0,0,0,
+2026-08-31,Almagro,App Android,0,0,0,0,
+2026-08-31,Almagro,Web,0,0,0,0,
+2026-08-31,Almagro,Teléfono,43,34,4,4,99
+2026-08-31,Almagro,Presencial,36,33,1,3,
+2026-09-01,Caballito,App iOS,6,5,1,0,
+2026-09-01,Caballito,App Android,5,4,0,0,
+2026-09-01,Caballito,Web,2,2,0,0,
+2026-09-01,Caballito,Teléfono,44,33,4,3,105
+2026-09-01,Caballito,Presencial,71,67,2,5,
+2026-09-01,Flores,App iOS,3,2,0,0,
+2026-09-01,Flores,App Android,4,3,0,0,
+2026-09-01,Flores,Web,1,1,0,0,
+2026-09-01,Flores,Teléfono,28,20,2,2,73
+2026-09-01,Flores,Presencial,42,39,2,2,
+2026-09-01,Almagro,App iOS,3,3,0,0,
+2026-09-01,Almagro,App Android,3,2,0,0,
+2026-09-01,Almagro,Web,1,1,0,0,
+2026-09-01,Almagro,Teléfono,25,18,2,2,57
+2026-09-01,Almagro,Presencial,29,27,1,2,
+2026-09-02,Caballito,App iOS,6,5,0,0,
+2026-09-02,Caballito,App Android,6,5,0,0,
+2026-09-02,Caballito,Web,2,2,0,0,
+2026-09-02,Caballito,Teléfono,53,40,4,5,124
+2026-09-02,Caballito,Presencial,58,53,1,2,
+2026-09-02,Flores,App iOS,4,4,0,0,
+2026-09-02,Flores,App Android,4,3,0,0,
+2026-09-02,Flores,Web,1,1,0,0,
+2026-09-02,Flores,Teléfono,34,26,3,3,81
+2026-09-02,Flores,Presencial,47,42,1,4,
+2026-09-02,Almagro,App iOS,3,2,0,0,
+2026-09-02,Almagro,App Android,4,3,0,0,
+2026-09-02,Almagro,Web,1,1,0,0,
+2026-09-02,Almagro,Teléfono,28,20,2,3,62
+2026-09-02,Almagro,Presencial,36,34,1,3,
+2026-09-03,Caballito,App iOS,6,5,0,0,
+2026-09-03,Caballito,App Android,6,5,0,0,
+2026-09-03,Caballito,Web,2,2,0,0,
+2026-09-03,Caballito,Teléfono,47,36,5,4,110
+2026-09-03,Caballito,Presencial,69,62,2,3,
+2026-09-03,Flores,App iOS,5,4,0,0,
+2026-09-03,Flores,App Android,4,3,0,0,
+2026-09-03,Flores,Web,2,2,0,0,
+2026-09-03,Flores,Teléfono,33,26,3,3,78
+2026-09-03,Flores,Presencial,47,44,2,3,
+2026-09-03,Almagro,App iOS,3,3,0,0,
+2026-09-03,Almagro,App Android,3,3,0,0,
+2026-09-03,Almagro,Web,1,1,0,0,
+2026-09-03,Almagro,Teléfono,23,18,3,2,57
+2026-09-03,Almagro,Presencial,33,31,2,2,
+2026-09-04,Caballito,App iOS,6,5,0,0,
+2026-09-04,Caballito,App Android,6,5,0,0,
+2026-09-04,Caballito,Web,2,2,0,0,
+2026-09-04,Caballito,Teléfono,47,36,5,4,114
+2026-09-04,Caballito,Presencial,60,54,3,3,
+2026-09-04,Flores,App iOS,5,4,0,0,
+2026-09-04,Flores,App Android,5,4,0,0,
+2026-09-04,Flores,Web,1,1,0,0,
+2026-09-04,Flores,Teléfono,34,26,3,3,74
+2026-09-04,Flores,Presencial,43,41,2,2,
+2026-09-04,Almagro,App iOS,3,2,0,0,
+2026-09-04,Almagro,App Android,4,3,0,0,
+2026-09-04,Almagro,Web,1,1,0,0,
+2026-09-04,Almagro,Teléfono,28,20,3,3,73
+2026-09-04,Almagro,Presencial,36,32,1,2,
+2026-09-05,Caballito,App iOS,2,2,0,0,
+2026-09-05,Caballito,App Android,2,2,0,0,
+2026-09-05,Caballito,Web,1,1,0,0,
+2026-09-05,Caballito,Teléfono,21,16,2,2,53
+2026-09-05,Caballito,Presencial,30,28,1,2,
+2026-09-05,Flores,App iOS,2,2,0,0,
+2026-09-05,Flores,App Android,1,1,0,0,
+2026-09-05,Flores,Web,1,1,0,0,
+2026-09-05,Flores,Teléfono,0,0,0,0,0
+2026-09-05,Flores,Presencial,0,0,0,0,
+2026-09-05,Almagro,App iOS,2,2,0,0,
+2026-09-05,Almagro,App Android,1,1,0,0,
+2026-09-05,Almagro,Web,0,0,0,0,
+2026-09-05,Almagro,Teléfono,12,9,1,1,27
+2026-09-05,Almagro,Presencial,15,14,1,1,
+2026-09-06,Caballito,App iOS,1,1,0,0,
+2026-09-06,Caballito,App Android,0,0,0,0,
+2026-09-06,Caballito,Web,0,0,0,0,
+2026-09-06,Caballito,Teléfono,0,0,0,0,0
+2026-09-06,Caballito,Presencial,0,0,0,0,
+2026-09-06,Flores,App iOS,0,0,0,0,
+2026-09-06,Flores,App Android,0,0,0,0,
+2026-09-06,Flores,Web,0,0,0,0,
+2026-09-06,Flores,Teléfono,0,0,0,0,0
+2026-09-06,Flores,Presencial,0,0,0,0,
+2026-09-06,Almagro,App iOS,0,0,0,0,
+2026-09-06,Almagro,App Android,0,0,0,0,
+2026-09-06,Almagro,Web,0,0,0,0,
+2026-09-06,Almagro,Teléfono,0,0,0,0,0
+2026-09-06,Almagro,Presencial,0,0,0,0,
+2026-09-07,Caballito,App iOS,8,6,1,0,
+2026-09-07,Caballito,App Android,8,7,0,0,
+2026-09-07,Caballito,Web,2,2,0,0,
+2026-09-07,Caballito,Teléfono,46,36,3,4,103
+2026-09-07,Caballito,Presencial,70,66,2,3,
+2026-09-07,Flores,App iOS,5,4,0,0,
+2026-09-07,Flores,App Android,5,4,0,0,
+2026-09-07,Flores,Web,2,2,0,0,
+2026-09-07,Flores,Teléfono,36,29,3,4,86
+2026-09-07,Flores,Presencial,39,35,1,2,
+2026-09-07,Almagro,App iOS,5,4,0,0,
+2026-09-07,Almagro,App Android,4,3,0,0,
+2026-09-07,Almagro,Web,2,2,0,0,
+2026-09-07,Almagro,Teléfono,27,21,2,3,68
+2026-09-07,Almagro,Presencial,37,34,2,3,
+2026-09-08,Caballito,App iOS,9,7,1,0,
+2026-09-08,Caballito,App Android,8,7,1,0,
+2026-09-08,Caballito,Web,3,3,0,0,
+2026-09-08,Caballito,Teléfono,45,36,3,4,108
+2026-09-08,Caballito,Presencial,62,56,2,4,
+2026-09-08,Flores,App iOS,5,4,0,0,
+2026-09-08,Flores,App Android,5,4,0,0,
+2026-09-08,Flores,Web,2,2,0,0,
+2026-09-08,Flores,Teléfono,34,25,3,3,88
+2026-09-08,Flores,Presencial,44,41,2,2,
+2026-09-08,Almagro,App iOS,5,4,0,0,
+2026-09-08,Almagro,App Android,4,3,0,0,
+2026-09-08,Almagro,Web,2,2,0,0,
+2026-09-08,Almagro,Teléfono,30,24,2,2,67
+2026-09-08,Almagro,Presencial,32,30,1,2,
+2026-09-09,Caballito,App iOS,7,6,0,0,
+2026-09-09,Caballito,App Android,7,6,0,0,
+2026-09-09,Caballito,Web,3,2,0,0,
+2026-09-09,Caballito,Teléfono,58,44,4,4,130
+2026-09-09,Caballito,Presencial,66,62,1,5,
+2026-09-09,Flores,App iOS,5,4,0,0,
+2026-09-09,Flores,App Android,5,4,0,0,
+2026-09-09,Flores,Web,2,2,0,0,
+2026-09-09,Flores,Teléfono,36,26,3,3,81
+2026-09-09,Flores,Presencial,40,36,1,3,
+2026-09-09,Almagro,App iOS,4,4,0,0,
+2026-09-09,Almagro,App Android,4,3,0,0,
+2026-09-09,Almagro,Web,2,2,0,0,
+2026-09-09,Almagro,Teléfono,29,21,2,3,71
+2026-09-09,Almagro,Presencial,31,28,1,1,
+2026-09-10,Caballito,App iOS,9,7,1,1,
+2026-09-10,Caballito,App Android,9,8,1,0,
+2026-09-10,Caballito,Web,3,3,0,0,
+2026-09-10,Caballito,Teléfono,54,42,6,5,126
+2026-09-10,Caballito,Presencial,59,55,1,3,
+2026-09-10,Flores,App iOS,6,5,0,0,
+2026-09-10,Flores,App Android,5,4,0,0,
+2026-09-10,Flores,Web,2,2,0,0,
+2026-09-10,Flores,Teléfono,36,26,4,3,88
+2026-09-10,Flores,Presencial,43,38,1,3,
+2026-09-10,Almagro,App iOS,6,5,1,0,
+2026-09-10,Almagro,App Android,5,4,0,0,
+2026-09-10,Almagro,Web,2,2,0,0,
+2026-09-10,Almagro,Teléfono,28,22,2,3,64
+2026-09-10,Almagro,Presencial,31,29,1,2,
+2026-09-11,Caballito,App iOS,10,9,1,0,
+2026-09-11,Caballito,App Android,8,7,1,0,
+2026-09-11,Caballito,Web,3,3,0,0,
+2026-09-11,Caballito,Teléfono,45,34,3,5,109
+2026-09-11,Caballito,Presencial,65,60,2,4,
+2026-09-11,Flores,App iOS,6,5,0,0,
+2026-09-11,Flores,App Android,6,5,1,0,
+2026-09-11,Flores,Web,2,2,0,0,
+2026-09-11,Flores,Teléfono,39,29,4,3,90
+2026-09-11,Flores,Presencial,42,37,1,3,
+2026-09-11,Almagro,App iOS,5,4,0,0,
+2026-09-11,Almagro,App Android,5,4,0,0,
+2026-09-11,Almagro,Web,2,2,0,0,
+2026-09-11,Almagro,Teléfono,24,18,2,2,60
+2026-09-11,Almagro,Presencial,32,29,1,1,
+2026-09-12,Caballito,App iOS,3,3,0,0,
+2026-09-12,Caballito,App Android,3,3,0,0,
+2026-09-12,Caballito,Web,1,1,0,0,
+2026-09-12,Caballito,Teléfono,24,18,2,2,56
+2026-09-12,Caballito,Presencial,31,28,1,2,
+2026-09-12,Flores,App iOS,2,2,0,0,
+2026-09-12,Flores,App Android,2,2,0,0,
+2026-09-12,Flores,Web,1,1,0,0,
+2026-09-12,Flores,Teléfono,0,0,0,0,0
+2026-09-12,Flores,Presencial,0,0,0,0,
+2026-09-12,Almagro,App iOS,2,2,0,0,
+2026-09-12,Almagro,App Android,2,2,0,0,
+2026-09-12,Almagro,Web,1,1,0,0,
+2026-09-12,Almagro,Teléfono,14,10,1,2,32
+2026-09-12,Almagro,Presencial,14,13,0,1,
+2026-09-13,Caballito,App iOS,1,1,0,0,
+2026-09-13,Caballito,App Android,0,0,0,0,
+2026-09-13,Caballito,Web,0,0,0,0,
+2026-09-13,Caballito,Teléfono,0,0,0,0,0
+2026-09-13,Caballito,Presencial,0,0,0,0,
+2026-09-13,Flores,App iOS,0,0,0,0,
+2026-09-13,Flores,App Android,0,0,0,0,
+2026-09-13,Flores,Web,0,0,0,0,
+2026-09-13,Flores,Teléfono,0,0,0,0,0
+2026-09-13,Flores,Presencial,0,0,0,0,
+2026-09-13,Almagro,App iOS,0,0,0,0,
+2026-09-13,Almagro,App Android,0,0,0,0,
+2026-09-13,Almagro,Web,0,0,0,0,
+2026-09-13,Almagro,Teléfono,0,0,0,0,0
+2026-09-13,Almagro,Presencial,0,0,0,0,
+2026-09-14,Caballito,App iOS,10,9,1,1,
+2026-09-14,Caballito,App Android,10,9,1,1,
+2026-09-14,Caballito,Web,3,2,0,0,
+2026-09-14,Caballito,Teléfono,50,37,6,5,127
+2026-09-14,Caballito,Presencial,58,53,2,4,
+2026-09-14,Flores,App iOS,6,5,0,0,
+2026-09-14,Flores,App Android,7,6,1,0,
+2026-09-14,Flores,Web,2,2,0,0,
+2026-09-14,Flores,Teléfono,36,28,3,3,89
+2026-09-14,Flores,Presencial,45,42,1,3,
+2026-09-14,Almagro,App iOS,5,4,0,0,
+2026-09-14,Almagro,App Android,4,3,0,0,
+2026-09-14,Almagro,Web,2,2,0,0,
+2026-09-14,Almagro,Teléfono,25,18,2,3,60
+2026-09-14,Almagro,Presencial,38,34,1,3,
+2026-09-15,Caballito,App iOS,10,8,1,1,
+2026-09-15,Caballito,App Android,9,8,1,1,
+2026-09-15,Caballito,Web,3,3,0,0,
+2026-09-15,Caballito,Teléfono,52,39,4,5,123
+2026-09-15,Caballito,Presencial,61,56,3,3,
+2026-09-15,Flores,App iOS,8,7,1,1,
+2026-09-15,Flores,App Android,7,6,1,0,
+2026-09-15,Flores,Web,2,2,0,0,
+2026-09-15,Flores,Teléfono,34,24,4,4,83
+2026-09-15,Flores,Presencial,44,39,2,3,
+2026-09-15,Almagro,App iOS,5,4,0,0,
+2026-09-15,Almagro,App Android,6,5,1,0,
+2026-09-15,Almagro,Web,2,2,0,0,
+2026-09-15,Almagro,Teléfono,27,20,3,2,65
+2026-09-15,Almagro,Presencial,29,27,1,2,
+2026-09-16,Caballito,App iOS,11,9,1,1,
+2026-09-16,Caballito,App Android,9,8,1,1,
+2026-09-16,Caballito,Web,3,2,0,0,
+2026-09-16,Caballito,Teléfono,42,32,5,5,106
+2026-09-16,Caballito,Presencial,64,60,2,5,
+2026-09-16,Flores,App iOS,7,6,1,0,
+2026-09-16,Flores,App Android,8,7,1,1,
+2026-09-16,Flores,Web,3,3,0,0,
+2026-09-16,Flores,Teléfono,39,30,4,3,87
+2026-09-16,Flores,Presencial,46,44,2,3,
+2026-09-16,Almagro,App iOS,5,4,0,0,
+2026-09-16,Almagro,App Android,5,4,0,0,
+2026-09-16,Almagro,Web,2,2,0,0,
+2026-09-16,Almagro,Teléfono,22,16,2,2,57
+2026-09-16,Almagro,Presencial,31,29,1,1,
+2026-09-17,Caballito,App iOS,11,9,1,0,
+2026-09-17,Caballito,App Android,9,7,0,0,
+2026-09-17,Caballito,Web,4,3,0,0,
+2026-09-17,Caballito,Teléfono,45,35,5,5,117
+2026-09-17,Caballito,Presencial,67,62,3,4,
+2026-09-17,Flores,App iOS,8,7,0,0,
+2026-09-17,Flores,App Android,7,6,1,0,
+2026-09-17,Flores,Web,3,3,0,0,
+2026-09-17,Flores,Teléfono,31,22,3,3,72
+2026-09-17,Flores,Presencial,41,38,1,3,
+2026-09-17,Almagro,App iOS,7,6,0,0,
+2026-09-17,Almagro,App Android,6,5,1,0,
+2026-09-17,Almagro,Web,2,2,0,0,
+2026-09-17,Almagro,Teléfono,33,25,3,3,73
+2026-09-17,Almagro,Presencial,31,28,1,2,
+2026-09-18,Caballito,App iOS,10,9,1,0,
+2026-09-18,Caballito,App Android,12,10,1,0,
+2026-09-18,Caballito,Web,4,4,0,0,
+2026-09-18,Caballito,Teléfono,49,38,5,4,112
+2026-09-18,Caballito,Presencial,55,49,2,2,
+2026-09-18,Flores,App iOS,7,5,0,0,
+2026-09-18,Flores,App Android,7,6,1,0,
+2026-09-18,Flores,Web,3,3,0,0,
+2026-09-18,Flores,Teléfono,37,28,3,4,87
+2026-09-18,Flores,Presencial,41,37,2,2,
+2026-09-18,Almagro,App iOS,6,5,0,0,
+2026-09-18,Almagro,App Android,6,5,0,0,
+2026-09-18,Almagro,Web,2,2,0,0,
+2026-09-18,Almagro,Teléfono,25,20,2,3,61
+2026-09-18,Almagro,Presencial,32,29,1,2,
+2026-09-19,Caballito,App iOS,5,4,0,0,
+2026-09-19,Caballito,App Android,4,3,0,0,
+2026-09-19,Caballito,Web,1,1,0,0,
+2026-09-19,Caballito,Teléfono,23,17,2,2,59
+2026-09-19,Caballito,Presencial,28,27,1,2,
+2026-09-19,Flores,App iOS,3,3,0,0,
+2026-09-19,Flores,App Android,3,2,0,0,
+2026-09-19,Flores,Web,1,1,0,0,
+2026-09-19,Flores,Teléfono,0,0,0,0,0
+2026-09-19,Flores,Presencial,0,0,0,0,
+2026-09-19,Almagro,App iOS,2,2,0,0,
+2026-09-19,Almagro,App Android,2,2,0,0,
+2026-09-19,Almagro,Web,1,1,0,0,
+2026-09-19,Almagro,Teléfono,14,11,1,1,32
+2026-09-19,Almagro,Presencial,15,14,1,1,
+2026-09-20,Caballito,App iOS,1,1,0,0,
+2026-09-20,Caballito,App Android,1,1,0,0,
+2026-09-20,Caballito,Web,0,0,0,0,
+2026-09-20,Caballito,Teléfono,0,0,0,0,0
+2026-09-20,Caballito,Presencial,0,0,0,0,
+2026-09-20,Flores,App iOS,0,0,0,0,
+2026-09-20,Flores,App Android,0,0,0,0,
+2026-09-20,Flores,Web,0,0,0,0,
+2026-09-20,Flores,Teléfono,0,0,0,0,0
+2026-09-20,Flores,Presencial,0,0,0,0,
+2026-09-20,Almagro,App iOS,0,0,0,0,
+2026-09-20,Almagro,App Android,0,0,0,0,
+2026-09-20,Almagro,Web,0,0,0,0,
+2026-09-20,Almagro,Teléfono,0,0,0,0,0
+2026-09-20,Almagro,Presencial,0,0,0,0,
+2026-09-21,Caballito,App iOS,13,11,1,1,
+2026-09-21,Caballito,App Android,10,8,1,0,
+2026-09-21,Caballito,Web,4,3,0,0,
+2026-09-21,Caballito,Teléfono,51,37,5,5,115
+2026-09-21,Caballito,Presencial,61,56,2,3,
+2026-09-21,Flores,App iOS,7,6,1,0,
+2026-09-21,Flores,App Android,7,6,0,0,
+2026-09-21,Flores,Web,3,2,0,0,
+2026-09-21,Flores,Teléfono,30,22,3,3,71
+2026-09-21,Flores,Presencial,36,33,1,2,
+2026-09-21,Almagro,App iOS,7,6,0,0,
+2026-09-21,Almagro,App Android,6,5,0,0,
+2026-09-21,Almagro,Web,3,3,0,0,
+2026-09-21,Almagro,Teléfono,27,19,2,3,60
+2026-09-21,Almagro,Presencial,31,28,1,2,
+2026-09-22,Caballito,App iOS,11,9,1,1,
+2026-09-22,Caballito,App Android,11,9,1,1,
+2026-09-22,Caballito,Web,5,4,0,0,
+2026-09-22,Caballito,Teléfono,49,38,5,4,117
+2026-09-22,Caballito,Presencial,55,51,2,3,
+2026-09-22,Flores,App iOS,10,8,1,0,
+2026-09-22,Flores,App Android,7,6,1,0,
+2026-09-22,Flores,Web,3,3,0,0,
+2026-09-22,Flores,Teléfono,29,20,3,2,72
+2026-09-22,Flores,Presencial,44,41,1,2,
+2026-09-22,Almagro,App iOS,7,6,0,0,
+2026-09-22,Almagro,App Android,7,5,1,0,
+2026-09-22,Almagro,Web,2,2,0,0,
+2026-09-22,Almagro,Teléfono,27,20,2,3,63
+2026-09-22,Almagro,Presencial,30,27,1,2,
+2026-09-23,Caballito,App iOS,14,11,1,0,
+2026-09-23,Caballito,App Android,13,11,1,0,
+2026-09-23,Caballito,Web,4,3,0,0,
+2026-09-23,Caballito,Teléfono,41,32,3,4,102
+2026-09-23,Caballito,Presencial,58,53,3,4,
+2026-09-23,Flores,App iOS,10,8,1,1,
+2026-09-23,Flores,App Android,9,8,0,0,
+2026-09-23,Flores,Web,3,3,0,0,
+2026-09-23,Flores,Teléfono,30,22,2,3,74
+2026-09-23,Flores,Presencial,41,38,2,3,
+2026-09-23,Almagro,App iOS,8,7,0,0,
+2026-09-23,Almagro,App Android,7,6,1,0,
+2026-09-23,Almagro,Web,3,3,0,0,
+2026-09-23,Almagro,Teléfono,30,24,3,2,74
+2026-09-23,Almagro,Presencial,36,32,1,2,
+2026-09-24,Caballito,App iOS,14,12,1,0,
+2026-09-24,Caballito,App Android,12,10,1,0,
+2026-09-24,Caballito,Web,5,4,0,0,
+2026-09-24,Caballito,Teléfono,44,35,4,3,105
+2026-09-24,Caballito,Presencial,60,56,3,4,
+2026-09-24,Flores,App iOS,8,6,1,0,
+2026-09-24,Flores,App Android,9,8,1,1,
+2026-09-24,Flores,Web,3,2,0,0,
+2026-09-24,Flores,Teléfono,30,24,3,3,67
+2026-09-24,Flores,Presencial,43,41,1,3,
+2026-09-24,Almagro,App iOS,7,6,1,0,
+2026-09-24,Almagro,App Android,8,7,1,0,
+2026-09-24,Almagro,Web,3,3,0,0,
+2026-09-24,Almagro,Teléfono,30,22,3,3,72
+2026-09-24,Almagro,Presencial,38,34,2,2,
+2026-09-25,Caballito,App iOS,12,11,1,1,
+2026-09-25,Caballito,App Android,12,10,1,1,
+2026-09-25,Caballito,Web,5,4,0,0,
+2026-09-25,Caballito,Teléfono,44,34,4,4,116
+2026-09-25,Caballito,Presencial,65,62,2,5,
+2026-09-25,Flores,App iOS,9,8,1,0,
+2026-09-25,Flores,App Android,8,7,0,0,
+2026-09-25,Flores,Web,3,2,0,0,
+2026-09-25,Flores,Teléfono,35,26,4,3,78
+2026-09-25,Flores,Presencial,44,40,2,3,
+2026-09-25,Almagro,App iOS,7,6,0,0,
+2026-09-25,Almagro,App Android,8,7,1,0,
+2026-09-25,Almagro,Web,2,2,0,0,
+2026-09-25,Almagro,Teléfono,27,21,2,2,70
+2026-09-25,Almagro,Presencial,30,27,1,2,
+2026-09-26,Caballito,App iOS,4,4,0,0,
+2026-09-26,Caballito,App Android,4,3,0,0,
+2026-09-26,Caballito,Web,2,2,0,0,
+2026-09-26,Caballito,Teléfono,21,15,2,2,47
+2026-09-26,Caballito,Presencial,28,26,1,1,
+2026-09-26,Flores,App iOS,3,3,0,0,
+2026-09-26,Flores,App Android,3,3,0,0,
+2026-09-26,Flores,Web,1,1,0,0,
+2026-09-26,Flores,Teléfono,0,0,0,0,0
+2026-09-26,Flores,Presencial,0,0,0,0,
+2026-09-26,Almagro,App iOS,3,2,0,0,
+2026-09-26,Almagro,App Android,3,3,0,0,
+2026-09-26,Almagro,Web,1,1,0,0,
+2026-09-26,Almagro,Teléfono,11,8,1,1,26
+2026-09-26,Almagro,Presencial,18,16,1,1,
+2026-09-27,Caballito,App iOS,1,1,0,0,
+2026-09-27,Caballito,App Android,1,1,0,0,
+2026-09-27,Caballito,Web,0,0,0,0,
+2026-09-27,Caballito,Teléfono,0,0,0,0,0
+2026-09-27,Caballito,Presencial,0,0,0,0,
+2026-09-27,Flores,App iOS,1,1,0,0,
+2026-09-27,Flores,App Android,0,0,0,0,
+2026-09-27,Flores,Web,0,0,0,0,
+2026-09-27,Flores,Teléfono,0,0,0,0,0
+2026-09-27,Flores,Presencial,0,0,0,0,
+2026-09-27,Almagro,App iOS,0,0,0,0,
+2026-09-27,Almagro,App Android,0,0,0,0,
+2026-09-27,Almagro,Web,0,0,0,0,
+2026-09-27,Almagro,Teléfono,0,0,0,0,0
+2026-09-27,Almagro,Presencial,0,0,0,0,
+2026-09-28,Caballito,App iOS,15,13,1,1,
+2026-09-28,Caballito,App Android,13,11,1,1,
+2026-09-28,Caballito,Web,5,4,0,0,
+2026-09-28,Caballito,Teléfono,39,28,5,3,101
+2026-09-28,Caballito,Presencial,68,61,2,5,
+2026-09-28,Flores,App iOS,9,7,0,0,
+2026-09-28,Flores,App Android,8,7,1,0,
+2026-09-28,Flores,Web,3,2,0,0,
+2026-09-28,Flores,Teléfono,33,26,3,3,83
+2026-09-28,Flores,Presencial,42,37,2,2,
+2026-09-28,Almagro,App iOS,8,7,0,1,
+2026-09-28,Almagro,App Android,6,5,0,0,
+2026-09-28,Almagro,Web,3,3,0,0,
+2026-09-28,Almagro,Teléfono,25,20,3,2,60
+2026-09-28,Almagro,Presencial,36,34,1,2,
+2026-09-29,Caballito,App iOS,13,12,1,0,
+2026-09-29,Caballito,App Android,15,12,1,1,
+2026-09-29,Caballito,Web,6,5,0,0,
+2026-09-29,Caballito,Teléfono,58,45,4,5,133
+2026-09-29,Caballito,Presencial,59,53,2,4,
+2026-09-29,Flores,App iOS,10,9,1,0,
+2026-09-29,Flores,App Android,10,8,0,1,
+2026-09-29,Flores,Web,3,3,0,0,
+2026-09-29,Flores,Teléfono,33,26,3,2,77
+2026-09-29,Flores,Presencial,38,36,2,2,
+2026-09-29,Almagro,App iOS,7,6,1,0,
+2026-09-29,Almagro,App Android,7,6,0,0,
+2026-09-29,Almagro,Web,3,3,0,0,
+2026-09-29,Almagro,Teléfono,23,17,3,2,56
+2026-09-29,Almagro,Presencial,31,29,1,2,
+2026-09-30,Caballito,App iOS,15,12,1,1,
+2026-09-30,Caballito,App Android,16,14,1,1,
+2026-09-30,Caballito,Web,5,4,0,0,
+2026-09-30,Caballito,Teléfono,40,28,4,3,104
+2026-09-30,Caballito,Presencial,54,50,1,4,
+2026-09-30,Flores,App iOS,10,8,1,1,
+2026-09-30,Flores,App Android,9,7,1,0,
+2026-09-30,Flores,Web,3,2,0,0,
+2026-09-30,Flores,Teléfono,31,23,4,3,75
+2026-09-30,Flores,Presencial,35,32,1,2,
+2026-09-30,Almagro,App iOS,7,6,0,0,
+2026-09-30,Almagro,App Android,8,6,1,0,
+2026-09-30,Almagro,Web,3,2,0,0,
+2026-09-30,Almagro,Teléfono,26,19,3,2,60
+2026-09-30,Almagro,Presencial,39,35,2,3,
+2026-10-01,Caballito,App iOS,13,10,1,1,
+2026-10-01,Caballito,App Android,13,12,1,0,
+2026-10-01,Caballito,Web,5,4,0,0,
+2026-10-01,Caballito,Teléfono,56,44,5,5,128
+2026-10-01,Caballito,Presencial,66,62,2,4,
+2026-10-01,Flores,App iOS,11,9,0,1,
+2026-10-01,Flores,App Android,11,9,1,1,
+2026-10-01,Flores,Web,3,3,0,0,
+2026-10-01,Flores,Teléfono,31,24,2,3,76
+2026-10-01,Flores,Presencial,36,34,1,2,
+2026-10-01,Almagro,App iOS,10,8,1,1,
+2026-10-01,Almagro,App Android,9,8,1,0,
+2026-10-01,Almagro,Web,3,2,0,0,
+2026-10-01,Almagro,Teléfono,31,23,2,2,73
+2026-10-01,Almagro,Presencial,35,32,1,2,
+2026-10-02,Caballito,App iOS,14,12,1,1,
+2026-10-02,Caballito,App Android,15,13,1,0,
+2026-10-02,Caballito,Web,6,5,0,0,
+2026-10-02,Caballito,Teléfono,45,33,4,4,111
+2026-10-02,Caballito,Presencial,67,61,3,3,
+2026-10-02,Flores,App iOS,10,8,1,1,
+2026-10-02,Flores,App Android,10,8,1,1,
+2026-10-02,Flores,Web,3,3,0,0,
+2026-10-02,Flores,Teléfono,36,29,4,4,85
+2026-10-02,Flores,Presencial,47,42,1,3,
+2026-10-02,Almagro,App iOS,9,8,1,0,
+2026-10-02,Almagro,App Android,9,8,0,1,
+2026-10-02,Almagro,Web,3,3,0,0,
+2026-10-02,Almagro,Teléfono,28,20,3,3,71
+2026-10-02,Almagro,Presencial,36,34,1,1,
+2026-10-03,Caballito,App iOS,6,5,1,0,
+2026-10-03,Caballito,App Android,5,4,0,0,
+2026-10-03,Caballito,Web,2,2,0,0,
+2026-10-03,Caballito,Teléfono,26,20,2,2,59
+2026-10-03,Caballito,Presencial,26,24,1,1,
+2026-10-03,Flores,App iOS,4,3,0,0,
+2026-10-03,Flores,App Android,3,2,0,0,
+2026-10-03,Flores,Web,1,1,0,0,
+2026-10-03,Flores,Teléfono,0,0,0,0,0
+2026-10-03,Flores,Presencial,0,0,0,0,
+2026-10-03,Almagro,App iOS,4,3,0,0,
+2026-10-03,Almagro,App Android,3,3,0,0,
+2026-10-03,Almagro,Web,1,1,0,0,
+2026-10-03,Almagro,Teléfono,12,9,1,1,28
+2026-10-03,Almagro,Presencial,16,14,1,1,
+2026-10-04,Caballito,App iOS,1,1,0,0,
+2026-10-04,Caballito,App Android,1,1,0,0,
+2026-10-04,Caballito,Web,0,0,0,0,
+2026-10-04,Caballito,Teléfono,0,0,0,0,0
+2026-10-04,Caballito,Presencial,0,0,0,0,
+2026-10-04,Flores,App iOS,1,1,0,0,
+2026-10-04,Flores,App Android,1,1,0,0,
+2026-10-04,Flores,Web,0,0,0,0,
+2026-10-04,Flores,Teléfono,0,0,0,0,0
+2026-10-04,Flores,Presencial,0,0,0,0,
+2026-10-04,Almagro,App iOS,1,1,0,0,
+2026-10-04,Almagro,App Android,1,1,0,0,
+2026-10-04,Almagro,Web,0,0,0,0,
+2026-10-04,Almagro,Teléfono,0,0,0,0,0
+2026-10-04,Almagro,Presencial,0,0,0,0,
+2026-10-05,Caballito,App iOS,18,16,2,1,
+2026-10-05,Caballito,App Android,16,14,1,1,
+2026-10-05,Caballito,Web,6,5,0,0,
+2026-10-05,Caballito,Teléfono,51,40,5,5,132
+2026-10-05,Caballito,Presencial,57,52,2,4,
+2026-10-05,Flores,App iOS,10,8,1,0,
+2026-10-05,Flores,App Android,10,9,1,0,
+2026-10-05,Flores,Web,4,3,0,0,
+2026-10-05,Flores,Teléfono,28,21,2,2,73
+2026-10-05,Flores,Presencial,37,33,1,2,
+2026-10-05,Almagro,App iOS,9,8,0,1,
+2026-10-05,Almagro,App Android,8,7,1,0,
+2026-10-05,Almagro,Web,3,3,0,0,
+2026-10-05,Almagro,Teléfono,25,19,2,2,58
+2026-10-05,Almagro,Presencial,30,27,1,1,
+2026-10-06,Caballito,App iOS,14,12,1,0,
+2026-10-06,Caballito,App Android,13,11,1,0,
+2026-10-06,Caballito,Web,5,4,0,0,
+2026-10-06,Caballito,Teléfono,50,38,6,5,109
+2026-10-06,Caballito,Presencial,63,58,1,5,
+2026-10-06,Flores,App iOS,11,10,1,0,
+2026-10-06,Flores,App Android,10,9,1,0,
+2026-10-06,Flores,Web,3,2,0,0,
+2026-10-06,Flores,Teléfono,30,23,2,3,78
+2026-10-06,Flores,Presencial,37,35,1,2,
+2026-10-06,Almagro,App iOS,10,8,1,0,
+2026-10-06,Almagro,App Android,8,7,1,0,
+2026-10-06,Almagro,Web,4,3,0,0,
+2026-10-06,Almagro,Teléfono,26,19,3,3,65
+2026-10-06,Almagro,Presencial,32,28,1,1,
+2026-10-07,Caballito,App iOS,19,16,1,1,
+2026-10-07,Caballito,App Android,17,14,1,1,
+2026-10-07,Caballito,Web,6,5,0,0,
+2026-10-07,Caballito,Teléfono,46,32,4,4,109
+2026-10-07,Caballito,Presencial,58,54,2,4,
+2026-10-07,Flores,App iOS,11,9,1,1,
+2026-10-07,Flores,App Android,9,8,1,0,
+2026-10-07,Flores,Web,4,4,0,0,
+2026-10-07,Flores,Teléfono,31,24,3,2,72
+2026-10-07,Flores,Presencial,38,36,1,2,
+2026-10-07,Almagro,App iOS,9,8,1,0,
+2026-10-07,Almagro,App Android,10,9,0,0,
+2026-10-07,Almagro,Web,4,4,0,0,
+2026-10-07,Almagro,Teléfono,31,23,2,2,71
+2026-10-07,Almagro,Presencial,31,28,1,2,
+2026-10-08,Caballito,App iOS,16,14,1,1,
+2026-10-08,Caballito,App Android,15,12,1,1,
+2026-10-08,Caballito,Web,5,4,0,0,
+2026-10-08,Caballito,Teléfono,43,32,4,3,101
+2026-10-08,Caballito,Presencial,70,66,3,3,
+2026-10-08,Flores,App iOS,12,10,1,1,
+2026-10-08,Flores,App Android,10,8,1,1,
+2026-10-08,Flores,Web,3,3,0,0,
+2026-10-08,Flores,Teléfono,35,26,3,3,87
+2026-10-08,Flores,Presencial,45,41,2,2,
+2026-10-08,Almagro,App iOS,10,8,1,0,
+2026-10-08,Almagro,App Android,8,7,0,1,
+2026-10-08,Almagro,Web,4,3,0,0,
+2026-10-08,Almagro,Teléfono,28,20,3,3,68
+2026-10-08,Almagro,Presencial,32,30,1,3,
+2026-10-09,Caballito,App iOS,16,14,2,1,
+2026-10-09,Caballito,App Android,16,13,1,1,
+2026-10-09,Caballito,Web,6,5,0,0,
+2026-10-09,Caballito,Teléfono,48,37,5,4,122
+2026-10-09,Caballito,Presencial,66,60,2,5,
+2026-10-09,Flores,App iOS,10,8,1,1,
+2026-10-09,Flores,App Android,9,8,1,0,
+2026-10-09,Flores,Web,4,3,0,0,
+2026-10-09,Flores,Teléfono,28,21,2,3,66
+2026-10-09,Flores,Presencial,41,39,1,2,
+2026-10-09,Almagro,App iOS,8,6,1,0,
+2026-10-09,Almagro,App Android,8,7,0,0,
+2026-10-09,Almagro,Web,3,2,0,0,
+2026-10-09,Almagro,Teléfono,28,22,2,2,69
+2026-10-09,Almagro,Presencial,37,35,2,2,
+2026-10-10,Caballito,App iOS,5,4,0,0,
+2026-10-10,Caballito,App Android,6,5,1,0,
+2026-10-10,Caballito,Web,2,2,0,0,
+2026-10-10,Caballito,Teléfono,21,16,2,2,52
+2026-10-10,Caballito,Presencial,32,30,1,2,
+2026-10-10,Flores,App iOS,4,3,0,0,
+2026-10-10,Flores,App Android,4,3,0,0,
+2026-10-10,Flores,Web,1,1,0,0,
+2026-10-10,Flores,Teléfono,0,0,0,0,0
+2026-10-10,Flores,Presencial,0,0,0,0,
+2026-10-10,Almagro,App iOS,3,3,0,0,
+2026-10-10,Almagro,App Android,3,2,0,0,
+2026-10-10,Almagro,Web,1,1,0,0,
+2026-10-10,Almagro,Teléfono,10,7,1,1,25
+2026-10-10,Almagro,Presencial,16,14,1,1,
+2026-10-11,Caballito,App iOS,1,1,0,0,
+2026-10-11,Caballito,App Android,1,1,0,0,
+2026-10-11,Caballito,Web,0,0,0,0,
+2026-10-11,Caballito,Teléfono,0,0,0,0,0
+2026-10-11,Caballito,Presencial,0,0,0,0,
+2026-10-11,Flores,App iOS,1,1,0,0,
+2026-10-11,Flores,App Android,1,1,0,0,
+2026-10-11,Flores,Web,0,0,0,0,
+2026-10-11,Flores,Teléfono,0,0,0,0,0
+2026-10-11,Flores,Presencial,0,0,0,0,
+2026-10-11,Almagro,App iOS,1,1,0,0,
+2026-10-11,Almagro,App Android,1,1,0,0,
+2026-10-11,Almagro,Web,0,0,0,0,
+2026-10-11,Almagro,Teléfono,0,0,0,0,0
+2026-10-11,Almagro,Presencial,0,0,0,0,
+2026-10-12,Caballito,App iOS,15,12,1,1,
+2026-10-12,Caballito,App Android,17,14,1,1,
+2026-10-12,Caballito,Web,5,4,0,0,
+2026-10-12,Caballito,Teléfono,56,43,4,4,132
+2026-10-12,Caballito,Presencial,64,59,1,4,
+2026-10-12,Flores,App iOS,10,9,1,0,
+2026-10-12,Flores,App Android,11,10,1,1,
+2026-10-12,Flores,Web,4,4,0,0,
+2026-10-12,Flores,Teléfono,37,28,3,4,88
+2026-10-12,Flores,Presencial,46,44,2,2,
+2026-10-12,Almagro,App iOS,11,9,1,0,
+2026-10-12,Almagro,App Android,8,6,1,0,
+2026-10-12,Almagro,Web,3,2,0,0,
+2026-10-12,Almagro,Teléfono,28,22,3,3,61
+2026-10-12,Almagro,Presencial,37,35,1,2,
+2026-10-13,Caballito,App iOS,18,14,1,1,
+2026-10-13,Caballito,App Android,17,14,2,1,
+2026-10-13,Caballito,Web,6,5,0,0,
+2026-10-13,Caballito,Teléfono,53,39,4,6,128
+2026-10-13,Caballito,Presencial,58,51,2,3,
+2026-10-13,Flores,App iOS,10,8,1,0,
+2026-10-13,Flores,App Android,11,9,1,1,
+2026-10-13,Flores,Web,4,3,0,0,
+2026-10-13,Flores,Teléfono,35,25,3,4,86
+2026-10-13,Flores,Presencial,43,41,2,2,
+2026-10-13,Almagro,App iOS,8,7,1,0,
+2026-10-13,Almagro,App Android,8,7,0,0,
+2026-10-13,Almagro,Web,3,3,0,0,
+2026-10-13,Almagro,Teléfono,25,19,2,2,61
+2026-10-13,Almagro,Presencial,38,36,1,3,
+2026-10-14,Caballito,App iOS,17,14,2,1,
+2026-10-14,Caballito,App Android,13,11,1,1,
+2026-10-14,Caballito,Web,5,4,0,0,
+2026-10-14,Caballito,Teléfono,38,29,4,3,100
+2026-10-14,Caballito,Presencial,57,52,2,3,
+2026-10-14,Flores,App iOS,11,9,0,1,
+2026-10-14,Flores,App Android,9,8,1,1,
+2026-10-14,Flores,Web,3,2,0,0,
+2026-10-14,Flores,Teléfono,29,20,2,2,70
+2026-10-14,Flores,Presencial,39,35,1,3,
+2026-10-14,Almagro,App iOS,8,6,1,0,
+2026-10-14,Almagro,App Android,10,9,0,0,
+2026-10-14,Almagro,Web,3,2,0,0,
+2026-10-14,Almagro,Teléfono,29,21,2,3,74
+2026-10-14,Almagro,Presencial,32,30,1,1,
+2026-10-15,Caballito,App iOS,16,13,1,1,
+2026-10-15,Caballito,App Android,14,11,1,1,
+2026-10-15,Caballito,Web,6,5,0,0,
+2026-10-15,Caballito,Teléfono,53,41,6,6,128
+2026-10-15,Caballito,Presencial,53,50,3,3,
+2026-10-15,Flores,App iOS,11,9,1,1,
+2026-10-15,Flores,App Android,9,8,1,0,
+2026-10-15,Flores,Web,3,3,0,0,
+2026-10-15,Flores,Teléfono,35,26,3,3,87
+2026-10-15,Flores,Presencial,43,41,1,3,
+2026-10-15,Almagro,App iOS,9,8,1,0,
+2026-10-15,Almagro,App Android,10,9,1,0,
+2026-10-15,Almagro,Web,3,2,0,0,
+2026-10-15,Almagro,Teléfono,23,18,2,2,57
+2026-10-15,Almagro,Presencial,34,31,1,2,
+2026-10-16,Caballito,App iOS,16,13,1,1,
+2026-10-16,Caballito,App Android,15,13,1,0,
+2026-10-16,Caballito,Web,6,5,1,0,
+2026-10-16,Caballito,Teléfono,47,36,5,5,121
+2026-10-16,Caballito,Presencial,71,66,2,5,
+2026-10-16,Flores,App iOS,12,9,1,1,
+2026-10-16,Flores,App Android,11,10,1,1,
+2026-10-16,Flores,Web,4,3,0,0,
+2026-10-16,Flores,Teléfono,30,24,3,2,74
+2026-10-16,Flores,Presencial,42,39,1,2,
+2026-10-16,Almagro,App iOS,10,9,1,1,
+2026-10-16,Almagro,App Android,9,7,0,0,
+2026-10-16,Almagro,Web,3,3,0,0,
+2026-10-16,Almagro,Teléfono,23,18,3,2,58
+2026-10-16,Almagro,Presencial,38,36,2,3,
+2026-10-17,Caballito,App iOS,6,1,0,0,
+2026-10-17,Caballito,App Android,5,4,0,0,
+2026-10-17,Caballito,Web,2,2,0,0,
+2026-10-17,Caballito,Teléfono,22,17,3,2,90
+2026-10-17,Caballito,Presencial,27,25,1,2,
+2026-10-17,Flores,App iOS,4,0,0,0,
+2026-10-17,Flores,App Android,3,2,0,0,
+2026-10-17,Flores,Web,1,1,0,0,
+2026-10-17,Flores,Teléfono,0,0,0,0,0
+2026-10-17,Flores,Presencial,0,0,0,0,
+2026-10-17,Almagro,App iOS,3,0,0,0,
+2026-10-17,Almagro,App Android,3,2,0,0,
+2026-10-17,Almagro,Web,1,1,0,0,
+2026-10-17,Almagro,Teléfono,12,8,1,1,46
+2026-10-17,Almagro,Presencial,17,15,1,1,
+2026-10-18,Caballito,App iOS,1,0,0,0,
+2026-10-18,Caballito,App Android,1,1,0,0,
+2026-10-18,Caballito,Web,0,0,0,0,
+2026-10-18,Caballito,Teléfono,0,0,0,0,12
+2026-10-18,Caballito,Presencial,0,0,0,0,
+2026-10-18,Flores,App iOS,1,0,0,0,
+2026-10-18,Flores,App Android,1,1,0,0,
+2026-10-18,Flores,Web,0,0,0,0,
+2026-10-18,Flores,Teléfono,0,0,0,0,5
+2026-10-18,Flores,Presencial,0,0,0,0,
+2026-10-18,Almagro,App iOS,1,0,0,0,
+2026-10-18,Almagro,App Android,0,0,0,0,
+2026-10-18,Almagro,Web,0,0,0,0,
+2026-10-18,Almagro,Teléfono,0,0,0,0,6
+2026-10-18,Almagro,Presencial,0,0,0,0,

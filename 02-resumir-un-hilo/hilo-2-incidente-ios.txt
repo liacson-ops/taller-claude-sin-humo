@@ -1,0 +1,50 @@
+CANAL: #turnoya-guardia · chat interno del equipo de Nimbus Software (datos ficticios)
+Incidente: "Confirmar turno" no responde en iPhone · del sábado 17/10 al lunes 19/10/2026 · 16 mensajes
+
+[1] sáb 17/10 · 09:41 · Sofía Andrade
+Buen día. Me escribió la mesa de ayuda de Clínica Sur: 4 pacientes dicen que tocan "Confirmar turno" y no pasa nada. Los 4 con iPhone. ¿Alguien de guardia lo puede mirar?
+
+[2] sáb 17/10 · 10:05 · Juan Paredes
+Estoy de guardia, lo miro. La API está arriba y no hay errores en los registros. Hipótesis 1: se cayó el servicio de confirmaciones. Ya veo que no: las confirmaciones desde Android entran normal.
+
+[3] sáb 17/10 · 11:30 · Sofía Andrade
+Lo reproduje en mi iPhone con iOS 26: el botón no hace nada. En un iPhone con iOS 18 funciona. En Android y en la web desde la compu, también. Hipótesis 2 (versión vieja de la app): descartada, los dos iPhone tienen la última versión.
+
+[4] sáb 17/10 · 12:10 · Juan Paredes
+Dato: desde el sábado 00:10 aprox. no entra ninguna confirmación desde iPhone con iOS 26. El botón ni siquiera llama al servidor: el problema está en el teléfono, no en nuestro backend.
+
+[5] sáb 17/10 · 13:45 · Juan Paredes
+Hipótesis 3: caché vieja de las pantallas en el CDN. Purgué todo y sigue igual. Descartada.
+
+[6] sáb 17/10 · 16:20 · Carla Méndez
+Mesa de ayuda ya va por 18 consultas. Ojo con una cosa: los turnos que no se confirman 24 h antes se liberan solos. Si no hacemos nada, mañana empezamos a perder turnos de pacientes que sí quieren venir.
+
+[7] sáb 17/10 · 17:30 · Juan Paredes
+Listo: apagué la liberación automática de turnos no confirmados hasta que esto se resuelva. Nadie pierde el turno. Hay que acordarse de volver a prenderla después del arreglo.
+
+[8] sáb 17/10 · 17:52 · Carla Méndez
+Para la mesa de ayuda, por ahora: que confirmen el turno por teléfono al 11 5203-4410. Les mando el texto el lunes temprano, hoy no los quiero marear con cosas que no sabemos.
+
+[9] dom 18/10 · 11:05 · Sofía Andrade
+Mesa de ayuda: ayer cerraron con 21 consultas por esto y hoy ya van 12. Ramiro le dijo a la recepción que en total fueron 23 llamadas el domingo; no sé si cuenta las mismas.
+
+[10] dom 18/10 · 16:40 · Juan Paredes
+Encontrado. Es un cambio de la actualización de iOS 26 en cómo maneja los formularios dentro de la app: nuestro botón "Confirmar" está fuera del formulario y iOS 26 ya no lo asocia. Hipótesis 4 confirmada. El arreglo es chico y toca solo la pantalla de confirmación. Es del lado del servidor: los pacientes no tienen que actualizar nada.
+
+[11] dom 18/10 · 21:15 · Juan Paredes
+Arreglo hecho y probado en staging con el simulador y un iPhone. Propongo pasarlo a producción el lunes a las 18, que es cuando baja el uso. Necesito el OK de Carla antes de las 16 para avisar a la guardia. Antes, Sofía lo prueba en 3 iPhone distintos.
+
+[12] dom 18/10 · 21:40 · Pedro Ruiz
+¿No se puede subir ya esta noche? Ya le dije a Ramiro que mañana a primera hora está resuelto, el jueves es la demo con el directorio.
+
+[13] dom 18/10 · 22:05 · Juan Paredes
+Sin las pruebas en los 3 iPhone no lo subo un domingo a la noche. El riesgo es bajo, pero toca justo la pantalla que más se usa. Si sale mal, mañana a la mañana estamos peor.
+
+[14] dom 18/10 · 22:20 · Carla Méndez
+De acuerdo con Juan: se sube el lunes a las 18, con el OK de Sofía antes. Pedro, por favor no le des más horarios a Ramiro; mañana le escribo yo con la hora real. Turnos por confirmar de pacientes con iPhone entre lunes y miércoles: unos 80 según el sistema.
+
+[15] lun 19/10 · 08:10 · Juan Paredes
+Se cayó staging desde las 8 (parece el certificado SSL, otra vez). Sofía, las pruebas del arreglo hacelas en el ambiente de QA.
+
+[16] lun 19/10 · 08:32 · Sofía Andrade
+Ok. Arranco en QA con 3 iPhone: iOS 26, iOS 26 con letra grande, iOS 18. Termino a las 12 aprox. Pregunta: después del arreglo, ¿quién le avisa a los pacientes que ya pueden confirmar desde la app? ¿Y quién arma el informe del incidente para el cliente?

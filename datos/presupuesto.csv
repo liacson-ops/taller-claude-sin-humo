@@ -1,0 +1,43 @@
+mes,rubro,presupuestado_ars,real_ars,observacion
+2026-04,Desarrollo,19500000,18940000,
+2026-04,QA externa,0,0,
+2026-04,Hosting,250000,242000,
+2026-04,Coworking,100000,0,
+2026-04,Licencias,280000,268900,
+2026-04,Soporte,0,0,
+2026-05,Desarrollo,19500000,18120000,
+2026-05,QA externa,0,0,
+2026-05,Hosting,250000,242000,
+2026-05,Coworking,100000,101640,
+2026-05,Licencias,280000,271400,
+2026-05,Soporte,0,0,
+2026-06,Desarrollo,19500000,18770000,
+2026-06,QA externa,0,0,
+2026-06,Hosting,250000,242000,
+2026-06,Coworking,100000,0,
+2026-06,Licencias,280000,274200,
+2026-06,Soporte,0,0,
+2026-07,Desarrollo,19500000,15880000,Vacaciones de invierno
+2026-07,QA externa,1100000,1224520,
+2026-07,Hosting,350000,302500,
+2026-07,Coworking,100000,72600,
+2026-07,Licencias,280000,279800,
+2026-07,Soporte,0,0,
+2026-08,Desarrollo,19500000,19060000,
+2026-08,QA externa,950000,943800,
+2026-08,Hosting,350000,423500,
+2026-08,Coworking,100000,0,
+2026-08,Licencias,280000,281300,
+2026-08,Soporte,0,0,
+2026-09,Desarrollo,19500000,20410000,Salida del piloto
+2026-09,QA externa,850000,929280,
+2026-09,Hosting,450000,486750,Producción del piloto
+2026-09,Coworking,100000,254100,
+2026-09,Licencias,280000,283600,
+2026-09,Soporte,650000,,Monto a confirmar
+2026-10,Desarrollo,19500000,11666000,Parcial: horas cargadas hasta el 16/10
+2026-10,QA externa,850000,1318900,Factura QAE-1187
+2026-10,Hosting,450000,486750,Factura NUB-0042
+2026-10,Coworking,100000,169400,Factura COW-0315
+2026-10,Licencias,280000,286100,
+2026-10,Soporte,650000,,Monto a confirmar

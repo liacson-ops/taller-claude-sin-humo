@@ -1,0 +1,70 @@
+id,titulo,severidad,plataforma,detectado,resuelto,estado,sprint,reportado_por,backlog_id
+BUG-001,Carga infinita al buscar sin conexión,Alta,iOS,2026-05-18,2026-05-19,Resuelto,3,QA,TY-116
+BUG-002,La fecha del turno aparece con un día de diferencia en la web,Alta,Web,2026-05-21,2026-05-22,Resuelto,3,QA,TY-116
+BUG-003,El filtro de especialidad se borra al volver atrás,Baja,iOS,2026-05-27,2026-05-28,Resuelto,4,QA,TY-126
+BUG-004,Error al pedir turno en una sede sin especialidades cargadas,Media,iOS,2026-06-03,2026-06-15,Resuelto,4,QA,TY-126
+BUG-005,El número de afiliado acepta letras,Media,Android,2026-06-09,2026-06-12,Resuelto,5,QA,TY-139
+BUG-006,La regla de cobertura de pediatría se aplica mal,Baja,Backend,2026-06-10,2026-06-11,Resuelto,5,QA,TY-127
+BUG-007,El estado del turno no se actualiza en la web,Media,Web,2026-06-16,2026-06-18,Resuelto,5,QA,TY-144
+BUG-008,La confirmación no se ve en el panel de recepción,Baja,Backend,2026-06-23,2026-06-26,Resuelto,6,QA,TY-136
+BUG-009,El buscador muestra turnos en días feriados,Media,Backend,2026-06-24,2026-06-25,Resuelto,6,QA,TY-165
+BUG-010,El buscador no respeta el filtro de sede,Alta,iOS,2026-06-30,2026-07-01,Resuelto,6,QA,TY-163
+BUG-011,Profesionales de licencia aparecen con turnos,Crítica,iOS,2026-07-01,2026-07-03,Resuelto,6,QA,TY-163
+BUG-012,La sesión se cierra sola a los 5 minutos,Media,Web,2026-07-08,2026-07-10,Resuelto,7,QA,TY-167
+BUG-013,No se puede cancelar un turno del mismo día,Media,iOS,2026-07-08,2026-07-09,Resuelto,7,QA,TY-179
+BUG-014,Contraste insuficiente en el botón secundario,Media,iOS,2026-07-13,2026-07-16,Resuelto,7,QA,TY-167
+BUG-015,Vence el certificado SSL de staging,Baja,Backend,2026-07-14,2026-07-17,Resuelto,7,QA,TY-159
+BUG-016,Respuesta lenta del panel de recepción a la mañana,Media,Backend,2026-07-21,2026-07-24,Resuelto,8,QA,TY-171
+BUG-017,El teclado tapa el campo de contraseña en Android,Alta,Android,2026-07-29,2026-07-31,Resuelto,8,QA,TY-162
+BUG-018,Alerta de caída falsa en el monitoreo,Media,Backend,2026-08-05,2026-08-06,Resuelto,9,QA,TY-172
+BUG-019,Al reprogramar se pierde la obra social del turno,Baja,Backend,2026-08-06,2026-08-11,Resuelto,9,QA,TY-177
+BUG-020,Logs con datos personales sin enmascarar,Baja,Backend,2026-08-11,2026-08-14,Resuelto,9,QA,TY-178
+BUG-021,El link del mail lleva a la pantalla de inicio y no al turno,Baja,Backend,2026-08-19,2026-08-20,Resuelto,10,QA,TY-204
+BUG-022,El mail de confirmación sale sin la dirección de la sede,Alta,Backend,2026-08-19,2026-08-20,Resuelto,10,QA,TY-215
+BUG-023,La copia de seguridad nocturna falla los domingos,Media,Backend,2026-08-24,2026-08-28,Resuelto,10,QA,TY-199
+BUG-024,Reprogramar no muestra horarios del mismo profesional,Baja,iOS,2026-08-24,2026-08-25,Resuelto,10,QA,TY-185
+BUG-025,La contraseña no acepta caracteres especiales,Media,iOS,2026-09-01,2026-09-02,Resuelto,11,Paciente,TY-206
+BUG-026,Mensaje de error genérico cuando no hay turnos,Media,Web,2026-09-01,2026-09-03,Resuelto,11,Paciente,TY-201
+BUG-027,El login falla con documento escrito con puntos,Alta,Web,2026-09-02,2026-09-07,Resuelto,11,QA,TY-228
+BUG-028,El registro acepta fechas de nacimiento futuras,Media,Android,2026-09-02,2026-09-04,Resuelto,11,QA,TY-206
+BUG-029,Android 12 no muestra el calendario,Alta,Android,2026-09-03,2026-09-11,Resuelto,11,Cliente,TY-229
+BUG-030,La app se cierra al girar el teléfono,Media,Android,2026-09-03,,Descartado,11,Paciente,
+BUG-031,Turnos duplicados al tocar dos veces Reservar,Alta,Android,2026-09-03,2026-09-10,Resuelto,11,Cliente,TY-231
+BUG-032,El turno reservado no aparece en Mis turnos hasta reiniciar,Alta,Android,2026-09-07,2026-09-16,Resuelto,11,Cliente,TY-201
+BUG-033,No llega el mail de registro,Media,Backend,2026-09-09,,Descartado,11,Paciente,
+BUG-034,El calendario muestra días pasados como disponibles,Media,Web,2026-09-10,2026-09-17,Resuelto,11,Cliente,TY-201
+BUG-035,La lista de profesionales sale desordenada,Baja,iOS,2026-09-10,2026-09-11,Resuelto,11,QA,TY-201
+BUG-036,El mail de recordatorio muestra el profesional anterior tras reprogramar,Baja,Backend,2026-09-11,,Abierto,,Paciente,TY-236
+BUG-037,Recordatorio duplicado en turnos reprogramados,Alta,Backend,2026-09-14,2026-09-16,Resuelto,12,QA,TY-239
+BUG-038,Al cancelar no se libera el horario en la agenda,Alta,Backend,2026-09-15,2026-09-18,Resuelto,12,QA,TY-213
+BUG-039,La web no deja confirmar en Safari,Alta,Web,2026-09-16,2026-09-21,Resuelto,12,Cliente,TY-240
+BUG-040,La agenda no sincroniza los sábados,Media,Backend,2026-09-17,2026-09-22,Resuelto,12,Paciente,TY-219
+BUG-041,La web no muestra el nombre del profesional en tablets,Media,Web,2026-09-18,,Abierto,,QA,TY-244
+BUG-042,Notificación push duplicada en Android,Crítica,Android,2026-09-18,2026-09-22,Resuelto,12,Equipo,TY-224
+BUG-043,El recordatorio llega sin la dirección de la sede,Baja,iOS,2026-09-21,2026-09-25,Resuelto,12,Cliente,TY-224
+BUG-044,Texto cortado en pantallas chicas de Android,Baja,Android,2026-09-22,,Abierto,15,QA,TY-247
+BUG-045,Una push de prueba llegó a pacientes reales,Baja,Backend,2026-09-22,2026-09-25,Resuelto,12,QA,TY-224
+BUG-046,El turno figura en otra sede,Media,Web,2026-09-24,,Descartado,12,Paciente,
+BUG-047,Pantalla en blanco al pedir turno con conexión lenta,Baja,Web,2026-09-24,,Abierto,,QA,TY-248
+BUG-048,La web muestra la hora en formato de 12 h,Alta,Web,2026-09-28,2026-10-06,Resuelto,13,QA,TY-251
+BUG-049,El botón Confirmar queda deshabilitado al volver atrás,Baja,Android,2026-09-29,2026-10-07,Resuelto,13,Paciente,TY-221
+BUG-050,El panel de recepción no ordena por hora en Almagro,Media,Web,2026-09-29,,Abierto,15,QA,TY-252
+BUG-051,El mail de confirmación tiene mal escrito el nombre de la sede,Alta,Backend,2026-10-01,2026-10-09,Resuelto,13,QA,TY-221
+BUG-052,"En la web, el botón Volver pierde la búsqueda",Baja,Web,2026-10-01,,Abierto,15,QA,TY-254
+BUG-053,La app no abre en tablet,Media,iOS,2026-10-02,,Descartado,13,Cliente,
+BUG-054,El resumen del turno no muestra el profesional,Baja,Web,2026-10-05,2026-10-07,Resuelto,13,QA,TY-221
+BUG-055,Recordatorios con 1 h de diferencia por el horario de verano,Alta,Backend,2026-10-05,,Abierto,15,Paciente,TY-258
+BUG-056,La foto de perfil no se actualiza en Android,Baja,Android,2026-10-06,,Abierto,15,QA,TY-259
+BUG-057,Confirmar dos veces manda dos mails,Alta,Backend,2026-10-07,2026-10-16,Resuelto,13,Cliente,TY-221
+BUG-058,Reprogramar un turno lo duplica,Alta,Backend,2026-10-07,,Abierto,15,Cliente,TY-264
+BUG-059,La notificación push llega sin sonido en iOS,Media,iOS,2026-10-08,,Abierto,15,QA,TY-266
+BUG-060,Ícono de la app pixelado en Android,Baja,Android,2026-10-09,,Abierto,,QA,
+BUG-061,Mis turnos no muestra los turnos en lista de espera,Media,Backend,2026-10-12,,Abierto,,QA,TY-270
+BUG-062,El calendario no marca los feriados de noviembre,Media,iOS,2026-10-13,,Abierto,,Paciente,TY-271
+BUG-063,Tilde mal en el mail de bienvenida,Baja,Backend,2026-10-13,,Abierto,,Paciente,
+BUG-064,El buscador tarda en mostrar Kinesiología,Media,Backend,2026-10-14,,Abierto,,Cliente,
+BUG-065,El botón Llamar a la sede no funciona en la web,Media,Web,2026-10-15,,Abierto,,Cliente,
+BUG-066,El botón Confirmar no responde en iOS 26,Crítica,iOS,2026-10-17,,En curso,14,Paciente,TY-281
+BUG-067,No se puede confirmar el turno desde iPhone (reporte de la mesa de ayuda),Alta,iOS,2026-10-17,,Duplicado,14,Cliente,TY-281
+BUG-068,Pacientes con iPhone no reciben la confirmación,Alta,iOS,2026-10-18,,Duplicado,14,Cliente,TY-281
+BUG-069,Staging caído por certificado SSL vencido (otra vez),Alta,Backend,2026-10-19,,En curso,14,Equipo,TY-123

@@ -1,0 +1,74 @@
+HILO: "Módulo de facturación a obras sociales — presupuesto" (10 mensajes, datos ficticios)
+Personas, empresas, mails y montos son inventados para un taller.
+
+--- 1 ---
+De: Ramiro Ibáñez (Clínica Sur) · jue 15/10 17:20
+Para: Pedro Ruiz
+CC: Carla Méndez
+Pedro: como hablamos al final de la reunión, nos interesa el módulo de facturación a obras sociales. Hoy dos administrativas liquidan a mano unas 1.800 prestaciones por mes entre Salud Plena y otras dos obras sociales (Obra Social Andina y Prepaga Horizonte). Tardan casi una semana cada cierre y los rechazos por errores de carga rondan el 9 %.
+Necesitaríamos un presupuesto. Sin apuro: para después de la demo del jueves 22 está bien.
+
+--- 2 ---
+De: Pedro Ruiz · jue 15/10 18:05
+Para: Ramiro Ibáñez
+CC: Carla Méndez
+Ramiro, ¡buenísimo! Te lo mandamos el jueves 22, después de la demo.
+Para que vayas teniendo una idea: proyectos parecidos nos salieron entre $18 y $25 millones, y lo podemos tener funcionando para fin de año. Cualquier cosa me escribís.
+
+--- 3 ---
+De: Cdor. Gustavo Paz (Clínica Sur) · vie 16/10 09:40
+Para: Pedro Ruiz, Ramiro Ibáñez
+CC: Carla Méndez
+Pedro, Ramiro me reenvió el hilo. Yo cierro el presupuesto 2027 con el directorio y necesito el número antes del martes 27/10.
+Condiciones que para nosotros son importantes:
+1. Precio fijo en pesos, sin ajuste, hasta la entrega.
+2. Pago en 3 cuotas: anticipo, entrega y 60 días después.
+3. Seis meses de soporte incluidos después de la puesta en marcha.
+Y, aparte, sigo esperando el costo mensual de mantener TurnoYa el año que viene (se lo pedí a Carla).
+
+--- 4 ---
+De: Pedro Ruiz · vie 16/10 11:15
+Para: Cdor. Gustavo Paz, Ramiro Ibáñez
+CC: Carla Méndez
+Gustavo, sin problema: lo tenés el jueves 22, así llegás de sobra.
+Las 3 cuotas y el soporte los podemos incluir. Lo del precio fijo lo vemos; en general trabajamos con ajuste mensual, pero seguro encontramos la vuelta.
+
+--- 5 ---
+De: Pedro Ruiz · vie 16/10 18:40
+Para: Carla Méndez
+Carla, ¿me pasás una estimación en horas para el miércoles a la mañana? Con un rango alcanza (mínimo / máximo) y qué supuestos tomaste. Le dije a Ramiro que se lo mandamos el jueves después de la demo.
+
+--- 6 ---
+De: Carla Méndez · sáb 17/10 10:20
+Para: Pedro Ruiz
+Pedro, leí el hilo recién. Te paso la estimación el miércoles como pediste, pero antes de mandar nada al cliente necesito aclarar dos cosas:
+- "Funcionando para fin de año" no lo estimó nadie del equipo. El Sprint 15 ya está pasado de capacidad (34 puntos de candidatos contra 26 de capacidad) y Lucía, que sería quien hace la integración, está con Salud Plena por lo menos hasta el 6/11.
+- ¿De dónde sale el rango de $18 a $25 millones?
+Ojo también que la revisión del presupuesto la tenemos agendada el viernes 23 a las 10.
+
+--- 7 ---
+De: Ramiro Ibáñez (Clínica Sur) · sáb 17/10 12:30
+Para: Pedro Ruiz, Cdor. Gustavo Paz
+CC: Carla Méndez
+Pedro, Gustavo: para que el presupuesto cubra todo, sumen por favor:
+- integración con las tres obras sociales (no solo Salud Plena),
+- un reporte mensual de rechazos para finanzas.
+Gustavo me comentó que lo necesita antes del lunes 26, que es cuando el directorio cierra los números.
+
+--- 8 ---
+De: Pedro Ruiz · dom 18/10 19:10
+Para: Carla Méndez
+Tranqui, Carla. El rango lo saqué del proyecto del Policonsultorio Norte: fueron 420 horas, que a $52.000 la hora dan $21.840.000. Le puse un margen para arriba y para abajo.
+Lo de fin de año se lo dije para que no se enfríe. Mandame tu número el miércoles y ajustamos.
+
+--- 9 ---
+De: Cdor. Gustavo Paz (Clínica Sur) · lun 19/10 08:15
+Para: Pedro Ruiz, Ramiro Ibáñez
+CC: Carla Méndez
+Pedro: para poder comparar, el presupuesto tiene que traer precio total con IVA, forma de pago, plazo de entrega, costo mensual de mantenimiento posterior y validez de la oferta de al menos 30 días.
+Ramiro me dijo que lo tienen funcionando para fin de año; lo voy a poner así en el plan que presento al directorio. Recuerden: lo necesito antes del martes 27.
+
+--- 10 ---
+De: Pedro Ruiz · lun 19/10 08:31
+Para: Carla Méndez
+Carla, ¿podemos adelantar la estimación a mañana martes? Así llego a mandarlo el jueves como prometí. Y si querés sumamos los recordatorios por WhatsApp como adicional, que Ramiro los pidió.

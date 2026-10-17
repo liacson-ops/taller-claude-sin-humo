@@ -1,0 +1,181 @@
+fecha,sede,rango_edad,plataforma_preferida,cobertura,como_se_entero,acepta_recordatorios
+2026-10-01,Caballito,75 o más,iOS,Salud Plena,Recepción,si
+2026-10-01,Caballito,30 a 44,iOS,Salud Plena,Recepción,si
+2026-10-01,Villa Crespo,45 a 59,iOS,Particular,Recepción,si
+2026-10-01,Almagro,30 a 44,iOS,Salud Plena,Mail de la clínica,si
+2026-10-01,Caballito,75 o más,Android,Salud Plena,Recepción,si
+2026-10-01,Caballito,30 a 44,iOS,Particular,Mail de la clínica,si
+2026-10-02,Caballito,60 a 74,Web,Salud Plena,Recepción,si
+2026-10-02,Caballito,60 a 74,Android,Otra obra social,Mail de la clínica,si
+2026-10-02,Caballito,60 a 74,Android,Otra obra social,Recomendación,no
+2026-10-02,Caballito,30 a 44,iOS,Salud Plena,Mail de la clínica,si
+2026-10-02,Caballito,30 a 44,Android,Particular,Mail de la clínica,si
+2026-10-02,Caballito,30 a 44,Android,Salud Plena,Mail de la clínica,si
+2026-10-02,Caballito,60 a 74,Android,Salud Plena,Mail de la clínica,si
+2026-10-03,Caballito,60 a 74,Android,Otra obra social,Recomendación,no
+2026-10-03,Villa Crespo,18 a 29,Android,Otra obra social,Recepción,si
+2026-10-03,Almagro,30 a 44,Android,Otra obra social,Recepción,no
+2026-10-03,Flores,18 a 29,iOS,Salud Plena,Mail de la clínica,si
+2026-10-03,Caballito,75 o más,Android,Particular,Recomendación,si
+2026-10-04,Almagro,75 o más,Necesito ayuda,Salud Plena,Recomendación,no
+2026-10-04,Caballito,30 a 44,iOS,Particular,Recepción,si
+2026-10-05,Caballito,60 a 74,Android,Otra obra social,Cartel QR en sala de espera,si
+2026-10-05,Caballito,45 a 59,Android,Otra obra social,Recomendación,si
+2026-10-05,Flores,30 a 44,iOS,Salud Plena,Mail de la clínica,si
+2026-10-05,Almagro,45 a 59,iOS,Particular,Mail de la clínica,si
+2026-10-05,Almagro,30 a 44,Android,Particular,Mail de la clínica,no
+2026-10-05,Flores,60 a 74,iOS,Salud Plena,Mail de la clínica,si
+2026-10-05,Caballito,30 a 44,Web,Salud Plena,Recepción,no
+2026-10-05,Almagro,60 a 74,iOS,Otra obra social,Recepción,si
+2026-10-05,Caballito,75 o más,iOS,Salud Plena,Recepción,si
+2026-10-05,Almagro,45 a 59,Web,Salud Plena,Recepción,si
+2026-10-05,Almagro,75 o más,Android,Particular,Recepción,si
+2026-10-06,Flores,18 a 29,Android,Salud Plena,Recepción,si
+2026-10-06,Boedo,45 a 59,Android,Particular,Recomendación,si
+2026-10-06,Almagro,60 a 74,Web,Otra obra social,Recepción,si
+2026-10-06,Almagro,30 a 44,Android,Salud Plena,Recepción,si
+2026-10-06,Flores,45 a 59,Android,Otra obra social,Mail de la clínica,si
+2026-10-06,Flores,45 a 59,Web,Particular,Mail de la clínica,si
+2026-10-06,Villa Crespo,30 a 44,Android,Particular,Recepción,si
+2026-10-07,Flores,60 a 74,Android,Salud Plena,Mail de la clínica,si
+2026-10-07,Caballito,75 o más,Necesito ayuda,Otra obra social,Recepción,no
+2026-10-07,Almagro,45 a 59,iOS,Particular,Recepción,si
+2026-10-07,Caballito,60 a 74,Android,Salud Plena,Mail de la clínica,si
+2026-10-07,Almagro,30 a 44,Web,Otra obra social,Recepción,si
+2026-10-07,Almagro,30 a 44,iOS,Salud Plena,Mail de la clínica,si
+2026-10-07,Almagro,18 a 29,Android,Otra obra social,Recepción,si
+2026-10-08,Boedo,60 a 74,Android,Salud Plena,Recepción,si
+2026-10-08,Caballito,30 a 44,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-08,Caballito,45 a 59,Web,Salud Plena,Recepción,si
+2026-10-08,Boedo,45 a 59,Web,Otra obra social,Cartel QR en sala de espera,si
+2026-10-08,Almagro,60 a 74,Android,Salud Plena,Recepción,si
+2026-10-08,Caballito,75 o más,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-08,Almagro,75 o más,iOS,Salud Plena,Recomendación,si
+2026-10-08,Caballito,45 a 59,Android,Particular,Cartel QR en sala de espera,si
+2026-10-08,Flores,75 o más,Necesito ayuda,Salud Plena,Mail de la clínica,si
+2026-10-08,Flores,60 a 74,Android,Particular,Mail de la clínica,no
+2026-10-08,Almagro,60 a 74,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-08,Almagro,45 a 59,Android,Particular,Recepción,si
+2026-10-08,Caballito,18 a 29,Web,Salud Plena,Recepción,si
+2026-10-08,Caballito,18 a 29,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-08,Boedo,30 a 44,Web,Salud Plena,Recepción,si
+2026-10-09,Caballito,45 a 59,Android,Salud Plena,Recepción,si
+2026-10-09,Caballito,60 a 74,iOS,Salud Plena,Mail de la clínica,si
+2026-10-09,Caballito,60 a 74,Android,Otra obra social,Cartel QR en sala de espera,si
+2026-10-09,Boedo,60 a 74,Android,Particular,Recepción,si
+2026-10-09,Flores,45 a 59,iOS,Salud Plena,Mail de la clínica,no
+2026-10-09,Caballito,60 a 74,iOS,Salud Plena,Recepción,si
+2026-10-09,Caballito,18 a 29,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-09,Flores,18 a 29,Web,Otra obra social,Recomendación,si
+2026-10-09,Flores,60 a 74,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-09,Flores,30 a 44,Android,Particular,Recepción,si
+2026-10-09,Almagro,30 a 44,Android,Otra obra social,Mail de la clínica,si
+2026-10-09,Caballito,18 a 29,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-09,Caballito,75 o más,Web,Salud Plena,Recepción,no
+2026-10-09,Flores,45 a 59,Android,Particular,Recepción,no
+2026-10-09,Villa Crespo,45 a 59,Android,Otra obra social,Cartel QR en sala de espera,no
+2026-10-09,Caballito,45 a 59,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-09,Boedo,45 a 59,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-09,Caballito,30 a 44,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-09,Villa Crespo,45 a 59,Android,Salud Plena,Recepción,si
+2026-10-09,Boedo,60 a 74,Android,Otra obra social,Recepción,si
+2026-10-10,Caballito,30 a 44,iOS,Salud Plena,Mail de la clínica,si
+2026-10-10,Flores,75 o más,Necesito ayuda,Otra obra social,Cartel QR en sala de espera,si
+2026-10-10,Villa Crespo,60 a 74,Android,Salud Plena,Recomendación,si
+2026-10-10,Boedo,45 a 59,iOS,Salud Plena,Recepción,no
+2026-10-11,Boedo,30 a 44,Android,Otra obra social,Mail de la clínica,si
+2026-10-11,Boedo,75 o más,Android,Salud Plena,Recepción,si
+2026-10-11,Flores,18 a 29,Web,Otra obra social,Cartel QR en sala de espera,si
+2026-10-11,Flores,45 a 59,Android,Salud Plena,Recepción,si
+2026-10-11,Boedo,30 a 44,Android,Salud Plena,Recomendación,si
+2026-10-12,Caballito,18 a 29,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-12,Caballito,45 a 59,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-12,Almagro,45 a 59,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-12,Caballito,75 o más,Necesito ayuda,Salud Plena,Recepción,si
+2026-10-12,Caballito,18 a 29,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-12,Almagro,45 a 59,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-12,Flores,45 a 59,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-12,Flores,60 a 74,Android,Otra obra social,Mail de la clínica,si
+2026-10-12,Flores,45 a 59,iOS,Otra obra social,Mail de la clínica,si
+2026-10-12,Caballito,45 a 59,iOS,Otra obra social,Recepción,si
+2026-10-12,Flores,60 a 74,Android,Otra obra social,Mail de la clínica,si
+2026-10-12,Almagro,30 a 44,Android,Particular,Cartel QR en sala de espera,si
+2026-10-12,Almagro,18 a 29,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-12,Flores,18 a 29,Web,Salud Plena,Mail de la clínica,si
+2026-10-12,Almagro,30 a 44,Web,Particular,Cartel QR en sala de espera,si
+2026-10-12,Flores,30 a 44,Android,Otra obra social,Recepción,si
+2026-10-13,Flores,30 a 44,Web,Salud Plena,Recepción,no
+2026-10-13,Flores,18 a 29,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-13,Caballito,75 o más,Necesito ayuda,Otra obra social,Recepción,no
+2026-10-13,Boedo,30 a 44,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-13,Caballito,45 a 59,iOS,Salud Plena,Recepción,si
+2026-10-13,Boedo,45 a 59,Android,Otra obra social,Cartel QR en sala de espera,si
+2026-10-13,Flores,75 o más,Necesito ayuda,Otra obra social,Cartel QR en sala de espera,si
+2026-10-13,Caballito,30 a 44,Android,Salud Plena,Cartel QR en sala de espera,no
+2026-10-13,Flores,30 a 44,iOS,Particular,Cartel QR en sala de espera,si
+2026-10-13,Caballito,18 a 29,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-13,Caballito,30 a 44,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-13,Caballito,75 o más,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-13,Caballito,18 a 29,iOS,Otra obra social,Mail de la clínica,si
+2026-10-13,Flores,30 a 44,iOS,Particular,Mail de la clínica,si
+2026-10-13,Almagro,30 a 44,Android,Particular,Recepción,si
+2026-10-13,Flores,75 o más,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-13,Villa Crespo,75 o más,Web,Particular,Cartel QR en sala de espera,si
+2026-10-13,Caballito,75 o más,Web,Particular,Mail de la clínica,si
+2026-10-13,Flores,75 o más,Android,Salud Plena,Recepción,no
+2026-10-13,Almagro,30 a 44,Web,Salud Plena,Recepción,si
+2026-10-13,Almagro,30 a 44,Android,Particular,Recepción,si
+2026-10-13,Almagro,45 a 59,iOS,Salud Plena,Recepción,si
+2026-10-14,Caballito,45 a 59,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-14,Caballito,75 o más,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-14,Boedo,45 a 59,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-14,Almagro,45 a 59,Android,Otra obra social,Cartel QR en sala de espera,no
+2026-10-14,Caballito,60 a 74,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-14,Boedo,18 a 29,Android,Otra obra social,Recepción,si
+2026-10-14,Boedo,45 a 59,Web,Otra obra social,Cartel QR en sala de espera,si
+2026-10-14,Caballito,60 a 74,Android,Salud Plena,Cartel QR en sala de espera,no
+2026-10-14,Flores,75 o más,iOS,Otra obra social,Recepción,si
+2026-10-14,Caballito,75 o más,iOS,Particular,Cartel QR en sala de espera,si
+2026-10-14,Villa Crespo,60 a 74,Android,Otra obra social,Cartel QR en sala de espera,no
+2026-10-14,Caballito,18 a 29,Android,Salud Plena,Mail de la clínica,si
+2026-10-14,Caballito,75 o más,iOS,Particular,Recepción,si
+2026-10-14,Flores,60 a 74,Web,Particular,Cartel QR en sala de espera,si
+2026-10-14,Boedo,30 a 44,iOS,Otra obra social,Cartel QR en sala de espera,si
+2026-10-14,Caballito,30 a 44,Android,Otra obra social,Mail de la clínica,si
+2026-10-14,Almagro,60 a 74,Android,Particular,Recomendación,si
+2026-10-14,Villa Crespo,30 a 44,Android,Otra obra social,Cartel QR en sala de espera,si
+2026-10-14,Caballito,60 a 74,Android,Particular,Cartel QR en sala de espera,si
+2026-10-15,Flores,18 a 29,Android,Salud Plena,Recomendación,si
+2026-10-15,Almagro,45 a 59,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-15,Villa Crespo,75 o más,Android,Salud Plena,Mail de la clínica,si
+2026-10-15,Caballito,30 a 44,iOS,Particular,Cartel QR en sala de espera,si
+2026-10-15,Flores,30 a 44,Android,Otra obra social,Recepción,si
+2026-10-15,Boedo,60 a 74,Android,Particular,Recepción,si
+2026-10-15,Boedo,18 a 29,Web,Particular,Mail de la clínica,no
+2026-10-15,Flores,60 a 74,Android,Otra obra social,Cartel QR en sala de espera,no
+2026-10-15,Caballito,60 a 74,iOS,Particular,Cartel QR en sala de espera,si
+2026-10-15,Flores,75 o más,Android,Particular,Recepción,si
+2026-10-15,Caballito,18 a 29,Web,Particular,Cartel QR en sala de espera,si
+2026-10-15,Caballito,45 a 59,Web,Salud Plena,Recepción,si
+2026-10-15,Almagro,30 a 44,Android,Otra obra social,Mail de la clínica,no
+2026-10-15,Caballito,30 a 44,Web,Otra obra social,Cartel QR en sala de espera,si
+2026-10-15,Almagro,45 a 59,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-15,Flores,18 a 29,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-15,Caballito,60 a 74,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-15,Almagro,30 a 44,iOS,Salud Plena,Cartel QR en sala de espera,si
+2026-10-15,Boedo,75 o más,Android,Salud Plena,Recomendación,si
+2026-10-16,Flores,30 a 44,iOS,Particular,Mail de la clínica,si
+2026-10-16,Almagro,30 a 44,Android,Salud Plena,Cartel QR en sala de espera,si
+2026-10-16,Boedo,60 a 74,iOS,Salud Plena,Recepción,si
+2026-10-16,Caballito,60 a 74,Android,Particular,Cartel QR en sala de espera,si
+2026-10-16,Caballito,18 a 29,Web,Salud Plena,Recomendación,si
+2026-10-16,Caballito,30 a 44,Android,Salud Plena,Recepción,si
+2026-10-16,Caballito,60 a 74,Web,Salud Plena,Mail de la clínica,no
+2026-10-16,Flores,60 a 74,Web,Particular,Recepción,si
+2026-10-16,Caballito,45 a 59,Android,Particular,Recomendación,no
+2026-10-16,Flores,60 a 74,Web,Particular,Cartel QR en sala de espera,si
+2026-10-16,Boedo,30 a 44,Web,Salud Plena,Cartel QR en sala de espera,si
+2026-10-16,Boedo,45 a 59,Android,Particular,Mail de la clínica,si
+2026-10-16,Flores,75 o más,Web,Otra obra social,Cartel QR en sala de espera,si
+2026-10-16,Almagro,30 a 44,Android,Particular,Cartel QR en sala de espera,si
+2026-10-16,Villa Crespo,18 a 29,Android,Otra obra social,Mail de la clínica,si

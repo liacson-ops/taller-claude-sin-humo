@@ -1,0 +1,321 @@
+fecha,persona,sprint,tarea_id,horas,facturable,comentario
+2026-09-28,Carla Méndez,13,,1,si,Daily y seguimiento
+2026-09-28,Carla Méndez,13,,2.5,si,Revisión de facturas de proveedores
+2026-09-28,Juan Paredes,13,TY-223,2.5,si,Desarrollo
+2026-09-28,Juan Paredes,13,TY-223,3,si,Pair con Lucía
+2026-09-28,Juan Paredes,13,TY-223,2,si,Ajustes después de QA
+2026-09-28,Juan Paredes,13,TY-245,0.5,si,Desarrollo
+2026-09-28,Lucía Benítez,13,TY-251,0.5,si,Desarrollo
+2026-09-28,Lucía Benítez,13,TY-225,1,si,Revisión con Juan
+2026-09-28,Lucía Benítez,13,TY-237,0.5,si,Documentación
+2026-09-28,Lucía Benítez,13,TY-225,0.5,si,Documentación
+2026-09-28,Lucía Benítez,13,TY-237,0.5,si,Ajustes
+2026-09-28,Lucía Benítez,13,TY-238,2.5,si,Documentación
+2026-09-28,Lucía Benítez,13,TY-225,1.5,si,Desarrollo
+2026-09-28,Lucía Benítez,13,TY-251,0.5,si,Documentación
+2026-09-28,Martín Ferro,13,TY-234,1,si,Prototipo
+2026-09-28,Martín Ferro,13,TY-234,1,si,Prototipo
+2026-09-28,Martín Ferro,13,TY-234,1.5,si,Prototipo
+2026-09-28,Martín Ferro,13,TY-234,0.5,si,Revisión con el equipo
+2026-09-28,Martín Ferro,13,TY-234,0.5,si,Prototipo
+2026-09-28,Sofía Andrade,13,TY-223,3,si,Regresión
+2026-09-28,Sofía Andrade,13,TY-247,2,si,Casos de prueba
+2026-09-28,Sofía Andrade,13,TY-242,1,si,Reporte de bugs
+2026-09-28,Sofía Andrade,13,TY-242,1,si,Reporte de bugs
+2026-09-29,Carla Méndez,13,,1.5,si,Daily y seguimiento
+2026-09-29,Carla Méndez,13,,2.5,si,Reunión semanal con Clínica Sur
+2026-09-29,Juan Paredes,13,TY-221,1,si,Ajustes después de QA
+2026-09-29,Juan Paredes,13,TY-245,1,si,Investigación
+2026-09-29,Juan Paredes,13,TY-221,3,si,Pair con Lucía
+2026-09-29,Juan Paredes,13,TY-221,2.5,si,Pair con Lucía
+2026-09-29,Lucía Benítez,13,TY-225,1.5,si,Documentación
+2026-09-29,Lucía Benítez,13,TY-237,2,si,Documentación
+2026-09-29,Lucía Benítez,13,TY-237,0.5,si,Desarrollo
+2026-09-29,Lucía Benítez,13,TY-251,1.5,si,Pruebas unitarias
+2026-09-29,Lucía Benítez,13,TY-237,1.5,si,Revisión con Juan
+2026-09-29,Lucía Benítez,13,TY-225,1.5,si,Ajustes
+2026-09-29,Martín Ferro,13,TY-234,3,si,Diseño
+2026-09-29,Martín Ferro,13,TY-234,1,si,Prototipo
+2026-09-29,Martín Ferro,13,TY-234,1.5,si,Diseño
+2026-09-29,Pedro Ruiz,13,,1,no,Seguimiento comercial con Clínica Sur
+2026-09-29,Sofía Andrade,13,TY-252,2.5,si,Regresión
+2026-09-29,Sofía Andrade,13,TY-223,1,si,Pruebas en dispositivos
+2026-09-29,Sofía Andrade,13,TY-242,3,si,Regresión
+2026-09-30,Carla Méndez,13,,2,si,Revisión de facturas de proveedores
+2026-09-30,Carla Méndez,13,,1.5,si,Minuta y seguimiento con el cliente
+2026-09-30,Carla Méndez,13,,0.5,si,Daily y seguimiento
+2026-09-30,Juan Paredes,13,TY-221,1,si,Investigación
+2026-09-30,Juan Paredes,13,TY-223,2.5,si,Deploy a staging
+2026-09-30,Juan Paredes,13,TY-245,1.5,si,Pair con Lucía
+2026-09-30,Juan Paredes,13,TY-223,0.5,si,Revisión de código
+2026-09-30,Juan Paredes,13,TY-245,3,si,Ajustes después de QA
+2026-09-30,Lucía Benítez,13,TY-225,2,si,Documentación
+2026-09-30,Lucía Benítez,13,TY-251,3,si,Revisión con Juan
+2026-09-30,Lucía Benítez,13,TY-251,2.5,si,Pruebas unitarias
+2026-09-30,Lucía Benítez,13,TY-251,0.5,si,Revisión con Juan
+2026-09-30,Martín Ferro,13,TY-234,0.5,si,Ajustes de diseño
+2026-09-30,Martín Ferro,13,TY-234,2.5,si,Diseño
+2026-09-30,Martín Ferro,13,TY-234,1.5,si,Ajustes de diseño
+2026-09-30,Martín Ferro,13,TY-234,0.5,si,Diseño
+2026-09-30,Sofía Andrade,13,TY-242,1.5,si,Reporte de bugs
+2026-09-30,Sofía Andrade,13,TY-245,0.5,si,Pruebas en dispositivos
+2026-09-30,Sofía Andrade,13,TY-237,1,si,Regresión
+2026-09-30,Sofía Andrade,13,TY-242,1.5,si,Casos de prueba
+2026-09-30,Sofía Andrade,13,TY-242,0.5,si,Regresión
+2026-09-30,Sofía Andrade,13,TY-223,1.5,si,Pruebas
+2026-09-30,Sofía Andrade,13,TY-242,0.5,si,Pruebas
+2026-10-01,Carla Méndez,13,,1,si,Minuta y seguimiento con el cliente
+2026-10-01,Carla Méndez,13,,2,si,Reunión semanal con Clínica Sur
+2026-10-01,Carla Méndez,13,,1,si,Reunión semanal con Clínica Sur
+2026-10-01,Carla Méndez,13,,0.5,si,Daily y seguimiento
+2026-10-01,Juan Paredes,13,TY-245,2.5,si,Revisión de código
+2026-10-01,Juan Paredes,13,TY-221,2.5,si,Revisión de código
+2026-10-01,Juan Paredes,13,TY-245,2.5,si,Ajustes después de QA
+2026-10-01,Juan Paredes,13,TY-245,0.5,si,Pair con Lucía
+2026-10-01,Lucía Benítez,13,TY-251,1,si,Revisión con Juan
+2026-10-01,Lucía Benítez,13,TY-253,1,si,Ajustes
+2026-10-01,Lucía Benítez,13,TY-238,1.5,si,Documentación
+2026-10-01,Lucía Benítez,13,TY-251,1,si,Revisión con Juan
+2026-10-01,Lucía Benítez,13,TY-225,1,si,Revisión con Juan
+2026-10-01,Lucía Benítez,13,TY-251,1.5,si,Revisión con Juan
+2026-10-01,Lucía Benítez,13,TY-225,1.5,si,Ajustes
+2026-10-01,Martín Ferro,13,TY-234,1,si,Revisión con el equipo
+2026-10-01,Martín Ferro,13,TY-234,1.5,si,Prototipo
+2026-10-01,Martín Ferro,13,TY-234,2,si,Prototipo
+2026-10-01,Pedro Ruiz,13,,1.5,no,Revisión del contrato: fechas de entrega
+2026-10-01,Sofía Andrade,13,TY-225,0.5,si,Reporte de bugs
+2026-10-01,Sofía Andrade,13,TY-252,1,si,Pruebas
+2026-10-01,Sofía Andrade,13,TY-242,1.5,si,Regresión
+2026-10-01,Sofía Andrade,13,TY-252,2,si,Regresión
+2026-10-01,Sofía Andrade,13,TY-223,1,si,Pruebas
+2026-10-02,Carla Méndez,13,,2,si,Daily y seguimiento
+2026-10-02,Carla Méndez,13,,1.5,si,Minuta y seguimiento con el cliente
+2026-10-02,Carla Méndez,13,,0.5,si,Daily y seguimiento
+2026-10-02,Juan Paredes,13,TY-255,1.5,si,Ajustes después de QA
+2026-10-02,Juan Paredes,13,TY-255,1.5,si,Deploy a staging
+2026-10-02,Juan Paredes,13,TY-221,1,si,Ajustes después de QA
+2026-10-02,Juan Paredes,13,TY-223,1,si,Investigación
+2026-10-02,Juan Paredes,13,TY-223,1.5,si,Investigación
+2026-10-02,Juan Paredes,13,TY-221,2,si,Investigación
+2026-10-02,Lucía Benítez,13,TY-225,2.5,si,Ajustes
+2026-10-02,Lucía Benítez,13,TY-238,2.5,si,Pruebas unitarias
+2026-10-02,Lucía Benítez,13,TY-225,0.5,si,Documentación
+2026-10-02,Lucía Benítez,13,TY-251,1,si,Pruebas unitarias
+2026-10-02,Lucía Benítez,13,TY-225,1.5,si,Desarrollo
+2026-10-02,Martín Ferro,13,TY-256,3,si,Diseño
+2026-10-02,Martín Ferro,13,TY-256,2,si,Revisión con el equipo
+2026-10-02,Sofía Andrade,13,TY-242,1,si,Casos de prueba
+2026-10-02,Sofía Andrade,13,TY-237,0.5,si,Pruebas
+2026-10-02,Sofía Andrade,13,TY-242,2,si,Casos de prueba
+2026-10-02,Sofía Andrade,13,TY-242,2,si,Regresión
+2026-10-02,Sofía Andrade,13,TY-251,1,si,Casos de prueba
+2026-10-05,Carla Méndez,13,,1,si,Reunión semanal con Clínica Sur
+2026-10-05,Carla Méndez,13,,0.5,si,Revisión de facturas de proveedores
+2026-10-05,Carla Méndez,13,,2,si,Planificación del sprint
+2026-10-05,Carla Méndez,13,,0.5,si,Minuta y seguimiento con el cliente
+2026-10-05,Juan Paredes,13,TY-255,3,si,Pair con Lucía
+2026-10-05,Juan Paredes,13,TY-258,2,si,Deploy a staging
+2026-10-05,Juan Paredes,13,TY-223,1.5,si,Ajustes después de QA
+2026-10-05,Juan Paredes,13,TY-258,1.5,si,Pair con Lucía
+2026-10-05,Lucía Benítez,13,TY-251,1.5,si,Documentación
+2026-10-05,Lucía Benítez,13,TY-251,0.5,si,Desarrollo
+2026-10-05,Lucía Benítez,13,TY-251,2,si,Documentación
+2026-10-05,Lucía Benítez,13,TY-238,0.5,si,Revisión con Juan
+2026-10-05,Lucía Benítez,13,TY-251,1,si,Documentación
+2026-10-05,Lucía Benítez,13,TY-251,1.5,si,Ajustes
+2026-10-05,Lucía Benítez,13,TY-225,1,si,Documentación
+2026-10-05,Martín Ferro,13,TY-234,1.5,si,Prototipo
+2026-10-05,Martín Ferro,13,TY-234,3,si,Diseño
+2026-10-05,Martín Ferro,13,TY-234,1,si,Prototipo
+2026-10-05,Sofía Andrade,13,TY-242,2,si,Pruebas
+2026-10-05,Sofía Andrade,13,TY-242,3,si,Pruebas
+2026-10-05,Sofía Andrade,13,TY-247,1,si,Regresión
+2026-10-06,Carla Méndez,13,,2,si,Revisión de facturas de proveedores
+2026-10-06,Carla Méndez,13,,1.5,si,Daily y seguimiento
+2026-10-06,Juan Paredes,13,TY-223,2,si,Pair con Lucía
+2026-10-06,Juan Paredes,13,TY-255,1,si,Deploy a staging
+2026-10-06,Juan Paredes,13,TY-223,1,si,Revisión de código
+2026-10-06,Juan Paredes,13,TY-223,3,si,Pair con Lucía
+2026-10-06,Juan Paredes,13,TY-223,1.5,si,Desarrollo
+2026-10-06,Lucía Benítez,13,TY-251,1.5,si,Desarrollo
+2026-10-06,Lucía Benítez,13,TY-237,0.5,si,Revisión con Juan
+2026-10-06,Lucía Benítez,13,TY-251,2,si,Revisión con Juan
+2026-10-06,Lucía Benítez,13,TY-237,3,si,Desarrollo
+2026-10-06,Lucía Benítez,13,TY-251,1,si,Desarrollo
+2026-10-06,Lucía Benítez,13,TY-237,0.5,si,Pruebas unitarias
+2026-10-06,Martín Ferro,13,TY-234,1,si,Ajustes de diseño
+2026-10-06,Martín Ferro,13,TY-260,2.5,si,Revisión con el equipo
+2026-10-06,Martín Ferro,13,TY-234,1.5,si,Revisión con el equipo
+2026-10-06,Martín Ferro,13,TY-234,0.5,si,Diseño
+2026-10-06,Pedro Ruiz,13,,2,no,Revisión del contrato: fechas de entrega
+2026-10-06,Sofía Andrade,13,TY-237,2,si,Pruebas en dispositivos
+2026-10-06,Sofía Andrade,13,TY-242,3,si,Pruebas en dispositivos
+2026-10-06,Sofía Andrade,13,TY-237,2,si,Pruebas
+2026-10-07,Carla Méndez,13,,1.5,si,Daily y seguimiento
+2026-10-07,Carla Méndez,13,,2,si,Daily y seguimiento
+2026-10-07,Carla Méndez,13,,0.5,si,Minuta y seguimiento con el cliente
+2026-10-07,Juan Paredes,13,TY-264,65,si,Investigación: reprogramar duplica turnos
+2026-10-07,Juan Paredes,13,TY-258,1.5,si,Investigación
+2026-10-07,Lucía Benítez,13,TY-253,1.5,si,Documentación
+2026-10-07,Lucía Benítez,13,TY-237,1.5,si,Ajustes
+2026-10-07,Lucía Benítez,13,TY-225,0.5,si,Revisión con Juan
+2026-10-07,Lucía Benítez,13,TY-225,1.5,si,Pruebas unitarias
+2026-10-07,Lucía Benítez,13,TY-237,2.5,si,Revisión con Juan
+2026-10-07,Martín Ferro,13,TY-260,1.5,si,Ajustes de diseño
+2026-10-07,Martín Ferro,13,TY-260,2,si,Revisión con el equipo
+2026-10-07,Martín Ferro,13,TY-256,1,si,Revisión con el equipo
+2026-10-07,Sofía Andrade,13,TY-259,1.5,si,Pruebas en dispositivos
+2026-10-07,Sofía Andrade,13,TY-254,1.5,si,Casos de prueba
+2026-10-07,Sofía Andrade,13,TY-254,1.5,si,Regresión
+2026-10-07,Sofía Andrade,13,TY-259,1,si,Pruebas en dispositivos
+2026-10-07,Sofía Andrade,13,TY-225,0.5,si,Regresión
+2026-10-08,Carla Méndez,13,,3,si,Minuta y seguimiento con el cliente
+2026-10-08,Carla Méndez,13,,1,si,Reunión semanal con Clínica Sur
+2026-10-08,Carla Méndez,13,,0.5,si,Daily y seguimiento
+2026-10-08,Juan Paredes,13,TY-258,1.5,si,Desarrollo
+2026-10-08,Juan Paredes,13,TY-261,1.5,si,Desarrollo
+2026-10-08,Juan Paredes,13,TY-258,2,si,Deploy a staging
+2026-10-08,Juan Paredes,13,TY-264,2,si,Ajustes después de QA
+2026-10-08,Juan Paredes,13,TY-255,0.5,si,Deploy a staging
+2026-10-08,Juan Paredes,13,TY-258,1,si,Ajustes después de QA
+2026-10-08,Lucía Benítez,13,TY-225,1.5,si,Revisión con Juan
+2026-10-08,Lucía Benítez,13,TY-253,1.5,si,Ajustes
+2026-10-08,Lucía Benítez,13,TY-225,1.5,si,Documentación
+2026-10-08,Lucía Benítez,13,TY-225,1,si,Revisión con Juan
+2026-10-08,Lucía Benítez,13,TY-225,1.5,si,Pruebas unitarias
+2026-10-08,Lucía Benítez,13,TY-225,1,si,Documentación
+2026-10-08,Martín Ferro,13,TY-260,2,si,Ajustes de diseño
+2026-10-08,Martín Ferro,13,TY-260,1.5,si,Ajustes de diseño
+2026-10-08,Martín Ferro,13,TY-260,1.5,si,Ajustes de diseño
+2026-10-08,Martín Ferro,13,TY-256,0.5,si,Ajustes de diseño
+2026-10-08,Pedro Ruiz,13,,2,no,Propuesta del módulo de facturación
+2026-10-08,Sofía Andrade,13,TY-266,1,si,Reporte de bugs
+2026-10-08,Sofía Andrade,13,TY-254,1,si,Reporte de bugs
+2026-10-08,Sofía Andrade,13,TY-257,1.5,si,Reporte de bugs
+2026-10-08,Sofía Andrade,13,TY-247,2.5,si,Pruebas en dispositivos
+2026-10-08,Sofía Andrade,13,TY-247,0.5,si,Regresión
+2026-10-09,Carla Méndez,13,,0.5,si,Daily y seguimiento
+2026-10-09,Carla Méndez,13,,2,si,Reunión semanal con Clínica Sur
+2026-10-09,Carla Méndez,13,,1,si,Minuta y seguimiento con el cliente
+2026-10-09,Carla Méndez,13,,0.5,si,Minuta y seguimiento con el cliente
+2026-10-09,Juan Paredes,13,TY-264,2,si,Investigación
+2026-10-09,Juan Paredes,13,TY-255,3,si,Ajustes después de QA
+2026-10-09,Juan Paredes,13,TY-255,1,si,Ajustes después de QA
+2026-10-09,Juan Paredes,13,TY-261,1.5,si,Deploy a staging
+2026-10-09,Lucía Benítez,13,TY-253,3,si,Documentación
+2026-10-09,Lucía Benítez,13,TY-225,2.5,si,Desarrollo
+2026-10-09,Lucía Benítez,13,TY-225,1,si,Documentación
+2026-10-09,Lucía Benítez,13,TY-253,0.5,si,Pruebas unitarias
+2026-10-09,Lucía Benítez,13,TY-238,1,si,Documentación
+2026-10-09,Martín Ferro,13,TY-267,2,si,Prototipo
+2026-10-09,Martín Ferro,13,TY-267,3,si,Prototipo
+2026-10-09,Martín Ferro,13,TY-256,0.5,si,Ajustes de diseño
+2026-10-09,Sofía Andrade,13,TY-247,1,si,Pruebas en dispositivos
+2026-10-09,Sofía Andrade,13,TY-265,1,si,Pruebas
+2026-10-09,Sofía Andrade,13,TY-252,1.5,si,Pruebas
+2026-10-09,Sofía Andrade,13,TY-257,1,si,Pruebas
+2026-10-09,Sofía Andrade,13,TY-266,1,si,Regresión
+2026-10-09,Sofía Andrade,13,TY-259,1,si,Casos de prueba
+2026-10-12,Carla Méndez,14,,2.5,si,Daily y seguimiento
+2026-10-12,Carla Méndez,14,,1.5,si,Revisión de facturas de proveedores
+2026-10-12,Juan Paredes,14,TY-255,1,si,Pair con Lucía
+2026-10-12,Juan Paredes,14,TY-255,0.5,si,Pair con Lucía
+2026-10-12,Juan Paredes,14,TY-255,2,si,Deploy a staging
+2026-10-12,Juan Paredes,14,TY-261,3,si,Revisión de código
+2026-10-12,Juan Paredes,14,TY-255,1,si,Pair con Lucía
+2026-10-12,Lucía Benítez,14,TY-238,2,si,Pruebas unitarias
+2026-10-12,Lucía Benítez,14,TY-238,1,si,Ajustes
+2026-10-12,Lucía Benítez,14,TY-238,1.5,si,Revisión con Juan
+2026-10-12,Lucía Benítez,14,TY-238,1.5,si,Revisión con Juan
+2026-10-12,Lucía Benítez,14,TY-238,1,si,Ajustes
+2026-10-12,Lucía Benítez,14,TY-238,1,si,Ajustes
+2026-10-12,Martín Ferro,14,TY-256,1,si,Prototipo
+2026-10-12,Martín Ferro,14,TY-267,1.5,si,Prototipo
+2026-10-12,Martín Ferro,14,TY-260,0.5,si,Revisión con el equipo
+2026-10-12,Martín Ferro,14,TY-256,1.5,si,Diseño
+2026-10-12,Sofía Andrade,14,TY-265,2,si,Regresión
+2026-10-12,Sofía Andrade,14,TY-265,1,si,Pruebas
+2026-10-12,Sofía Andrade,14,TY-257,1.5,si,Regresión
+2026-10-12,Sofía Andrade,14,TY-265,1,si,Pruebas en dispositivos
+2026-10-12,Sofía Andrade,14,TY-265,1.5,si,Regresión
+2026-10-13,Carla Méndez,14,,2,si,Reunión semanal con Clínica Sur
+2026-10-13,Carla Méndez,14,,2,si,Reunión semanal con Clínica Sur
+2026-10-13,Juan Paredes,14,TY-255,1,si,Revisión de código
+2026-10-13,Juan Paredes,14,TY-272,1.5,si,Investigación
+2026-10-13,Juan Paredes,14,TY-255,1.5,si,Desarrollo
+2026-10-13,Juan Paredes,14,TY-261,1,si,Revisión de código
+2026-10-13,Juan Paredes,14,TY-272,2,si,Pair con Lucía
+2026-10-13,Juan Paredes,14,TY-255,0.5,si,Ajustes después de QA
+2026-10-13,Lucía Benítez,14,TY-272,0.5,si,Ajustes
+2026-10-13,Lucía Benítez,14,TY-272,0.5,si,Ajustes
+2026-10-13,Lucía Benítez,14,TY-272,1.5,si,Pruebas unitarias
+2026-10-13,Lucía Benítez,14,TY-272,2,si,Documentación
+2026-10-13,Lucía Benítez,14,TY-272,1.5,si,Revisión con Juan
+2026-10-13,Lucía Benítez,14,TY-272,2,si,Documentación
+2026-10-13,Martín Ferro,14,TY-267,2.5,si,Prototipo
+2026-10-13,Martín Ferro,14,TY-256,1,si,Revisión con el equipo
+2026-10-13,Martín Ferro,14,TY-267,1.5,si,Revisión con el equipo
+2026-10-13,Pedro Ruiz,14,,1.5,no,Propuesta del módulo de facturación
+2026-10-13,Sofía Andrade,14,TY-265,1,si,Pruebas en dispositivos
+2026-10-13,Sofía Andrade,14,TY-257,2,si,Regresión
+2026-10-13,Sofía Andrade,14,TY-257,1,si,Regresión
+2026-10-13,Sofía Andrade,14,TY-257,2,si,Pruebas
+2026-10-13,Sofía Andrade,14,TY-257,0.5,si,Regresión
+2026-10-14,Carla Méndez,14,,1,si,Revisión de facturas de proveedores
+2026-10-14,Carla Méndez,14,,3,si,Revisión de facturas de proveedores
+2026-10-14,Juan Paredes,14,TY-261,3,si,Pair con Lucía
+2026-10-14,Juan Paredes,14,TY-272,3,si,Revisión de código
+2026-10-14,Juan Paredes,14,TY-255,1,si,Desarrollo
+2026-10-14,Juan Paredes,14,TY-255,1.5,si,Deploy a staging
+2026-10-14,Lucía Benítez,14,TY-272,2,si,Pruebas unitarias
+2026-10-14,Lucía Benítez,14,TY-272,1.5,si,Desarrollo
+2026-10-14,Lucía Benítez,14,TY-272,1,si,Documentación
+2026-10-14,Lucía Benítez,14,TY-272,2,si,Desarrollo
+2026-10-14,Lucía Benítez,14,TY-272,1.5,si,Documentación
+2026-10-14,Martín Ferro,14,TY-267,3,si,Prototipo
+2026-10-14,Martín Ferro,14,TY-267,1,si,Prototipo
+2026-10-14,Martín Ferro,14,TY-267,1,si,Revisión con el equipo
+2026-10-14,Sofía Andrade,14,TY-272,1.5,si,Pruebas
+2026-10-14,Sofía Andrade,14,TY-257,1.5,si,Pruebas en dispositivos
+2026-10-14,Sofía Andrade,14,TY-265,0.5,si,Casos de prueba
+2026-10-14,Sofía Andrade,14,TY-265,1,si,Casos de prueba
+2026-10-14,Sofía Andrade,14,TY-265,2,si,Pruebas en dispositivos
+2026-10-15,Carla Méndez,14,,2,si,Daily y seguimiento
+2026-10-15,Carla Méndez,14,,1,si,Refinamiento del Sprint 15
+2026-10-15,Carla Méndez,14,,0.5,si,Refinamiento del Sprint 15
+2026-10-15,Juan Paredes,14,TY-272,2,si,Desarrollo
+2026-10-15,Juan Paredes,14,TY-261,1.5,si,Ajustes después de QA
+2026-10-15,Juan Paredes,14,TY-272,1,si,Desarrollo
+2026-10-15,Juan Paredes,14,TY-261,2,si,Desarrollo
+2026-10-15,Juan Paredes,14,TY-272,1,si,Investigación
+2026-10-15,Lucía Benítez,14,TY-272,1,si,Revisión con Juan
+2026-10-15,Lucía Benítez,14,TY-272,1,si,Revisión con Juan
+2026-10-15,Lucía Benítez,14,TY-272,0.5,si,Documentación
+2026-10-15,Lucía Benítez,14,TY-272,0.5,si,Documentación
+2026-10-15,Lucía Benítez,14,TY-272,1,si,Desarrollo
+2026-10-15,Lucía Benítez,14,TY-272,3,si,Desarrollo
+2026-10-15,Lucía Benítez,14,TY-275,1,si,Ajustes
+2026-10-15,Pedro Ruiz,14,,1.5,no,Propuesta del módulo de facturación
+2026-10-15,Sofía Andrade,14,TY-265,1,si,Regresión
+2026-10-15,Sofía Andrade,14,TY-265,1,si,Regresión
+2026-10-15,Sofía Andrade,14,TY-257,3,si,Casos de prueba
+2026-10-15,Sofía Andrade,14,TY-265,2,si,Pruebas en dispositivos
+2026-10-16,Carla Méndez,14,,2,si,Preparación de la demo
+2026-10-16,Carla Méndez,14,,1.5,si,Refinamiento del Sprint 15
+2026-10-16,Juan Paredes,14,TY-272,0.5,si,Desarrollo
+2026-10-16,Juan Paredes,14,TY-261,2,si,Revisión de código
+2026-10-16,Juan Paredes,14,TY-272,1,si,Desarrollo
+2026-10-16,Juan Paredes,14,TY-272,0.5,si,Revisión de código
+2026-10-16,Juan Paredes,14,TY-272,2,si,Desarrollo
+2026-10-16,Juan Paredes,14,TY-261,2,si,Revisión de código
+2026-10-16,Juan Paredes,14,TY-261,0.5,si,Revisión de código
+2026-10-16,Lucía Benítez,14,TY-272,3,si,Pruebas unitarias
+2026-10-16,Lucía Benítez,14,TY-272,1.5,si,Desarrollo
+2026-10-16,Lucía Benítez,14,TY-272,1.5,si,Ajustes
+2026-10-16,Lucía Benítez,14,TY-272,1,si,Ajustes
+2026-10-16,Lucía Benítez,14,TY-275,1,si,Desarrollo
+2026-10-17,Juan Paredes,14,TY-281,2.5,no,Guardia: diagnóstico del incidente iOS
+2026-10-17,Juan Paredes,14,TY-281,3,no,Guardia: hipótesis y pruebas
+2026-10-17,Sofía Andrade,14,TY-281,1.5,no,Reproducir el error en iPhone
+2026-10-18,Juan Paredes,14,TY-281,3,no,Guardia: causa encontrada
+2026-10-18,Juan Paredes,14,TY-281,2.5,no,Hotfix y prueba en staging

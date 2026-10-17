@@ -1,0 +1,16 @@
+orden,proveedor,concepto,mes,monto_aprobado_ars,aprobado_por
+OC-2026-011,NubeAR Hosting S.A.,Hosting entornos de desarrollo y pruebas,2026-04,242000,Juan Paredes
+OC-2026-014,Coworking Palermo S.A.S.,Sala de reuniones · 3 jornadas,2026-04,101640,Carla Méndez
+OC-2026-019,NubeAR Hosting S.A.,Hosting entornos de desarrollo y pruebas,2026-05,242000,Juan Paredes
+OC-2026-023,NubeAR Hosting S.A.,Hosting entornos de desarrollo y pruebas,2026-06,242000,Juan Paredes
+OC-2026-024,QA Externa S.R.L.,Pruebas funcionales · 40 horas,2026-06,1064800,Carla Méndez
+OC-2026-026,Coworking Palermo S.A.S.,Sala de reuniones · 2 jornadas,2026-06,72600,Carla Méndez
+OC-2026-029,NubeAR Hosting S.A.,Hosting servidores TurnoYa,2026-07,302500,Juan Paredes
+OC-2026-030,QA Externa S.R.L.,Pruebas funcionales · 30 horas + pruebas en dispositivos,2026-07,943800,Carla Méndez
+OC-2026-034,NubeAR Hosting S.A.,Hosting servidores TurnoYa,2026-08,423500,Juan Paredes
+OC-2026-035,QA Externa S.R.L.,Pruebas funcionales · 32 horas,2026-08,929280,Carla Méndez
+OC-2026-036,Coworking Palermo S.A.S.,Sala de reuniones · 6 jornadas,2026-08,254100,Carla Méndez
+OC-2026-039,NubeAR Hosting S.A.,Hosting servidores TurnoYa (producción del piloto),2026-09,486750,Juan Paredes
+OC-2026-040,QA Externa S.R.L.,Pruebas de carga · 40 horas + informe,2026-09,1258400,Carla Méndez
+OC-2026-041,Coworking Palermo S.A.S.,Sala de reuniones · 4 jornadas,2026-09,169400,Carla Méndez
+OC-2026-044,NubeAR Hosting S.A.,Hosting servidores TurnoYa,2026-10,486750,Juan Paredes

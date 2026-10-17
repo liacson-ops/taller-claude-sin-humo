@@ -1,6 +1,6 @@
 # Taller: cómo usar Claude en tu trabajo · sin humo
 
-Ejercicios guiados de la charla abierta **"Lo que la IA ya puede hacer por tu trabajo"** (sábado 17/10/2026, online).
+Ejercicios guiados de la charla abierta **"Cómo usar Claude en tu trabajo"** (sábado 17/10/2026, 10:00 ARG, online).
 Por [Lucas Iacson](https://lucasiacson.vercel.app) · [@ia.cson](https://instagram.com/ia.cson)
 
 Cada carpeta es un ejercicio de 8 a 15 minutos con:
@@ -33,6 +33,22 @@ Los ejercicios 01 a 05 usan un mismo caso: **Carla Méndez**, project manager de
 | [08](08-identidad-visual/) | Extra: armar opciones de identidad visual | 15' | Para después |
 | [09](09-landing-con-formulario/) | Extra: una página de inscripción con formulario | 20' | Para después |
 
+## Para ir más lejos: los datos del proyecto
+
+Cada ejercicio termina con una sección **"Ir más lejos: con más datos"**: archivos extra y pedidos de nivel 2 (dashboards, reportes, cálculos, comparaciones).
+
+La carpeta [`datos/`](datos/) tiene los datos completos del proyecto TurnoYa, todos ficticios: el backlog con **puntos de historia**, los sprints, el burndown del Sprint 14, las horas cargadas, los bugs, los turnos del piloto, los tickets de la mesa de ayuda, el presupuesto contra lo gastado, los riesgos y una encuesta a pacientes. Sirven, por ejemplo, para pedirle a Claude:
+
+```
+Te subo backlog.csv, sprints.csv y burndown-sprint-14.csv.
+Primero decime qué columnas encontraste y cuántas filas tiene cada archivo.
+Después armame un dashboard interactivo (Artifact) con la velocidad por sprint,
+comprometido vs. completado, el burndown del Sprint 14 con la línea ideal
+y los puntos por épica y por responsable, con filtros por sprint y épica.
+Mostrame los totales que usaste para que los pueda comparar con la planilla.
+```
+
+Los archivos se suben a [claude.ai](https://claude.ai) con el clip o arrastrándolos al chat. Con el plan gratuito alcanza.
 
 ## Tres reglas para todos los ejercicios
 
