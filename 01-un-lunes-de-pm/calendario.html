@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calendario de Carla Méndez · simulado</title>
+<style>
+  /* Calendario SIMULADO para el taller. Todos los datos son ficticios. */
+  :root { --line: #E2E0DA; --ink: #1B1B1A; --mute: #6B6862; --h: 54px; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font: 14px/1.35 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: var(--ink); background: #F6F6F4; }
+  header { display: flex; align-items: center; gap: 14px; padding: 10px 16px; background: #fff; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  header h1 { font-size: 17px; }
+  header .sem { color: var(--mute); }
+  header .sp { flex: 1; }
+  button { font: 600 13px/1 inherit; padding: 9px 12px; border-radius: 8px; border: 1px solid var(--ink); background: var(--ink); color: #fff; cursor: pointer; }
+  button.alt { background: #fff; color: var(--ink); }
+  .aviso { background: #FFF6D6; border-bottom: 1px solid #EAD98F; padding: 6px 16px; font-size: 13px; }
+  .wrap { overflow-x: auto; }
+  .grid { display: grid; grid-template-columns: 56px repeat(5, minmax(170px, 1fr)); min-width: 920px; background: #fff; }
+  .dh { position: sticky; top: 0; background: #fff; z-index: 2; border-bottom: 1px solid var(--line); padding: 8px; text-align: center; font-weight: 700; }
+  .dh small { display: block; font-weight: 400; color: var(--mute); }
+  .horas { border-right: 1px solid var(--line); }
+  .horas div { height: var(--h); font-size: 11px; color: var(--mute); text-align: right; padding-right: 6px; transform: translateY(-7px); }
+  .col { position: relative; border-right: 1px solid var(--line); background: repeating-linear-gradient(#fff 0 calc(var(--h) - 1px), var(--line) calc(var(--h) - 1px) var(--h)); }
+  .ev { position: absolute; left: 4px; right: 4px; border-radius: 6px; padding: 4px 6px; font-size: 12px; overflow: hidden; border-left: 4px solid; cursor: pointer; }
+  .ev b { display: block; font-size: 12.5px; }
+  .ev.equipo { background: #E8EEF8; border-color: #3C67B0; }
+  .ev.cliente { background: #FBE8E1; border-color: #C25A37; }
+  .ev.foco { background: #E9F4EA; border-color: #3E8E4C; }
+  .ev.personal { background: #F1ECF7; border-color: #7A55A8; }
+  .ev.alerta { background: #FFF2C8; border-color: #C79A00; }
+  .ev.mitad { right: 50%; } .ev.mitad2 { left: 50%; }
+  #det { position: fixed; right: 16px; bottom: 16px; max-width: 360px; background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; box-shadow: 0 10px 30px rgba(0,0,0,.12); display: none; white-space: pre-wrap; }
+  .ley { display: flex; gap: 14px; flex-wrap: wrap; padding: 8px 16px; font-size: 12px; color: var(--mute); }
+  .ley i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 5px; vertical-align: -1px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📅 Calendario de Carla Méndez</h1>
+  <span class="sem">Semana del 19 al 23 de octubre de 2026</span>
+  <span class="sp"></span>
+  <button id="copiar">Copiar la semana como texto</button>
+  <button class="alt" id="bajar">Descargar .txt</button>
+</header>
+<div class="aviso">Calendario <b>simulado</b> para el taller. Hacé clic en un evento para ver el detalle. Datos ficticios.</div>
+<div class="ley"><span><i style="background:#3C67B0"></i>Equipo</span><span><i style="background:#C25A37"></i>Cliente</span><span><i style="background:#3E8E4C"></i>Foco</span><span><i style="background:#7A55A8"></i>Personal</span><span><i style="background:#C79A00"></i>Vencimiento</span></div>
+<div class="wrap"><div class="grid" id="grid"></div></div>
+<div id="det"></div>
+<script>
+const DIAS = ['Lunes 19', 'Martes 20', 'Miércoles 21', 'Jueves 22', 'Viernes 23'];
+const DESDE = 8, HASTA = 19;
+// [día(0-4), inicio, fin, título, tipo, detalle, columna(opcional: 'mitad'|'mitad2')]
+const EV = [
+  [0, '9:30', '9:45', 'Daily TurnoYa', 'equipo', 'Videollamada. Todo el equipo.'],
+  [0, '10:00', '11:00', 'Comité interno de proyectos', 'equipo', 'Presencial, sala 2. Repaso de estado de todos los proyectos con la gerencia.', 'mitad'],
+  [0, '10:00', '10:30', 'Llamada con Ramiro (Clínica Sur)', 'cliente', 'Agendada por Ramiro el domingo a la noche. Tema: "problema iPhone".', 'mitad2'],
+  [0, '12:00', '13:00', 'Almuerzo con diseño', 'personal', 'Con Martín y el equipo de UX.'],
+  [0, '14:00', '15:30', 'Refinamiento Sprint 15', 'equipo', 'Juan, Lucía, Sofía, Martín.'],
+  [0, '16:00', '16:15', 'Vence: OK al hotfix iOS', 'alerta', 'Juan necesita el OK antes de las 16 para avisar a la guardia.'],
+  [0, '18:00', '18:30', 'Deploy hotfix iOS (Juan)', 'equipo', 'Pasaje a producción. Carla de guardia opcional.'],
+  [1, '9:30', '9:45', 'Daily TurnoYa', 'equipo', 'Videollamada.'],
+  [1, '10:00', '12:00', 'Bloque foco: feedback mockups', 'foco', 'Reservado para revisar los mockups v3 de Martín (vence martes al mediodía).', 'mitad'],
+  [1, '11:00', '12:00', 'Entrevista candidato QA', 'equipo', 'Con RRHH. Candidato: N. Ortiz.', 'mitad2'],
+  [1, '15:00', '16:00', 'Reunión semanal Clínica Sur', 'cliente', 'Virtual. Ramiro + equipo. Estado del proyecto.'],
+  [1, '17:00', '17:45', '1:1 con Juan', 'equipo', 'Seguimiento mensual.'],
+  [2, '9:00', '10:00', 'Estimación facturación con Pedro', 'equipo', 'Pedro necesita la estimación del módulo de facturación esta mañana.', 'mitad'],
+  [2, '9:30', '9:45', 'Daily TurnoYa', 'equipo', 'Videollamada.', 'mitad2'],
+  [2, '11:00', '12:00', 'Ensayo de la demo', 'equipo', 'Con Juan y Lucía. Recorrido completo de la demo del jueves.'],
+  [2, '14:00', '15:00', 'Comité de arquitectura', 'equipo', 'Revisión mensual de arquitectura de todos los proyectos.'],
+  [2, '16:00', '17:00', 'Dentista', 'personal', 'Consultorio en Belgrano.'],
+  [2, '17:00', '17:15', 'Vence: compra licencias Figma', 'alerta', 'Responder a Administración.'],
+  [3, '9:30', '9:45', 'Daily TurnoYa', 'equipo', 'Videollamada.'],
+  [3, '11:00', '12:00', 'DEMO al directorio Clínica Sur', 'cliente', 'PRESENCIAL en Clínica Sur (Av. Rivadavia 4500). Invitados: Ramiro, Dra. Ríos, Cdor. Paz, Carla, Lucía.', 'mitad'],
+  [3, '11:30', '12:30', 'Webinar "Agile para equipos remotos"', 'personal', 'Inscripción gratuita.', 'mitad2'],
+  [3, '15:00', '16:30', 'Planning Sprint 15', 'equipo', 'Juan, Lucía, Sofía, Martín.'],
+  [4, '9:30', '9:45', 'Daily TurnoYa', 'equipo', 'Videollamada.'],
+  [4, '10:00', '11:00', 'Presupuesto facturación (revisión con Pedro)', 'equipo', 'Antes de enviar el presupuesto a Clínica Sur.'],
+  [4, '17:00', '18:00', 'Retro Sprint 14', 'equipo', 'Todo el equipo.'],
+  [4, '18:00', '18:15', 'Vence: carga de horas de octubre', 'alerta', 'Las horas no cargadas no se facturan.'],
+];
+const min = h => { const [a, b] = h.split(':').map(Number); return a * 60 + b; };
+const H = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--h'));
+const g = document.getElementById('grid');
+g.insertAdjacentHTML('beforeend', '<div class="dh"></div>' + DIAS.map(d => `<div class="dh">${d}<small>octubre</small></div>`).join(''));
+const horas = document.createElement('div'); horas.className = 'horas';
+for (let h = DESDE; h < HASTA; h++) horas.insertAdjacentHTML('beforeend', `<div>${h}:00</div>`);
+g.appendChild(horas);
+const cols = DIAS.map(() => { const c = document.createElement('div'); c.className = 'col'; c.style.height = (HASTA - DESDE) * H + 'px'; g.appendChild(c); return c; });
+const det = document.getElementById('det');
+EV.forEach(([d, i, f, t, tipo, x, lado]) => {
+  const e = document.createElement('div'); e.className = `ev ${tipo} ${lado || ''}`;
+  e.style.top = ((min(i) - DESDE * 60) / 60 * H) + 'px';
+  e.style.height = Math.max(22, (min(f) - min(i)) / 60 * H - 2) + 'px';
+  e.innerHTML = `<b></b><span></span>`; e.querySelector('b').textContent = t; e.querySelector('span').textContent = `${i}–${f}`;
+  e.onclick = () => { det.style.display = 'block'; det.textContent = `${t}\n${DIAS[d]} · ${i}–${f}\n\n${x}`; };
+  cols[d].appendChild(e);
+});
+document.body.onclick = (ev) => { if (!ev.target.closest('.ev')) det.style.display = 'none'; };
+function comoTexto() {
+  return 'CALENDARIO DE CARLA MÉNDEZ · semana del 19 al 23/10/2026 (datos ficticios)\n\n' +
+    DIAS.map((dia, d) => dia + ' de octubre\n' + EV.filter(e => e[0] === d).sort((a, b) => min(a[1]) - min(b[1]))
+      .map(e => `  ${e[1]}–${e[2]}  ${e[3]}  [${e[4]}]  · ${e[5]}`).join('\n')).join('\n\n');
+}
+document.getElementById('copiar').onclick = async (ev) => {
+  ev.stopPropagation();
+  try { await navigator.clipboard.writeText(comoTexto()); ev.target.textContent = '¡Copiado! Pegalo en Claude'; setTimeout(() => ev.target.textContent = 'Copiar la semana como texto', 2500); }
+  catch (e) { prompt('Copiá este texto:', comoTexto()); }
+};
+document.getElementById('bajar').onclick = () => {
+  const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([comoTexto()], { type: 'text/plain;charset=utf-8' }));
+  a.download = 'calendario-carla-mendez.txt'; a.click();
+};
+</script>
+</body>
+</html>

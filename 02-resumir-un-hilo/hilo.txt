@@ -1,0 +1,41 @@
+HILO: "Alcance Sprint 14 — integración con obra social" (8 mensajes, datos ficticios)
+
+--- 1 ---
+De: Lucía Benítez · lun 12/10 9:14
+Para: Carla Méndez, Juan Paredes
+Carla, Juan: para el Sprint 14 tenemos comprometida la integración con la obra social "Salud Plena". Todavía no nos mandaron las credenciales del ambiente de pruebas. Sin eso no puedo probar nada real. ¿Alguien las pidió?
+
+--- 2 ---
+De: Carla Méndez · lun 12/10 10:02
+Para: Lucía Benítez, Juan Paredes, Ramiro Ibáñez
+Ramiro, ¿nos podés ayudar a conseguir las credenciales de prueba de Salud Plena? Las necesitamos esta semana para llegar a la demo del 22.
+
+--- 3 ---
+De: Ramiro Ibáñez · lun 12/10 18:30
+Para: Carla Méndez, Lucía Benítez, Juan Paredes
+Hablé con Salud Plena. Dicen que las credenciales de prueba tardan "entre 10 y 15 días hábiles". No hay forma de acelerarlo. ¿Qué hacemos con la demo?
+
+--- 4 ---
+De: Juan Paredes · mar 13/10 9:05
+Para: todos
+Propuesta: para la demo armamos una integración simulada (mock) que devuelve respuestas como las de Salud Plena. Se ve igual en pantalla. La integración real pasa al Sprint 15, cuando lleguen las credenciales.
+
+--- 5 ---
+De: Lucía Benítez · mar 13/10 11:40
+Para: todos
+De acuerdo con el mock. Me lleva 2 días. Pero necesito saber qué casos mostrar: ¿solo "afiliado activo" o también "afiliado con deuda" y "plan que no cubre la especialidad"?
+
+--- 6 ---
+De: Carla Méndez · mié 14/10 8:50
+Para: todos
+Mostremos los tres casos: activo, con deuda y sin cobertura. Es lo que más le importa al directorio. Lucía, ¿llegás al miércoles 21 para el ensayo?
+
+--- 7 ---
+De: Pedro Ruiz · mié 14/10 16:20
+Para: todos
+Ojo con el contrato: dice que la integración con obra social se entrega "funcionando en producción" el 30/10. Si la pasamos al Sprint 15, la fecha real queda en 6/11. Hay que avisarle formalmente a Ramiro y que lo acepte por escrito.
+
+--- 8 ---
+De: Juan Paredes · jue 15/10 19:02
+Para: todos
+Entonces quedamos así: la integración con la obra social va con datos simulados en la demo, la real entra en el Sprint 15. Lucía documenta antes del jueves. Ramiro, ¿confirmás que el directorio está de acuerdo con ver datos de prueba?

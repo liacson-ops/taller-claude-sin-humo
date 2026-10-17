@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Casilla de Carla Méndez · simulada</title>
+<style>
+  /* Casilla de correo SIMULADA para el taller. Todos los datos son ficticios. */
+  :root { --bg: #F6F6F4; --line: #DEDCD6; --ink: #1B1B1A; --mute: #6B6862; --acc: #D97757; --sel: #FBEDE7; --card: #fff; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font: 15px/1.45 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: var(--ink); background: var(--bg); height: 100vh; display: flex; flex-direction: column; }
+  header { display: flex; align-items: center; gap: 14px; padding: 10px 16px; background: var(--card); border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  header h1 { font-size: 17px; font-weight: 700; }
+  header .who { color: var(--mute); font-size: 13px; }
+  header input { flex: 1; min-width: 180px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; font: inherit; }
+  button { font: 600 13px/1 inherit; padding: 9px 12px; border-radius: 8px; border: 1px solid var(--ink); background: var(--ink); color: #fff; cursor: pointer; }
+  button.alt { background: #fff; color: var(--ink); }
+  .aviso { background: #FFF6D6; border-bottom: 1px solid #EAD98F; padding: 6px 16px; font-size: 13px; }
+  main { flex: 1; display: grid; grid-template-columns: minmax(280px, 420px) 1fr; min-height: 0; }
+  #lista { overflow-y: auto; border-right: 1px solid var(--line); background: var(--card); }
+  .item { padding: 10px 14px; border-bottom: 1px solid var(--line); cursor: pointer; display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; }
+  .item:hover { background: #FAFAF8; }
+  .item.sel { background: var(--sel); }
+  .item.nuevo .de, .item.nuevo .asunto { font-weight: 700; }
+  .item .de { font-size: 14px; }
+  .item .hora { font-size: 12px; color: var(--mute); }
+  .item .asunto { grid-column: 1 / -1; font-size: 14px; }
+  .item .prev { grid-column: 1 / -1; font-size: 13px; color: var(--mute); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .tag { display: inline-block; font-size: 11px; font-weight: 700; padding: 1px 6px; border-radius: 4px; margin-right: 4px; background: #EEE; color: #555; }
+  .tag.adj { background: #E7EEF9; color: #2A4E86; }
+  .tag.ext { background: #FBEDE7; color: #9A4426; }
+  #lectura { overflow-y: auto; padding: 24px 30px; }
+  #lectura h2 { font-size: 21px; margin-bottom: 10px; }
+  #lectura .meta { color: var(--mute); font-size: 13px; margin-bottom: 18px; line-height: 1.6; }
+  #lectura .cuerpo { white-space: pre-wrap; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; max-width: 820px; }
+  #lectura .adjunto { margin-top: 12px; font-size: 13px; color: var(--mute); }
+  .vacio { color: var(--mute); padding: 40px; }
+  #toast { position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 10px 16px; border-radius: 8px; font-size: 14px; display: none; }
+  @media (max-width: 760px) { main { grid-template-columns: 1fr; } #lectura { display: none; } main.leyendo #lista { display: none; } main.leyendo #lectura { display: block; padding: 16px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>📥 Bandeja de entrada</h1>
+  <span class="who">carla.mendez@nimbus-software.example · lunes 19 de octubre, 8:40</span>
+  <input id="buscar" placeholder="Buscar en el correo">
+  <button id="copiar">Copiar toda la casilla como texto</button>
+  <button class="alt" id="bajar">Descargar .txt</button>
+</header>
+<div class="aviso">Casilla <b>simulada</b> para el taller "Cómo usar Claude en tu trabajo". Empresas, personas y mails son ficticios.</div>
+<main id="main">
+  <div id="lista"></div>
+  <div id="lectura"><p class="vacio">Elegí un mail de la lista.</p></div>
+</main>
+<div id="toast"></div>
+<script>
+const MAILS = [
+ { id: 1, de: 'Ramiro Ibáñez (Clínica Sur)', mail: 'ribanez@clinicasur.example', para: 'Carla Méndez', cc: 'Pedro Ruiz', fecha: 'lun 19/10 7:52', ext: true, nuevo: true,
+   asunto: 'URGENTE: los pacientes no pueden confirmar turnos desde iPhone',
+   cuerpo: `Carla:
+
+Desde el viernes a la tarde varios pacientes nos llaman porque al tocar "Confirmar turno" en la app desde iPhone no pasa nada. En Android funciona. Ayer tuvimos 23 llamadas por esto y la recepción está desbordada.
+
+Les recuerdo que el jueves presentamos TurnoYa al directorio de la clínica. Si esto no está resuelto, no voy a poder defender el proyecto.
+
+Necesito hoy mismo saber qué pasó, cuándo se arregla y qué les decimos a los pacientes mientras tanto.
+
+Ramiro Ibáñez
+Gerente de Operaciones · Clínica Sur` },
+ { id: 2, de: 'Juan Paredes', mail: 'juan.paredes@nimbus-software.example', para: 'Carla Méndez', fecha: 'lun 19/10 8:05', nuevo: true,
+   asunto: 'Hotfix iOS listo — necesito tu OK para producción hoy 18 hs',
+   cuerpo: `Carla, encontramos el problema del botón de confirmar en iOS: es un cambio de Safari 26 en cómo maneja los formularios dentro de la app. El arreglo está hecho y probado en staging (antes de que se cayera, ver mi otro mail).
+
+Propongo pasarlo a producción hoy a las 18 hs, que es cuando baja el uso. Necesito tu OK antes de las 16 para avisar al equipo de guardia.
+
+Riesgo: bajo. Toca solo la pantalla de confirmación. Sofía lo está probando en 3 iPhone distintos esta mañana.
+
+Juan` },
+ { id: 3, de: 'Juan Paredes', mail: 'juan.paredes@nimbus-software.example', para: 'Equipo TurnoYa', fecha: 'lun 19/10 8:21', nuevo: true,
+   asunto: 'Se cayó staging',
+   cuerpo: `Equipo: el ambiente de staging no responde desde las 8. Parece el certificado SSL, que venció anoche. Lo estoy mirando, calculo 1 hora.
+
+Mientras tanto no deployen nada a staging. Sofía, las pruebas del hotfix iOS hacelas en el ambiente de QA.
+
+Juan` },
+ { id: 4, de: 'Sofía Andrade', mail: 'sofia.andrade@nimbus-software.example', para: 'Carla Méndez; Juan Paredes', fecha: 'lun 19/10 8:30', nuevo: true, adj: 'reporte-bugs-sprint14.xlsx',
+   asunto: 'Reporte de QA Sprint 14: 3 críticos',
+   cuerpo: `Hola, les dejo el reporte del Sprint 14.
+
+Críticos (3):
+- iOS: botón "Confirmar turno" no responde (el del hotfix de Juan).
+- Reprogramar un turno a otro día lo duplica en vez de moverlo.
+- Las notificaciones de recordatorio llegan con 1 hora de diferencia (horario de verano).
+
+Menores (5): textos cortados en pantallas chicas, logo pixelado en el login, orden de especialidades, mensaje de error genérico al fallar el pago, botón "volver" inconsistente.
+
+Mi recomendación: no mostrar "reprogramar turno" en la demo del jueves hasta que esté arreglado.
+
+Sofía` },
+ { id: 5, de: 'Pedro Ruiz (Comercial)', mail: 'pedro.ruiz@nimbus-software.example', para: 'Carla Méndez', fecha: 'vie 16/10 18:40',
+   asunto: 'Presupuesto módulo de facturación para Clínica Sur',
+   cuerpo: `Carla, Ramiro me pidió presupuesto para un módulo de facturación a obras sociales. Le dije que se lo mandamos el jueves después de la demo.
+
+¿Me pasás una estimación en horas para el miércoles a la mañana? Con un rango alcanza (mínimo / máximo) y qué supuestos tomaste.
+
+Gracias!
+Pedro` },
+ { id: 6, de: 'Martín Ferro (UX)', mail: 'martin.ferro@nimbus-software.example', para: 'Carla Méndez', fecha: 'vie 16/10 17:15', adj: 'mockups-reprogramacion-v3.fig',
+   asunto: 'Mockups nuevos del flujo de reprogramación',
+   cuerpo: `Te dejo la versión 3 del flujo de reprogramación de turnos. Cambié el calendario por una lista de próximos horarios disponibles, que en las pruebas con pacientes mayores funcionó mucho mejor.
+
+Necesito tu feedback antes del martes al mediodía, así Lucía arranca con el desarrollo el miércoles.
+
+Martín` },
+ { id: 7, de: 'Lucía Benítez', mail: 'lucia.benitez@nimbus-software.example', para: 'Carla Méndez', fecha: 'vie 16/10 16:02',
+   asunto: 'Licencia jueves y viernes',
+   cuerpo: `Carla, te aviso que el jueves 22 y el viernes 23 voy a estar de licencia por un trámite personal que ya tenía programado. Lo cargué en el sistema de RRHH.
+
+Antes de irme dejo documentada la integración con la obra social para que Juan pueda responder preguntas en la demo.
+
+Lucía` },
+ { id: 8, de: 'Google Calendar', mail: 'calendar-notification@google.example', para: 'Carla Méndez', fecha: 'vie 16/10 15:30',
+   asunto: 'Invitación: Demo TurnoYa al directorio de Clínica Sur · jue 22/10 11:00–12:00',
+   cuerpo: `Ramiro Ibáñez te invitó a un evento.
+
+Demo TurnoYa al directorio de Clínica Sur
+Jueves 22 de octubre · 11:00 – 12:00
+Sala de directorio, Clínica Sur (presencial)
+
+Invitados: Ramiro Ibáñez, Dra. Elena Ríos (Directora médica), Cdor. Gustavo Paz (Director financiero), Carla Méndez, Lucía Benítez
+
+¿Vas a asistir? Sí · No · Quizás` },
+ { id: 9, de: 'Ramiro Ibáñez (Clínica Sur)', mail: 'ribanez@clinicasur.example', para: 'Carla Méndez', fecha: 'vie 16/10 14:10', ext: true,
+   asunto: 'Una idea para la demo',
+   cuerpo: `Carla, ¿podemos sumar para la demo del jueves que la app mande un recordatorio por WhatsApp el día anterior al turno? Al directorio le encantaría verlo.
+
+No creo que sea mucho trabajo, ¿no?
+
+Ramiro` },
+ { id: 10, de: 'Administración', mail: 'admin@nimbus-software.example', para: 'Carla Méndez', fecha: 'vie 16/10 12:00',
+   asunto: 'Aprobación pendiente: licencias de Figma (3)',
+   cuerpo: `Hola Carla, tenés pendiente aprobar la compra de 3 licencias de Figma para el equipo de diseño (USD 45 por mes cada una). La orden vence el miércoles 21.
+
+Respondé "apruebo" o "rechazo" a este mail.
+
+Administración` },
+ { id: 11, de: 'RRHH', mail: 'rrhh@nimbus-software.example', para: 'Todo el equipo', fecha: 'vie 16/10 10:00',
+   asunto: 'Recordatorio: cargar horas de octubre antes del viernes 23',
+   cuerpo: `Recordamos que la carga de horas de octubre cierra el viernes 23 a las 18 hs. Las horas no cargadas no se facturan al cliente.
+
+RRHH` },
+ { id: 12, de: 'NubeAR Hosting', mail: 'facturacion@nubear.example', para: 'Carla Méndez', fecha: 'jue 15/10 09:12', ext: true, adj: 'factura-NUB-0042.pdf',
+   asunto: 'Factura B 0003-00000042 · Octubre 2026',
+   cuerpo: `Adjuntamos la factura correspondiente al servicio de hosting de octubre 2026 para el proyecto TurnoYa.
+
+Total: $ 486.750,00
+Vencimiento: 30/10/2026
+
+NubeAR Hosting` },
+ { id: 13, de: 'QA Externa SRL', mail: 'cobranzas@qaexterna.example', para: 'Carla Méndez', fecha: 'mié 14/10 17:44', ext: true, adj: 'factura-QAE-1187.pdf',
+   asunto: 'Factura A 0001-00001187 · Pruebas de carga',
+   cuerpo: `Carla, te enviamos la factura por las pruebas de carga realizadas en septiembre.
+
+Total: $ 1.274.000,00
+Vencimiento: 25/10/2026
+
+Saludos, QA Externa SRL` },
+ { id: 14, de: 'Sofía Andrade', mail: 'sofia.andrade@nimbus-software.example', para: 'Equipo TurnoYa', fecha: 'mié 14/10 11:20',
+   asunto: '¿Movemos la daily a las 9:45?',
+   cuerpo: `Equipo, ¿podemos mover la daily de 9:30 a 9:45 a partir del lunes? A las 9:30 se me superpone con el control de turnos del ambiente de QA.
+
+Sofía` },
+ { id: 15, de: 'Juan Paredes', mail: 'juan.paredes@nimbus-software.example', para: 'Carla Méndez; Lucía Benítez; Pedro Ruiz; Ramiro Ibáñez', fecha: 'lun 12/10 – jue 15/10', hilo: 8,
+   asunto: 'Re: Alcance Sprint 14 — integración con obra social (8 mensajes)',
+   cuerpo: `[Hilo completo en 02-resumir-un-hilo/hilo.txt]
+
+Último mensaje (Juan, jue 15/10 19:02):
+Entonces quedamos así: la integración con la obra social va con datos simulados en la demo, la real entra en el Sprint 15. Lucía documenta antes del jueves. Ramiro, ¿confirmás que el directorio está de acuerdo con ver datos de prueba?` },
+ { id: 16, de: 'Productividad Extrema IA', mail: 'news@productividad-extrema.example', para: 'Carla Méndez', fecha: 'lun 19/10 6:00', ext: true, nuevo: true,
+   asunto: '🚨 10 prompts que te harán 10x más productiva (el #7 es secreto)',
+   cuerpo: `¡Hola Carla!
+
+El 99% de los project managers está usando la IA MAL. Estos 10 prompts secretos van a cambiar tu carrera PARA SIEMPRE.
+
+👉 Comentá "PROMPTS" en nuestro último post y te mandamos el PDF.
+⏰ Solo por hoy: curso completo a USD 9,99 (antes USD 299).
+
+No te quedes atrás.` },
+ { id: 17, de: 'LinkedIn', mail: 'notificaciones@linkedin.example', para: 'Carla Méndez', fecha: 'dom 18/10 20:00', ext: true,
+   asunto: 'Carla, tenés 12 notificaciones nuevas',
+   cuerpo: `Mirá quién vio tu perfil esta semana y las publicaciones que te perdiste.` },
+ { id: 18, de: 'Elena Ríos (Clínica Sur)', mail: 'erios@clinicasur.example', para: 'Carla Méndez', cc: 'Ramiro Ibáñez', fecha: 'lun 19/10 8:35', ext: true, nuevo: true,
+   asunto: 'Consulta sobre datos de pacientes en la app',
+   cuerpo: `Estimada Carla:
+
+Soy la Directora médica de Clínica Sur. Antes de la reunión del jueves quisiera entender dónde se guardan los datos de los pacientes que usan la app y quién tiene acceso a ellos. Es una pregunta que me van a hacer en el directorio.
+
+¿Me podría enviar un resumen breve antes del miércoles?
+
+Dra. Elena Ríos
+Directora médica` },
+ { id: 19, de: 'Juan Paredes', mail: 'juan.paredes@nimbus-software.example', para: 'Carla Méndez', fecha: 'lun 19/10 8:38', nuevo: true,
+   asunto: 'Re: Se cayó staging',
+   cuerpo: `Listo, era el certificado. Staging vuelve a funcionar. Agendé la renovación automática para que no vuelva a pasar.
+
+Juan` },
+ { id: 20, de: 'Clínica Sur · Mesa de ayuda', mail: 'soporte@clinicasur.example', para: 'Carla Méndez', fecha: 'lun 19/10 8:39', ext: true, nuevo: true,
+   asunto: 'Pacientes preguntan qué hacer con el turno del iPhone',
+   cuerpo: `Hola, somos la mesa de ayuda de la clínica. ¿Qué les decimos a los pacientes que no pueden confirmar desde iPhone? ¿Les confirmamos el turno por teléfono? Necesitamos un texto para responder igual a todos.
+
+Mesa de ayuda · Clínica Sur` },
+ { id: 21, de: 'Pedro Ruiz (Comercial)', mail: 'pedro.ruiz@nimbus-software.example', para: 'Carla Méndez', fecha: 'lun 19/10 8:40', nuevo: true,
+   asunto: 'Re: Una idea para la demo (WhatsApp)',
+   cuerpo: `Carla, vi que Ramiro te pidió lo de WhatsApp. Ojo que eso no está en el alcance y requiere aprobación de Meta para el número de la clínica (tarda semanas). Si querés lo ofrecemos como adicional en el presupuesto de facturación.
+
+Pedro` },
+ { id: 22, de: 'Gustavo Paz (Clínica Sur)', mail: 'gpaz@clinicasur.example', para: 'Carla Méndez', fecha: 'vie 16/10 11:30', ext: true,
+   asunto: 'Costo mensual de la plataforma',
+   cuerpo: `Carla, para el directorio necesito el costo mensual estimado de mantener TurnoYa funcionando el año que viene (hosting, soporte, licencias). Si me lo pasás en una tabla simple, mejor.
+
+Cdor. Gustavo Paz
+Director financiero · Clínica Sur` },
+];
+
+const lista = document.getElementById('lista'), lectura = document.getElementById('lectura'), main = document.getElementById('main');
+let sel = null;
+function pintar(f = '') {
+  const q = f.trim().toLowerCase();
+  lista.innerHTML = '';
+  MAILS.filter(m => !q || (m.de + m.asunto + m.cuerpo).toLowerCase().includes(q)).forEach(m => {
+    const d = document.createElement('div');
+    d.className = 'item' + (m.nuevo ? ' nuevo' : '') + (sel === m.id ? ' sel' : '');
+    d.innerHTML = `<span class="de"></span><span class="hora"></span><span class="asunto"></span><span class="prev"></span>`;
+    d.querySelector('.de').textContent = m.de;
+    d.querySelector('.hora').textContent = m.fecha;
+    const a = d.querySelector('.asunto');
+    if (m.ext) a.insertAdjacentHTML('beforeend', '<span class="tag ext">externo</span>');
+    if (m.adj) a.insertAdjacentHTML('beforeend', '<span class="tag adj">📎 adjunto</span>');
+    a.append(document.createTextNode(m.asunto));
+    d.querySelector('.prev').textContent = m.cuerpo.replace(/\s+/g, ' ').slice(0, 120);
+    d.onclick = () => abrir(m);
+    lista.appendChild(d);
+  });
+}
+function abrir(m) {
+  sel = m.id; m.nuevo = false; pintar(document.getElementById('buscar').value);
+  lectura.innerHTML = '';
+  const h = document.createElement('h2'); h.textContent = m.asunto;
+  const meta = document.createElement('div'); meta.className = 'meta';
+  meta.innerText = `De: ${m.de} <${m.mail}>\nPara: ${m.para}${m.cc ? `\nCC: ${m.cc}` : ''}\nFecha: ${m.fecha}`;
+  const c = document.createElement('div'); c.className = 'cuerpo'; c.textContent = m.cuerpo;
+  lectura.append(h, meta, c);
+  if (m.adj) { const a = document.createElement('div'); a.className = 'adjunto'; a.textContent = '📎 ' + m.adj + ' (simulado)'; lectura.append(a); }
+  main.classList.add('leyendo');
+}
+function comoTexto() {
+  return 'CASILLA DE CORREO DE CARLA MÉNDEZ (Project Manager, Nimbus Software) · lunes 19/10, 8:40\n' +
+    MAILS.length + ' mails. Datos ficticios para un taller.\n\n' +
+    MAILS.map(m => `--- MAIL ${m.id} ---\nDe: ${m.de} <${m.mail}>\nPara: ${m.para}${m.cc ? `\nCC: ${m.cc}` : ''}\nFecha: ${m.fecha}\nAsunto: ${m.asunto}${m.adj ? `\nAdjunto: ${m.adj}` : ''}\n\n${m.cuerpo}\n`).join('\n');
+}
+const toast = (t) => { const el = document.getElementById('toast'); el.textContent = t; el.style.display = 'block'; setTimeout(() => el.style.display = 'none', 2600); };
+document.getElementById('copiar').onclick = async () => {
+  try { await navigator.clipboard.writeText(comoTexto()); toast('Copiado: ' + MAILS.length + ' mails. Pegalo en Claude.'); }
+  catch (e) { prompt('Copiá este texto:', comoTexto()); }
+};
+document.getElementById('bajar').onclick = () => {
+  const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([comoTexto()], { type: 'text/plain;charset=utf-8' }));
+  a.download = 'casilla-carla-mendez.txt'; a.click();
+};
+document.getElementById('buscar').oninput = (e) => pintar(e.target.value);
+pintar();
+</script>
+</body>
+</html>
