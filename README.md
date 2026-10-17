@@ -33,7 +33,6 @@ Los ejercicios 01 a 05 usan un mismo caso: **Carla Méndez**, project manager de
 | [08](08-identidad-visual/) | Extra: armar opciones de identidad visual | 15' | Para después |
 | [09](09-landing-con-formulario/) | Extra: una página de inscripción con formulario | 20' | Para después |
 
-Para quien facilita: [`docs/guia-facilitador.md`](docs/guia-facilitador.md) (tiempos y respuestas esperadas).
 
 ## Tres reglas para todos los ejercicios
 
