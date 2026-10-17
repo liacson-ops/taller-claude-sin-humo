@@ -87,6 +87,44 @@ table.t td { padding: 16px; border-bottom: 2px solid rgba(13,13,13,.18); vertica
 .chip { display: inline-block; font-family: 'Anton', sans-serif; text-transform: uppercase; font-size: 34px; padding: 10px 22px; border: 4px solid var(--tinta); background: #fff; }
 .code { font-family: ui-monospace, Menlo, monospace; font-size: 28px; line-height: 1.5; background: var(--tinta); color: var(--papel); padding: 28px 32px; white-space: pre-wrap; }
 .code b { color: var(--naranja); font-weight: 700; }
+/* Nivel 2: datos y dashboard */
+.dato { padding: 22px 26px; } .dato h3 { font-size: 38px; } .dato p { font-size: 24px; margin-top: 6px; }
+.an.n { font-size: 96px; line-height: 1; color: var(--naranja); }
+.n .an.n { color: var(--tinta); }
+.n .card { color: var(--tinta); } .n .card h3 { font-size: 40px; } .n .card p { font-size: 24px; } .n .card .an.n { font-size: 68px; color: var(--naranja); white-space: nowrap; }
+.tablero { background: #fff; color: var(--tinta); border: 4px solid var(--papel); box-shadow: 12px 12px 0 var(--naranja); padding: 24px 28px 18px; }
+.kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.kpis div { border: 3px solid var(--tinta); padding: 8px 14px; }
+.kpis small { display: block; font-family: 'Anton', sans-serif; text-transform: uppercase; font-size: 18px; letter-spacing: .06em; color: var(--gris); }
+.kpis b { font-family: 'Anton', sans-serif; font-weight: 400; font-size: 52px; line-height: 1.05; }
+.vbars { display: flex; align-items: flex-end; gap: 10px; height: 360px; margin-top: 20px; border-bottom: 4px solid var(--tinta); padding: 0 6px; }
+.vb { flex: 1; position: relative; height: 100%; display: flex; align-items: flex-end; justify-content: center; }
+.vb .vc, .vb .vd { position: absolute; bottom: 0; width: 70%; transform-origin: bottom; transform: scaleY(0); }
+.vb .vc { border: 3px solid var(--tinta); }
+.vb .vd { background: var(--naranja); width: 52%; }
+.vb span { position: absolute; bottom: -34px; font-family: 'Anton', sans-serif; font-size: 20px; }
+section.on .vb .vc, section.on .vb .vd { animation: crece .7s cubic-bezier(.2,.8,.2,1) both; animation-delay: calc(1s + var(--i) * .09s); }
+section.on .vb .vd { animation-delay: calc(1.3s + var(--i) * .09s); }
+@keyframes crece { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+.ley { margin-top: 44px; font-size: 22px; display: flex; gap: 12px; align-items: center; }
+.ley i { width: 22px; height: 16px; display: inline-block; } .ley .lc { border: 3px solid var(--tinta); } .ley .ld { background: var(--naranja); margin-left: 14px; }
+.ley span { margin-left: auto; color: var(--gris); }
+.burn { width: 100%; font-family: 'Anton', sans-serif; font-size: 22px; fill: var(--gris); }
+.burn .gl { stroke: rgba(13,13,13,.12); stroke-width: 2; }
+.burn polyline { fill: none; stroke-linejoin: round; }
+.burn .ideal { stroke: var(--gris-cl); stroke-width: 4; stroke-dasharray: 12 10; }
+.burn .real { stroke: var(--naranja); stroke-width: 9; stroke-dasharray: 100; stroke-dashoffset: 100; }
+section.on .burn .real { animation: traza 1.8s ease-out 1s both; }
+@keyframes traza { to { stroke-dashoffset: 0; } }
+.burn .pts circle { fill: var(--tinta); opacity: 0; }
+section.on .burn .pts circle { animation: aparece .3s 2.6s both; }
+@keyframes aparece { to { opacity: 1; } }
+.burn .nota { fill: var(--tinta); font-size: 24px; }
+.cap { height: 84px; border: 4px solid var(--tinta); margin-top: 18px; background: #fff; }
+.capb { height: 100%; background: var(--tinta); color: var(--papel); display: flex; align-items: center; padding-left: 20px; font-family: 'Anton', sans-serif; text-transform: uppercase; font-size: 34px; transform-origin: left; }
+.capb.ok { background: var(--naranja); color: #fff; }
+.frag.vis .capb { animation: barra .8s cubic-bezier(.2,.8,.2,1) both; }
+.frag.vis .cap + .cap .capb { animation-delay: .4s; }
 /* HUD */
 #hud { position: fixed; right: 14px; bottom: 10px; color: #aaa; font: 13px ui-monospace, Menlo, monospace; opacity: .0; transition: opacity .3s; z-index: 9; }
 body:hover #hud { opacity: .8; }
@@ -448,6 +486,120 @@ y qué tengo que hacer.
     <p class="frag an" style="text-align:center;margin-top:60px;font-size:60px">El tiempo que se libera es para <span class="hl">decidir</span>.</p>
   </div>
   <div class="pie"><span>Estimación del caso ficticio</span><span>@ia.cson</span></div>
+</section>
+
+<!-- 19b · NIVEL 2: LOS DATOS -->
+<section data-t="Nivel 2 · Los datos del proyecto" data-notes="«Si les sobra tiempo o lo quieren hacer en casa: en la carpeta datos/ del repo está TurnoYa entero, inventado pero coherente.» Nombrá 3 o 4 archivos. Todo se sube con el clip y alcanza con la cuenta gratuita. Cada ejercicio tiene al final «Ir más lejos» con pedidos listos.">
+  <div class="folio"><span class="an">El diario sin humo</span><i>Ir más lejos</i></div>
+  <div class="cont">
+    <div class="kick a">Nivel 2 · carpeta datos/</div>
+    <h2 class="a" style="--d:.15s">Todo el proyecto, en <span class="hl">planillas</span></h2>
+    <div class="grid g4" style="margin-top:46px;gap:30px">
+      <div class="card a dato" style="--an:cae;--d:.4s"><div class="an n"><span data-cuenta="181">0</span></div><h3>Historias</h3><p>con puntos, épica y responsable</p></div>
+      <div class="card a dato" style="--an:cae;--d:.5s"><div class="an n"><span data-cuenta="15">0</span></div><h3>Sprints</h3><p>comprometido, completado y burndown</p></div>
+      <div class="card a dato" style="--an:cae;--d:.6s"><div class="an n"><span data-cuenta="320">0</span></div><h3>Cargas de horas</h3><p>por persona, tarea y sprint</p></div>
+      <div class="card a dato" style="--an:cae;--d:.7s"><div class="an n"><span data-cuenta="69">0</span></div><h3>Bugs</h3><p>por severidad y plataforma</p></div>
+      <div class="card a dato" style="--an:cae;--d:.8s"><div class="an n"><span data-cuenta="1185">0</span></div><h3>Registros de turnos</h3><p>del piloto, por día, sede y canal</p></div>
+      <div class="card a dato" style="--an:cae;--d:.9s"><div class="an n"><span data-cuenta="155">0</span></div><h3>Tickets</h3><p>de la mesa de ayuda</p></div>
+      <div class="card a dato" style="--an:cae;--d:1s"><div class="an n"><span data-cuenta="150">0</span></div><h3>Encuestas</h3><p>de pacientes, con NPS</p></div>
+      <div class="card a dato" style="--an:cae;--d:1.1s"><div class="an n"><span data-cuenta="16">0</span></div><h3>Facturas</h3><p>y órdenes de compra para cruzar</p></div>
+    </div>
+  </div>
+  <div class="pie"><span>Todo ficticio · se sube con el clip</span><span>github.com/liacson-ops/taller-claude-sin-humo</span></div>
+</section>
+
+<!-- 19c · DASHBOARD DE PUNTOS -->
+<section class="k" data-t="Nivel 2 · Dashboard de puntos" data-notes="Hacelo en vivo si hay tiempo: subí sprints.csv, backlog.csv y burndown-sprint-14.csv y pegá el pedido de datos/README.md. Lo importante es la primera línea: «decime qué columnas encontraste» y la última: «mostrame los totales». Valores para chequear: velocidad promedio de los últimos 3 sprints cerrados = 26; Sprint 13 cumplió 28 de 31 (90 %); al 19/10 al Sprint 14 le faltan 15 puntos.">
+  <div class="folio"><span class="an">El diario sin humo</span><i>Ir más lejos</i></div>
+  <div class="cont">
+    <div class="kick a">Pedile un dashboard</div>
+    <h2 class="a" style="--d:.15s">Los <span class="hl">puntos</span>, en un tablero</h2>
+    <div class="grid" style="grid-template-columns:.9fr 1.1fr;gap:50px;margin-top:40px;align-items:start">
+      <div class="code a" style="--an:izq;--d:.4s;font-size:25px"><b>Te subo sprints.csv, backlog.csv
+y burndown-sprint-14.csv.</b>
+Primero decime qué columnas
+encontraste y cuántas filas.
+
+Armame un <b>dashboard interactivo</b>:
+velocidad por sprint, comprometido
+vs. completado, burndown del
+Sprint 14 y puntos por épica.
+Filtros por sprint y épica.
+
+<b>Mostrame los totales que usaste.</b></div>
+      <div class="tablero a" style="--an:der;--d:.6s">
+        <div class="kpis">
+          <div><small>Velocidad (últ. 3)</small><b><span data-cuenta="26">0</span> pts</b></div>
+          <div><small>Cumplimiento S13</small><b><span data-cuenta="90">0</span> %</b></div>
+          <div><small>Faltan en S14</small><b><span data-cuenta="15">0</span> pts</b></div>
+        </div>
+        <div class="vbars"><div class="vb" style="--i:0"><div class="vc" style="height:227px"></div><div class="vd" style="height:206px"></div><span>1</span></div><div class="vb" style="--i:1"><div class="vc" style="height:248px"></div><div class="vd" style="height:227px"></div><span>2</span></div><div class="vb" style="--i:2"><div class="vc" style="height:289px"></div><div class="vd" style="height:268px"></div><span>3</span></div><div class="vb" style="--i:3"><div class="vc" style="height:268px"></div><div class="vd" style="height:248px"></div><span>4</span></div><div class="vb" style="--i:4"><div class="vc" style="height:278px"></div><div class="vd" style="height:258px"></div><span>5</span></div><div class="vb" style="--i:5"><div class="vc" style="height:299px"></div><div class="vd" style="height:289px"></div><span>6</span></div><div class="vb" style="--i:6"><div class="vc" style="height:248px"></div><div class="vd" style="height:217px"></div><span>7</span></div><div class="vb" style="--i:7"><div class="vc" style="height:217px"></div><div class="vd" style="height:175px"></div><span>8</span></div><div class="vb" style="--i:8"><div class="vc" style="height:309px"></div><div class="vd" style="height:299px"></div><span>9</span></div><div class="vb" style="--i:9"><div class="vc" style="height:289px"></div><div class="vd" style="height:268px"></div><span>10</span></div><div class="vb" style="--i:10"><div class="vc" style="height:309px"></div><div class="vd" style="height:237px"></div><span>11</span></div><div class="vb" style="--i:11"><div class="vc" style="height:278px"></div><div class="vd" style="height:278px"></div><span>12</span></div><div class="vb" style="--i:12"><div class="vc" style="height:320px"></div><div class="vd" style="height:289px"></div><span>13</span></div></div>
+        <div class="ley"><i class="lc"></i>Comprometido <i class="ld"></i>Completado <span>Sprint →</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="pie"><span>datos/README.md · pedido 1</span><span>Revisá los totales contra la planilla</span></div>
+</section>
+
+<!-- 19d · BURNDOWN Y SPRINT 15 -->
+<section data-t="Nivel 2 · Burndown y Sprint 15" data-notes="El burndown sube el 13/10 (sale la integración real, entra la simulada) y el 19/10 (entra el hotfix de iOS, +3). Después preguntá: «Sprint 15: 34 puntos candidatos y 26 de capacidad. ¿Qué sacan?» Pedile a Claude dos alternativas sin cambiar los puntos. La respuesta razonable: dejar afuera el nuevo flujo de reprogramación (8).">
+  <div class="folio"><span class="an">El diario sin humo</span><i>Ir más lejos</i></div>
+  <div class="cont">
+    <div class="kick a">Sprint 14 · al lunes 19/10</div>
+    <h2 class="a" style="--d:.15s">El burndown <span class="hl">no miente</span></h2>
+    <div class="grid" style="grid-template-columns:1.15fr .85fr;gap:60px;margin-top:30px;align-items:center">
+      <svg class="burn a" style="--an:zoom;--d:.3s" viewBox="0 0 700 370">
+        <text x="40" y="328" text-anchor="end">0</text><line x1="50" x2="680" y1="320" y2="320" class="gl"/><text x="40" y="245" text-anchor="end">10</text><line x1="50" x2="680" y1="237" y2="237" class="gl"/><text x="40" y="161" text-anchor="end">20</text><line x1="50" x2="680" y1="153" y2="153" class="gl"/><text x="40" y="78" text-anchor="end">30</text><line x1="50" x2="680" y1="70" y2="70" class="gl"/><text x="60" y="352" text-anchor="middle">12</text><text x="128" y="352" text-anchor="middle">13</text><text x="196" y="352" text-anchor="middle">14</text><text x="264" y="352" text-anchor="middle">15</text><text x="332" y="352" text-anchor="middle">16</text><text x="400" y="352" text-anchor="middle">19</text><text x="468" y="352" text-anchor="middle">20</text><text x="536" y="352" text-anchor="middle">21</text><text x="604" y="352" text-anchor="middle">22</text><text x="672" y="352" text-anchor="middle">23</text>
+        <polyline class="ideal" points="60,72 128,100 196,127 264,155 332,182 400,210 468,238 536,265 604,293 672,320"/>
+        <polyline class="real" points="60,45 128,128 196,153 264,170 332,220 400,195" pathLength="100"/>
+        <g class="pts"><circle cx="60" cy="45" r="9"/><circle cx="128" cy="128" r="9"/><circle cx="196" cy="153" r="9"/><circle cx="264" cy="170" r="9"/><circle cx="332" cy="220" r="9"/><circle cx="400" cy="195" r="9"/></g>
+        <text x="142" y="106" class="nota">−13 +5</text>
+        <text x="390" y="171" class="nota">hotfix +3</text>
+      </svg>
+      <div>
+        <div class="frag">
+          <div class="kick">Sprint 15 · candidatos vs. capacidad</div>
+          <div class="cap"><div class="capb" style="width:100%"><span>34 pts candidatos</span></div></div>
+          <div class="cap"><div class="capb ok" style="width:76.5%"><span>26 de capacidad</span></div></div>
+        </div>
+        <p class="frag an" style="font-size:64px;margin-top:40px">Sobran <span class="hl">8 puntos</span>.<br>¿Qué sacás?</p>
+      </div>
+    </div>
+  </div>
+  <div class="pie"><span>datos/burndown-sprint-14.csv · sprints.csv</span><span>@ia.cson</span></div>
+</section>
+
+<!-- 19e · EL PILOTO -->
+<section class="n" data-t="Nivel 2 · El piloto en números" data-notes="Con piloto-turnos.csv y encuesta-pacientes.csv. 1.240 turnos por la app en septiembre (iOS 540, Android 512, web 188). Llamadas a recepción: 8.700 en agosto, 6.003 en septiembre, 31 % menos. Desde el 17/10 los iPhone no confirman: 31 confirmados el 16/10, 1 el 17, 0 el 18. El NPS de iOS pasa de +28 a −50. «Esto es lo que querés mostrar el jueves en la demo... y lo que no.»">
+  <div class="folio"><span class="an">El diario sin humo</span><i>Ir más lejos</i></div>
+  <div class="cont">
+    <div class="kick a">Piloto de TurnoYa · septiembre</div>
+    <h2 class="a" style="--d:.15s">Lo que dicen los <span class="hl">datos</span></h2>
+    <div class="grid g4" style="margin-top:56px;gap:34px">
+      <div class="card a" style="--an:cae;--d:.4s"><div class="an n"><span data-cuenta="1240">0</span></div><h3>Turnos por la app</h3><p>iOS 540 · Android 512 · Web 188</p></div>
+      <div class="card a" style="--an:cae;--d:.6s"><div class="an n">−<span data-cuenta="31">0</span> %</div><h3>Llamadas</h3><p>8.700 en agosto → 6.003 en septiembre</p></div>
+      <div class="card a" style="--an:cae;--d:.8s"><div class="an n">31 → 0</div><h3>Confirmados iOS</h3><p>del 16 al 18/10: el incidente</p></div>
+      <div class="card a" style="--an:cae;--d:1s"><div class="an n">+28 → −50</div><h3>NPS en iPhone</h3><p>antes y después del 17/10</p></div>
+    </div>
+    <p class="frag an" style="font-size:56px;margin-top:56px">Un dashboard no decide qué mostrar en la demo. <span class="hl">Vos sí.</span></p>
+  </div>
+  <div class="pie"><span>datos/piloto-turnos.csv · encuesta-pacientes.csv</span><span>Datos ficticios</span></div>
+</section>
+
+<!-- 19f · REVISÁ EL DASHBOARD -->
+<section class="k" data-t="Nivel 2 · Revisá el dashboard" data-notes="El cierre de nivel 2 y puente a la reflexión: un gráfico lindo también puede ser humo. Errores típicos con estos datos: confundir NPS (+22) con el promedio de puntajes (7,7); un día con 65 horas cargadas (era 6,5); las llamadas solo están en las filas de Teléfono; octubre está incompleto. Regla: pedile la tabla de totales y compará contra la planilla.">
+  <div class="folio"><span class="an">El diario sin humo</span><i>Ir más lejos</i></div>
+  <div class="cont">
+    <div class="kick a">Antes de mandarlo</div>
+    <h2 class="a" style="--d:.15s">Un gráfico lindo también <span class="hl">puede mentir</span></h2>
+    <div class="grid g2" style="margin-top:50px;gap:34px">
+      <div class="frag card"><span class="num">?</span><h3>¿El NPS es el promedio?</h3><p>No. NPS +22 no es «7,7 sobre 10».</p></div>
+      <div class="frag card"><span class="num">?</span><h3>¿Alguien trabajó 65 horas?</h3><p>Un dato raro se busca en el origen, no se grafica.</p></div>
+      <div class="frag card"><span class="num">?</span><h3>¿Octubre bajó?</h3><p>Está incompleto. Comparar meses enteros.</p></div>
+      <div class="frag card"><span class="num">✓</span><h3>Pedí la tabla de totales</h3><p>Y compará contra la planilla. Siempre.</p></div>
+    </div>
+  </div>
+  <div class="pie"><span>Cada ejercicio: «Ir más lejos» al final del README</span><span>@ia.cson</span></div>
 </section>
 
 <!-- 20 · EL FEED -->
