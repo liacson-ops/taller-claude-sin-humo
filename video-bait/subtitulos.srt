@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:02,383
+¿Viste esos reels que dicen:
+
+2
+00:00:02,383 --> 00:00:06,016
+comentá una palabra y te mando la guía?
+
+3
+00:00:06,016 --> 00:00:07,566
+Antes de comentar,
+
+4
+00:00:07,566 --> 00:00:09,533
+pasalo por cuatro preguntas.
+
+5
+00:00:09,533 --> 00:00:11,916
+Uno: ¿dice qué tarea concreta
+
+6
+00:00:11,916 --> 00:00:15,133
+mejora? Un sistema no es una tarea.
+
+7
+00:00:15,133 --> 00:00:17,933
+Dos: ¿tiene una fuente que puedas
+
+8
+00:00:17,933 --> 00:00:19,483
+abrir? Un enlace,
+
+9
+00:00:19,483 --> 00:00:21,450
+un estudio, algo real.
+
+10
+00:00:21,450 --> 00:00:23,833
+Tres: ¿muestra cómo se hace,
+
+11
+00:00:23,833 --> 00:00:26,216
+o solo promete el resultado?
+
+12
+00:00:26,216 --> 00:00:29,016
+Cuatro: ¿te pide algo a cambio?
+
+13
+00:00:29,016 --> 00:00:30,566
+Acá, un comentario.
+
+14
+00:00:30,566 --> 00:00:32,950
+Si falla dos o más,
+
+15
+00:00:32,950 --> 00:00:35,333
+tiene el patrón del anzuelo.
+
+16
+00:00:35,333 --> 00:00:38,966
+Ojo: pedir un comentario no lo vuelve falso.
+
+17
+00:00:38,966 --> 00:00:41,766
+Instagram mismo dijo que el problema
+
+18
+00:00:41,766 --> 00:00:44,566
+es buscar solo cantidad de interacciones.
+
+19
+00:00:44,566 --> 00:00:46,116
+Comentá si querés,
+
+20
+00:00:46,116 --> 00:00:48,083
+pero leé la guía.
+
+21
+00:00:48,083 --> 00:00:50,466
+Si no te dice qué
+
+22
+00:00:50,466 --> 00:00:52,849
+hace, cómo, ni de dónde
+
+23
+00:00:52,849 --> 00:00:54,399
+sale, era anzuelo.
+
+24
+00:00:54,399 --> 00:00:58,866
+Los ejercicios sin humo están en el repo del taller.
+
