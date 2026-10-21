@@ -39,5 +39,5 @@ Comentá si querés, pero leé la guía. Si no dice qué hace, cómo ni de dónd
 
 **01:17 – 01:21**  
 Ejercicio seis del taller. Sin humo. Esta vez, literal.
-*(pausa de 1 s: suena el detector)*
+*(pausa de 1 s: el detector se durmió)*
 
