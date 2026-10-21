@@ -1,96 +1,148 @@
 1
-00:00:00,000 --> 00:00:02,383
-¿Viste esos reels que dicen:
+00:00:00,000 --> 00:00:02,035
+¿Viste esos reels de “comentá
 
 2
-00:00:02,383 --> 00:00:06,016
-comentá una palabra y te mando la guía?
+00:00:02,035 --> 00:00:04,071
+una palabra y te mando
 
 3
-00:00:06,016 --> 00:00:07,566
-Antes de comentar,
+00:00:04,071 --> 00:00:05,392
+la guía”? Escuchá.
 
 4
-00:00:07,566 --> 00:00:09,533
-pasalo por cuatro preguntas.
+00:00:05,392 --> 00:00:08,142
+Ese pitido es el detector de humo.
 
 5
-00:00:09,533 --> 00:00:11,916
-Uno: ¿dice qué tarea concreta
+00:00:09,142 --> 00:00:10,464
+Eso tiene nombre:
 
 6
-00:00:11,916 --> 00:00:15,133
-mejora? Un sistema no es una tarea.
+00:00:10,464 --> 00:00:11,785
+bait. En inglés,
 
 7
-00:00:15,133 --> 00:00:17,933
-Dos: ¿tiene una fuente que puedas
+00:00:11,785 --> 00:00:13,821
+carnada. Lo que le ponés
 
 8
-00:00:17,933 --> 00:00:19,483
-abrir? Un enlace,
+00:00:13,821 --> 00:00:16,571
+al anzuelo para que el pez muerda.
 
 9
-00:00:19,483 --> 00:00:21,450
-un estudio, algo real.
+00:00:16,971 --> 00:00:19,007
+Y el pez sos vos.
 
 10
-00:00:21,450 --> 00:00:23,833
-Tres: ¿muestra cómo se hace,
+00:00:19,007 --> 00:00:21,399
+Engagement bait: te piden un comentario
 
 11
-00:00:23,833 --> 00:00:26,216
-o solo promete el resultado?
+00:00:21,399 --> 00:00:23,435
+o un like para ganar
 
 12
-00:00:26,216 --> 00:00:29,016
-Cuatro: ¿te pide algo a cambio?
+00:00:23,435 --> 00:00:25,114
+alcance, y a veces,
 
 13
-00:00:29,016 --> 00:00:30,566
-Acá, un comentario.
+00:00:25,114 --> 00:00:26,435
+a cambio, nada.
 
 14
-00:00:30,566 --> 00:00:32,950
-Si falla dos o más,
+00:00:27,035 --> 00:00:29,071
+Probemos con el reel típico.
 
 15
-00:00:32,950 --> 00:00:35,333
-tiene el patrón del anzuelo.
+00:00:29,271 --> 00:00:30,949
+Uno: ¿qué tarea mejora?
 
 16
-00:00:35,333 --> 00:00:38,966
-Ojo: pedir un comentario no lo vuelve falso.
+00:00:30,949 --> 00:00:32,985
+“Un sistema”. Ajá. Muy específico.
 
 17
-00:00:38,966 --> 00:00:41,766
-Instagram mismo dijo que el problema
+00:00:33,685 --> 00:00:36,078
+Dos: ¿hay una fuente que puedas
 
 18
-00:00:41,766 --> 00:00:44,566
-es buscar solo cantidad de interacciones.
+00:00:36,078 --> 00:00:37,757
+abrir? “Confiá en mí”
 
 19
-00:00:44,566 --> 00:00:46,116
-Comentá si querés,
+00:00:37,757 --> 00:00:39,435
+no es una fuente.
 
 20
-00:00:46,116 --> 00:00:48,083
-pero leé la guía.
+00:00:40,135 --> 00:00:42,171
+Tres: ¿muestra cómo se hace?
 
 21
-00:00:48,083 --> 00:00:50,466
-Si no te dice qué
+00:00:42,171 --> 00:00:44,564
+Mucho resultado, cero proceso. Pura magia.
 
 22
-00:00:50,466 --> 00:00:52,849
-hace, cómo, ni de dónde
+00:00:45,264 --> 00:00:47,657
+Cuatro: ¿te pide algo a cambio?
 
 23
-00:00:52,849 --> 00:00:54,399
-sale, era anzuelo.
+00:00:47,657 --> 00:00:49,692
+Sí: comentar la palabra mágica.
 
 24
-00:00:54,399 --> 00:00:58,866
-Los ejercicios sin humo están en el repo del taller.
+00:00:50,392 --> 00:00:52,428
+Dos o más y suena
+
+25
+00:00:52,428 --> 00:00:54,464
+la alarma. Cuatro de cuatro:
+
+26
+00:00:54,464 --> 00:00:56,142
+esto es un incendio.
+
+27
+00:00:58,142 --> 00:01:00,892
+Ojo: pedir un comentario no lo vuelve
+
+28
+00:01:00,892 --> 00:01:03,285
+falso. Si la guía es buena,
+
+29
+00:01:03,285 --> 00:01:04,964
+el detector se calla.
+
+30
+00:01:04,964 --> 00:01:07,357
+Instagram: es bait si el único
+
+31
+00:01:07,357 --> 00:01:09,035
+fin es juntar interacciones.
+
+32
+00:01:09,535 --> 00:01:10,857
+Comentá si querés,
+
+33
+00:01:10,857 --> 00:01:12,535
+pero leé la guía.
+
+34
+00:01:12,535 --> 00:01:14,571
+Si no dice qué hace,
+
+35
+00:01:14,571 --> 00:01:16,964
+cómo ni de dónde sale: bait.
+
+36
+00:01:17,564 --> 00:01:19,242
+Ejercicio seis del taller.
+
+37
+00:01:19,242 --> 00:01:21,278
+Sin humo. Esta vez, literal.
 
